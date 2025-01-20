@@ -1,0 +1,501 @@
+Colaborador_ID,Loja_ID,Nome,Função,Horas Trabalhadas Semanais,Avaliação de Desempenho,Vendas Realizadas,Naturalidade
+1,576,Helena-Érica Torres,Caixa,26,2.47,183,Lamego
+2,149,Sara Freitas,Caixa,20,4.7,143,Ponta Delgada
+3,701,Ariana Carneiro-Alves,Gerente,27,3.06,85,Pedrógão Grande
+4,343,Carolina Baptista,Gerente,40,2.99,50,Albufeira
+5,150,Francisco Esteves,Vendedor,27,4.53,129,Santa Cruz das Flores
+6,888,Camila Tavares,Operário,23,2.46,41,Ribeira Grande
+7,197,Mauro Assunção-Brito,Caixa,37,2.93,43,Torres Vedras
+8,45,Jéssica Azevedo,Caixa,26,3.77,44,Amadora
+9,220,Fábio do Valente,Caixa,22,3.68,52,Arganil
+10,327,Diogo Amaral,Caixa,39,1.92,87,Ponta Delgada
+11,100,Salomé Tavares,Vendedor,32,2.82,37,Vila do Porto
+12,655,Carlos Abreu,Caixa,20,2.45,121,Tavira
+13,81,Madalena Simões-Macedo,Operário,28,4.84,76,Vidigueira
+14,448,Lorena-Ângela Gaspar,Vendedor,32,4.52,48,Funchal
+15,346,Alícia Sá,Vendedor,33,3.32,70,Reguengos de Monsaraz
+16,785,Lúcia de Moreira,Operário,21,2.31,38,Barreiro
+17,347,Catarina Miranda,Caixa,36,3.0,30,Cascais
+18,841,Helena Magalhães,Operário,27,4.1,117,Castro Marim
+19,380,Mauro Alves-Coelho,Caixa,39,4.04,166,Alcoutim
+20,247,Diego Ribeiro,Caixa,27,2.37,128,Lagos
+21,82,Lia Lima,Gerente,36,2.77,114,Tavira
+22,161,Diogo Pereira,Vendedor,37,4.55,149,Almada
+23,340,Nuno Neto,Gerente,24,1.18,61,Amadora
+24,582,Leonor Ferreira,Operário,26,1.91,41,Penalva do Castelo
+25,839,Cristiano Amaral-Garcia,Operário,38,1.12,33,Fafe
+26,992,Diogo Macedo,Caixa,20,4.04,176,Lagos
+27,991,Matias Leal-Tavares,Caixa,34,1.38,122,Nelas
+28,917,Mara Coelho,Gerente,40,1.95,132,Azambuja
+29,690,Vitória Freitas,Caixa,39,2.0,152,Alcácer do Sal
+30,280,Kyara da Carvalho,Vendedor,32,3.77,155,Arruda dos Vinhos
+31,362,Hugo Araújo,Caixa,30,1.44,131,Alvito
+32,663,Iara Coelho,Gerente,29,2.13,200,Vila do Corvo
+33,998,Cristiano Torres,Gerente,39,2.78,67,Arouca
+34,261,Lourenço Batista,Gerente,32,4.72,42,Vila do Corvo
+35,308,Leonor-Pilar Pinheiro,Operário,21,1.22,84,Penafiel
+36,408,Bárbara Leal-Moreira,Operário,25,1.15,197,Ponte da Barca
+37,566,Lia da Magalhães,Operário,30,1.86,139,Setúbal
+38,359,Tatiana Mota,Caixa,35,2.46,190,Oliveira de Azeméis
+39,783,Yara-Camila Ferreira,Vendedor,25,4.29,23,Penamacor
+40,969,Isaac Azevedo,Caixa,36,2.82,167,Ílhavo
+41,538,Valentim Correia,Operário,31,3.34,37,Moura
+42,690,Marco Nascimento,Caixa,29,2.76,128,Alcácer do Sal
+43,221,Lucas Barbosa,Gerente,25,4.69,31,Mondim de Basto
+44,738,Daniel Rocha,Vendedor,29,1.87,142,Monchique
+45,902,Sofia Fernandes,Caixa,29,1.1,182,Braga
+46,185,Tomás Figueiredo,Gerente,29,2.26,69,Vila Franca de Xira
+47,595,Gustavo Alves,Gerente,26,1.54,136,Vila Franca do Campo
+48,780,Afonso Domingues,Gerente,20,1.76,97,Olhão
+49,138,Pedro Leal,Gerente,26,4.92,26,Penafiel
+50,929,Victória Marques,Operário,33,2.94,34,Vila do Bispo
+51,866,Camila Rocha,Vendedor,29,1.71,101,Lajes das Flores
+52,22,Carminho Amaral,Gerente,23,4.88,67,Portimão
+53,933,Ângelo Macedo,Caixa,33,4.91,157,Esposende
+54,446,Joaquim do Barros,Gerente,37,3.4,196,Estremoz
+55,709,Letícia Loureiro,Vendedor,22,2.81,186,Ponta Delgada
+56,676,Sara Moreira,Vendedor,28,2.27,90,Angra do Heroísmo
+57,342,Nair-Eva Paiva,Operário,34,3.87,150,Alcobaça
+58,180,Sebastião Borges,Vendedor,38,4.78,180,Ponta Delgada
+59,626,Mia-Clara Loureiro,Caixa,35,2.79,91,Albufeira
+60,756,David Monteiro,Caixa,34,4.58,149,Guimarães
+61,16,Ângelo Freitas,Vendedor,32,2.53,39,Anadia
+62,351,Patrícia Paiva,Vendedor,30,2.58,49,São João da Madeira
+63,574,Laura Nascimento,Gerente,31,4.17,177,Paredes de Coura
+64,517,David Amorim-Ferreira,Gerente,35,3.29,116,Azambuja
+65,77,Mafalda Vaz,Caixa,40,4.08,197,Funchal
+66,353,Maria Moura,Gerente,33,3.62,179,Vila Real
+67,518,Alexandre Oliveira,Caixa,38,1.94,135,Sintra
+68,229,Rita Fernandes-Ramos,Operário,28,1.24,104,Peniche
+69,578,Sofia Lourenço,Vendedor,29,3.82,163,Alcácer do Sal
+70,485,Victória Barros-Pereira,Caixa,35,2.72,86,Batalha
+71,727,Jaime do Barros,Operário,21,2.75,176,Almada
+72,172,Ana Pacheco,Gerente,23,3.53,184,Ponta Delgada
+73,339,Amélia Rodrigues,Vendedor,21,1.93,77,Lourinhã
+74,471,Erica Correia,Caixa,26,3.89,22,Lagoa
+75,71,Lourenço Fernandes,Operário,21,2.1,150,Sines
+76,852,Cláudio Gonçalves,Gerente,38,3.33,34,Angra do Heroísmo
+77,256,Miriam Gaspar-Amaral,Caixa,38,2.88,79,Castelo Branco
+78,188,Marco Loureiro,Vendedor,21,1.5,196,Ponta Delgada
+79,865,Renata Cruz,Caixa,20,3.43,115,Santa Cruz da Graciosa
+80,492,Sofia Machado,Caixa,40,3.14,87,Ponte da Barca
+81,372,Diana Pinheiro,Vendedor,27,1.64,42,Oliveira do Hospital
+82,9,Irina Domingues-Amorim,Caixa,30,4.92,74,Tavira
+83,536,Sandro Pereira,Caixa,24,4.72,82,Setúbal
+84,36,Diego Esteves,Vendedor,22,3.39,110,Vila Franca de Xira
+85,839,Duarte Mota,Gerente,35,4.6,178,Santiago do Cacém
+86,274,Nicole Abreu,Operário,38,5.0,140,Santiago do Cacém
+87,64,Benedita Melo,Operário,22,4.53,96,Fafe
+88,712,Anita-Nicole Carneiro,Gerente,34,4.25,183,Caminha
+89,251,Erica do Teixeira,Operário,36,3.7,11,Aljezur
+90,566,Luana Barros,Operário,32,3.05,128,Olhão
+91,707,Isabela Martins-Martins,Caixa,35,4.03,78,Horta
+92,108,Alice Barros,Caixa,20,3.02,168,Vila Verde
+93,55,Rafael Magalhães,Gerente,27,2.81,31,Braga
+94,953,Sérgio do Moura,Gerente,23,2.53,197,Murtosa
+95,476,Mélanie Domingues-Baptista,Gerente,38,4.86,140,Machico
+96,85,Kyara-Isabel Costa,Gerente,22,3.45,77,Ponta Delgada
+97,698,Diogo Macedo,Gerente,24,3.93,164,São Brás de Alportel
+98,336,Letícia Costa,Gerente,30,4.0,148,Felgueiras
+99,693,Rafael Fernandes,Gerente,29,4.1,167,Bragança
+100,56,Mia Coelho,Caixa,22,4.4,36,Vila Verde
+101,258,Ariana Morais,Vendedor,20,2.05,178,Serpa
+102,973,Jorge Nunes,Caixa,35,1.71,132,Vila Nova de Famalicão
+103,436,Bryan Neves,Caixa,36,4.27,115,Almada
+104,219,Naiara Carneiro,Caixa,25,2.62,19,Machico
+105,701,Nair Assunção,Gerente,35,4.71,72,Horta
+106,977,Matias Miranda,Caixa,40,1.68,46,Maia
+107,242,Sara Borges,Vendedor,20,4.2,76,Vieira do Minho
+108,622,Raquel Coelho,Vendedor,34,2.43,171,Vila Real de Santo António
+109,764,Iara Amaral,Caixa,37,2.55,52,Palmela
+110,28,Eva Mota,Operário,38,2.8,67,Vila Real de Santo António
+111,947,Camila Carneiro,Gerente,30,4.37,42,Beja
+112,65,Camila-Mafalda Batista,Operário,21,3.24,149,Odivelas
+113,176,Emanuel Rodrigues,Vendedor,33,1.72,59,Felgueiras
+114,339,Pedro Tavares-Mota,Caixa,24,4.63,102,Portalegre
+115,550,João Figueiredo,Vendedor,38,1.24,157,Serpa
+116,739,Yasmin do Jesus,Caixa,32,1.02,142,Melgaço
+117,814,Renata-Violeta Borges,Operário,33,2.77,187,Funchal
+118,150,Gustavo de Pinto,Vendedor,39,2.24,197,Portalegre
+119,135,Letícia-Erica Lopes,Vendedor,27,2.4,111,Castro Verde
+120,422,Matilde do Figueiredo,Caixa,24,3.49,125,Monchique
+121,317,Kévim Batista,Caixa,24,3.36,68,Santa Cruz das Flores
+122,172,Alícia Marques,Caixa,36,4.56,103,Azambuja
+123,252,Alice Leal,Vendedor,27,2.17,155,Cuba
+124,467,Núria Pires,Vendedor,23,4.38,43,Lagos
+125,647,Vitória-Mia Miranda,Operário,36,4.83,28,Moimenta da Beira
+126,611,Victória-Bárbara Leal,Caixa,25,1.61,114,Setúbal
+127,921,Gabriela Pereira,Vendedor,26,4.04,139,Alcoutim
+128,316,Vítor Rocha,Gerente,30,3.3,161,Oeiras
+129,985,Madalena-Anita Pereira,Gerente,22,3.06,109,Beja
+130,264,Luna Pinto,Vendedor,24,4.6,159,Horta
+131,823,Hugo Moura,Caixa,21,2.76,184,Monchique
+132,768,Nuno Loureiro-Abreu,Vendedor,35,2.26,186,Mirandela
+133,548,Bárbara Amaral,Caixa,39,4.61,96,Azambuja
+134,438,Denis Pacheco,Caixa,40,1.94,172,Terras de Bouro
+135,17,Vitória Garcia,Vendedor,34,2.51,91,Ferreira do Alentejo
+136,283,Luna da Cunha,Vendedor,28,1.22,47,Aljezur
+137,960,Flor Moreira-Figueiredo,Caixa,40,4.91,13,Estremoz
+138,805,Alexandre Batista,Vendedor,31,3.88,50,Rio Maior
+139,618,Sara Costa,Operário,29,2.52,104,Vila do Corvo
+140,796,Denis Ferreira,Operário,34,1.76,136,Alcanena
+141,91,Leonor de Barbosa,Vendedor,40,2.48,199,Barrancos
+142,171,Beatriz-Soraia Pinto,Caixa,40,3.94,59,Palmela
+143,167,Júlia Carvalho,Operário,38,4.72,26,Vila Pouca de Aguiar
+144,437,Daniel Barbosa,Caixa,23,3.42,34,Velas
+145,18,Alícia Leal,Gerente,27,1.27,17,Barcelos
+146,971,Vítor Marques,Gerente,21,4.43,155,Setúbal
+147,604,Júlia Neto,Operário,26,3.42,150,Águeda
+148,317,Alexandre Jesus-Coelho,Gerente,34,2.79,27,Silves
+149,343,Flor-Teresa Lourenço,Gerente,28,1.74,168,Montemor-o-Velho
+150,771,Martim Barros,Vendedor,24,2.93,25,São Brás de Alportel
+151,280,Hugo Lourenço,Operário,37,2.71,89,Vila Franca do Campo
+152,975,Alexandre Pinho-Magalhães,Caixa,40,4.5,132,Aljustrel
+153,675,Benjamim Vieira,Vendedor,30,4.55,71,Machico
+154,596,Ariana Rocha,Caixa,25,4.09,87,Viana do Castelo
+155,846,Juliana Carneiro,Vendedor,27,3.31,44,Terras de Bouro
+156,937,Fernando Andrade,Vendedor,20,1.78,26,Guimarães
+157,444,Samuel Andrade,Gerente,22,3.89,30,Aljezur
+158,866,Pilar Nunes,Vendedor,40,1.33,170,Odemira
+159,16,Lara Anjos,Operário,23,4.88,36,Mirandela
+160,211,Benedita Carneiro,Operário,28,3.5,125,Lajes das Flores
+161,191,Melissa-Clara Simões,Vendedor,26,4.63,62,Vila do Porto
+162,694,Vera Henriques,Gerente,38,2.89,151,Mora
+163,275,Afonso Barbosa,Caixa,26,4.89,168,Silves
+164,515,Débora Gomes,Caixa,26,1.14,89,Amadora
+165,447,Maria-Nicole Sousa,Caixa,29,4.05,173,Portimão
+166,760,Marco Nogueira,Gerente,37,1.36,178,Benavente
+167,317,Sérgio Figueiredo,Operário,35,3.65,95,Vila Franca do Campo
+168,136,Luana Costa,Caixa,32,4.13,73,Leiria
+169,79,Bruno Correia,Vendedor,40,1.93,80,Horta
+170,671,Jaime Cunha,Operário,34,1.61,92,Praia da Vitória
+171,116,Ema Gomes,Operário,23,3.74,167,Loures
+172,739,Ivan da Amorim,Vendedor,32,4.4,173,São Brás de Alportel
+173,584,Sandro Abreu,Operário,23,2.48,51,Melgaço
+174,113,Gaspar Amorim,Gerente,31,4.4,51,Alvito
+175,201,Igor do Macedo,Gerente,35,4.88,49,Mértola
+176,191,Pilar de Oliveira,Caixa,34,4.33,46,Azambuja
+177,738,Rita Abreu,Vendedor,24,3.88,119,São Brás de Alportel
+178,649,Marta Moura,Vendedor,33,3.91,70,Santa Cruz da Graciosa
+179,712,Eduarda-Victória Neves,Caixa,25,4.52,33,Guimarães
+180,365,Edgar Leite,Vendedor,29,1.59,39,Portimão
+181,495,Mafalda-Erica Matos,Vendedor,21,1.25,176,Sobral de Monte Agraço
+182,32,Mara do Pinheiro,Vendedor,33,2.45,85,Amadora
+183,815,Carminho Jesus,Operário,38,4.26,94,Lagos
+184,817,Marcos Domingues-Alves,Operário,37,4.46,64,Velas
+185,263,Filipa Simões-Pinheiro,Operário,31,4.35,113,São Brás de Alportel
+186,337,Henrique Coelho,Vendedor,32,1.55,196,Guimarães
+187,746,Ema Ramos-Castro,Operário,34,3.91,12,Barreiro
+188,510,Teresa Fernandes,Gerente,28,2.27,149,Redondo
+189,174,Petra Monteiro,Caixa,37,2.09,40,Horta
+190,260,Juliana Nunes,Vendedor,36,3.04,96,Ponta Delgada
+191,26,Jéssica Amorim-Magalhães,Vendedor,29,3.72,183,Mértola
+192,641,Salomé Brito,Vendedor,25,1.05,118,Silves
+193,729,Tomás Ribeiro,Gerente,25,1.98,58,Odemira
+194,926,Raquel Nogueira,Gerente,38,2.86,59,Redondo
+195,705,Bruna Freitas-Neto,Caixa,31,3.76,113,Palmela
+196,403,Sérgio Gonçalves,Vendedor,40,3.67,80,Amares
+197,169,Leonor do Garcia,Caixa,39,1.29,43,Ponte de Lima
+198,4,Gustavo Morais,Operário,36,4.83,106,Maia
+199,765,Gil Matias,Operário,34,1.08,17,Vila Nova de Famalicão
+200,49,Nuno Cardoso-Andrade,Vendedor,34,1.2,56,Mafra
+201,853,André Almeida,Vendedor,22,1.8,193,Castro Marim
+202,369,Duarte Jesus,Vendedor,33,2.84,119,Vila do Porto
+203,129,Luca Ribeiro,Vendedor,34,2.9,176,Moura
+204,554,Caetana-Isabel Andrade,Gerente,36,3.78,139,Loulé
+205,372,Luís Matias-Mota,Gerente,33,3.49,115,Almodôvar
+206,162,Irina Leal,Operário,26,4.72,107,Santa Cruz da Graciosa
+207,288,Isabel Moreira,Vendedor,20,1.34,104,Ponte de Sor
+208,91,Isaac Santos,Vendedor,26,3.19,84,Seia
+209,348,Fabiana Ribeiro,Operário,25,3.79,186,Olhão
+210,454,Renata Domingues,Operário,27,3.29,113,Lourinhã
+211,716,Márcio Pereira,Vendedor,21,2.93,118,Lagoa
+212,822,André Machado,Operário,40,3.36,31,Portalegre
+213,817,Maria Garcia,Caixa,29,3.42,56,Azambuja
+214,393,Luísa Guerreiro,Vendedor,36,2.56,95,Benavente
+215,186,Tomé Valente,Operário,26,1.59,127,Oliveira do Bairro
+216,749,Sandro Loureiro-Mendes,Vendedor,29,1.91,153,Benavente
+217,669,David Oliveira,Gerente,38,4.96,17,Almada
+218,581,André Carneiro,Operário,37,3.59,80,Angra do Heroísmo
+219,184,Salomé Guerreiro-Borges,Operário,29,1.05,171,Loures
+220,369,Núria Rodrigues,Gerente,20,1.14,56,Alcácer do Sal
+221,374,Alexandre Azevedo,Operário,22,1.2,16,Ponte de Sor
+222,775,Tomé Oliveira,Vendedor,32,1.66,193,Lisboa
+223,488,Luciana-Marta Reis,Gerente,37,4.7,199,Machico
+224,38,Kelly Amaral,Vendedor,20,3.23,195,Monchique
+225,537,Vera Valente,Vendedor,24,4.25,77,Vila do Porto
+226,691,Emma Leal,Operário,38,2.52,45,Torres Vedras
+227,505,Ivan Fernandes,Operário,23,1.86,185,Lajes do Pico
+228,149,Duarte Abreu-Mendes,Caixa,32,2.81,141,São Brás de Alportel
+229,54,António Marques-Nascimento,Caixa,36,4.77,195,Arouca
+230,547,David Coelho,Caixa,31,2.74,175,Melgaço
+231,428,Carlota Gomes,Vendedor,26,3.89,146,Grândola
+232,712,Emília Ribeiro,Vendedor,40,3.78,175,Cabeceiras de Basto
+233,716,Mauro Pinto,Vendedor,22,1.64,171,Velas
+234,42,Cláudio Faria,Caixa,25,1.78,59,Velas
+235,514,Nuno Brito-Torres,Gerente,33,3.29,12,Horta
+236,454,Diego Machado,Operário,36,3.88,124,Ponta Delgada
+237,164,Luciana Gomes,Caixa,33,2.12,199,Lagos
+238,314,Sérgio Vaz,Gerente,24,2.05,78,Ribeira Grande
+239,718,Mateus Ribeiro,Vendedor,21,2.02,22,Tavira
+240,129,Lia Alves-Cunha,Operário,27,4.67,36,Sintra
+241,329,Juliana Maia,Gerente,22,4.34,11,Sobral de Monte Agraço
+242,865,Lara Alves,Caixa,28,2.98,93,Aljezur
+243,552,Ivo Neves-Miranda,Caixa,32,2.03,189,Aveiro
+244,242,Nicole Matos,Caixa,22,1.06,106,Vila Franca do Campo
+245,458,Brian Melo,Gerente,26,1.77,36,Alcácer do Sal
+246,242,Kelly Faria-Loureiro,Operário,25,1.05,180,Anadia
+247,370,Igor Antunes,Vendedor,30,3.28,66,Ferreira do Alentejo
+248,900,Rafaela Rocha,Gerente,40,3.47,177,São Brás de Alportel
+249,450,Gaspar Pinto-Machado,Vendedor,22,4.61,110,Gouveia
+250,155,Hugo Miranda,Caixa,21,4.88,131,Lajes do Pico
+251,611,Kévim Brito,Gerente,32,1.4,89,Santa Cruz da Graciosa
+252,646,Mauro da Mota,Caixa,27,3.77,108,Lagos
+253,111,Joel Leal-Oliveira,Vendedor,24,3.34,37,Vagos
+254,799,Rui Machado,Operário,35,4.8,84,Santo Tirso
+255,67,Ricardo Vieira-Monteiro,Vendedor,40,4.74,87,Vila do Bispo
+256,630,Ariana Jesus,Gerente,40,1.54,133,Mafra
+257,923,Irina Guerreiro,Operário,38,4.71,125,Vouzela
+258,631,Anita Ramos,Operário,22,4.04,131,Funchal
+259,875,Xavier Miranda,Gerente,27,4.27,173,Odemira
+260,15,Tomé Vieira-Simões,Vendedor,20,2.76,12,Silves
+261,383,Jéssica do Nascimento,Vendedor,33,1.16,29,Vila do Bispo
+262,27,Mara Pires,Vendedor,38,2.06,150,Lourinhã
+263,366,Nair Machado,Operário,35,3.17,28,Velas
+264,541,Melissa Soares,Operário,24,2.82,174,Trancoso
+265,569,Leonor Carneiro,Gerente,23,4.04,97,Ourique
+266,52,Beatriz Fonseca,Caixa,30,1.83,38,Lagos
+267,853,Lucas Barros,Gerente,20,3.7,101,Alenquer
+268,775,Irina Azevedo,Gerente,28,1.88,148,Faro
+269,600,Vera Borges,Caixa,39,3.42,51,Ponte de Sor
+270,368,Yara Cruz,Operário,24,3.36,194,Cabeceiras de Basto
+271,655,Marcos Abreu,Operário,25,2.7,111,Santa Cruz das Flores
+272,216,Vitória Azevedo,Vendedor,32,1.77,198,Santiago do Cacém
+273,89,Ângela Moreira,Vendedor,30,2.02,194,Aljezur
+274,444,Filipe Azevedo,Vendedor,25,2.8,131,Vila do Porto
+275,553,Leonor-Nair Azevedo,Caixa,26,2.01,41,Vila Nova de Famalicão
+276,20,Tomé Gaspar,Gerente,39,1.78,99,Horta
+277,780,Sérgio Miranda,Operário,26,4.04,30,Terras de Bouro
+278,641,Francisco de Pinto,Vendedor,34,1.44,42,Monchique
+279,26,Joel do Brito,Vendedor,25,3.95,147,Viana do Alentejo
+280,707,Pilar Carvalho,Caixa,34,2.08,123,Lagoa
+281,38,Enzo da Brito,Gerente,28,5.0,190,Montijo
+282,466,David Torres,Gerente,38,4.34,97,Paredes
+283,731,Mariana Lima-Morais,Operário,34,2.0,54,Celorico de Basto
+284,967,Joaquim Vieira,Vendedor,36,4.25,105,Moura
+285,330,David Carneiro,Vendedor,38,3.46,72,Castro Verde
+286,302,Violeta Mota,Operário,26,4.29,188,Vila Real de Santo António
+287,31,Filipa do Pinto,Vendedor,34,4.8,173,Guarda
+288,879,Enzo Cunha,Operário,28,2.73,172,Estremoz
+289,470,Filipe Mendes,Operário,39,3.98,193,Alcoutim
+290,142,Rui de Cunha,Caixa,29,1.95,178,Paredes
+291,709,Helena Almeida,Gerente,25,3.89,159,Monchique
+292,212,José Antunes,Operário,21,3.26,86,Arruda dos Vinhos
+293,164,Vítor Loureiro,Caixa,35,3.94,75,Vila do Porto
+294,33,Violeta Gaspar,Gerente,24,4.67,59,Vila do Bispo
+295,635,Cristiano de Monteiro,Caixa,22,1.89,71,Mora
+296,816,Noah Vieira,Operário,22,4.2,32,Silves
+297,828,Adriana Nogueira-Pinho,Operário,27,4.59,163,Vila Real de Santo António
+298,686,Bruna Leite,Operário,31,2.74,133,Ílhavo
+299,428,Rodrigo Domingues,Gerente,23,2.13,140,Silves
+300,282,Ângela Andrade,Operário,37,1.5,152,Castro Daire
+301,667,Luana da Melo,Caixa,33,4.38,48,Celorico de Basto
+302,256,Vera Gaspar,Gerente,28,1.77,115,Almodôvar
+303,51,Raquel Gonçalves,Gerente,39,3.64,115,Mangualde
+304,541,Flor do Fernandes,Gerente,27,1.16,87,Montemor-o-Novo
+305,997,Íris Matos,Gerente,32,1.2,139,Albufeira
+306,944,Bárbara Paiva,Operário,22,4.31,78,Vila Nova de Poiares
+307,68,Eduarda-Emma Alves,Caixa,20,4.4,72,Alcobaça
+308,105,Sofia Sá,Vendedor,20,3.42,178,Vila Nova de Santo André
+309,572,Bruno Lima,Caixa,40,4.82,56,Santa Cruz da Graciosa
+310,37,Érica Mota,Caixa,36,4.96,20,Santa Cruz da Graciosa
+311,230,Mauro de Lourenço,Operário,37,3.02,160,Barreiro
+312,445,Leandro do Matos,Vendedor,31,3.11,140,Tavira
+313,245,Débora Borges,Caixa,24,1.38,178,Vila Viçosa
+314,908,Mélanie Domingues,Gerente,32,1.11,26,Ponte de Sor
+315,40,Wilson de Ferreira,Vendedor,40,2.56,173,Mafra
+316,804,Igor Ramos,Gerente,38,2.85,107,Montalegre
+317,474,Vicente Vaz,Vendedor,38,3.0,176,Lajes das Flores
+318,415,Naiara Costa-Mendes,Vendedor,26,3.02,193,Velas
+319,389,Leandro Leal,Vendedor,30,3.63,157,Vila Franca do Campo
+320,621,Tomé Nascimento,Operário,37,2.48,65,Oliveira do Hospital
+321,673,Marta Ribeiro,Vendedor,23,3.79,156,Cabeceiras de Basto
+322,2,Catarina Coelho-Abreu,Gerente,26,2.11,21,São Brás de Alportel
+323,391,Valentim Barros,Vendedor,39,1.73,81,Póvoa de Lanhoso
+324,998,Violeta-Érica Magalhães,Gerente,31,2.38,108,Santa Cruz da Graciosa
+325,137,Bianca-Erica Maia,Vendedor,21,4.99,179,Sesimbra
+326,71,Francisco Coelho,Operário,32,1.92,51,Portimão
+327,895,Pilar Esteves,Gerente,38,1.97,87,Vila do Porto
+328,82,Alexandre Mendes,Operário,36,2.34,50,Viana do Alentejo
+329,268,Rafael Almeida,Operário,32,2.61,174,Almodôvar
+330,12,Constança Carvalho-Morais,Vendedor,40,2.31,54,Paredes de Coura
+331,289,Helena Pacheco,Caixa,21,1.72,28,Valença
+332,837,Miguel Batista,Operário,20,1.81,37,Santa Cruz da Graciosa
+333,23,Catarina Teixeira,Caixa,34,1.31,83,Ferreira do Alentejo
+334,990,Filipa Macedo,Caixa,35,3.29,195,Vila do Porto
+335,251,Leandro Garcia,Operário,26,3.96,119,Ponta Delgada
+336,448,Alexandra Santos,Vendedor,32,2.78,34,Lisboa
+337,637,Kévim Valente,Caixa,37,1.38,12,Sintra
+338,9,Leandro Pacheco,Operário,24,3.38,38,Cuba
+339,958,Sofia Coelho,Vendedor,40,3.71,135,Penedono
+340,822,Helena Vicente,Gerente,34,4.96,180,Póvoa de Lanhoso
+341,134,Vitória Alves,Gerente,32,4.01,28,Velas
+342,425,Yara Magalhães,Caixa,30,1.8,44,Vila Franca do Campo
+343,374,António Faria-Monteiro,Vendedor,20,2.96,84,Vila do Corvo
+344,931,Eduardo Moura,Gerente,25,2.44,185,Silves
+345,794,Yasmin de Maia,Operário,27,4.17,166,Tavira
+346,702,Enzo da Cruz,Operário,40,4.5,83,Vila do Bispo
+347,330,Alice Teixeira,Vendedor,36,2.02,146,Évora
+348,794,Kévim Nogueira,Gerente,39,3.57,96,Vidigueira
+349,132,Lorena Domingues,Gerente,35,4.69,61,Setúbal
+350,936,Henrique Henriques,Vendedor,31,2.3,90,Horta
+351,480,Kyara Baptista,Gerente,22,2.87,41,Castro Marim
+352,367,Irina Maia,Operário,25,2.81,155,Alenquer
+353,643,Sara da Costa,Vendedor,26,2.26,188,São Brás de Alportel
+354,197,Frederico Esteves,Gerente,22,3.77,150,Olhão
+355,825,Clara Gaspar,Caixa,20,1.88,189,Lagoa
+356,732,Bianca Anjos-Lourenço,Operário,25,1.89,24,Cabeceiras de Basto
+357,988,Tatiana Lourenço,Gerente,20,2.16,93,Moura
+358,330,Ariana Amorim,Vendedor,20,2.39,10,Vila Nova de Cerveira
+359,665,Salomé Moreira,Operário,30,4.7,194,Vila do Porto
+360,709,Diana-Marta Matias,Caixa,36,3.36,96,Vila Viçosa
+361,974,Carolina Assunção-Moura,Vendedor,23,3.63,14,Cuba
+362,972,Mia Teixeira,Caixa,28,2.77,123,Leiria
+363,734,Sara-Mara Pinto,Gerente,37,1.78,95,Loulé
+364,168,David Silva,Vendedor,20,1.93,120,Paredes
+365,212,Hugo Gonçalves,Vendedor,27,1.46,77,Vila do Porto
+366,22,Eduarda-Alexandra Barros,Gerente,23,2.83,11,Murtosa
+367,346,Cláudio Matias,Vendedor,25,4.74,152,Aveiro
+368,714,Flor do Borges,Caixa,33,2.4,141,Alenquer
+369,334,Nicole Barros-Cunha,Vendedor,40,4.95,138,Vidigueira
+370,421,Diana Castro,Vendedor,40,2.44,111,Montijo
+371,546,Eduarda Nascimento,Operário,30,4.77,186,Torres Vedras
+372,658,Cristiano Pereira,Operário,21,2.69,63,Sines
+373,226,Pilar Nunes,Caixa,29,2.62,103,Alcácer do Sal
+374,194,Dinis Valente,Vendedor,39,2.84,199,Alcoutim
+375,377,Leonardo Nascimento,Gerente,20,2.3,167,Angra do Heroísmo
+376,941,Naiara Barbosa,Caixa,35,4.54,52,Olhão
+377,800,Ângelo Pinho,Vendedor,20,2.0,183,Vila do Porto
+378,828,Noah Reis,Caixa,28,1.97,65,Almada
+379,324,Júlia Amorim,Operário,20,2.25,76,Reguengos de Monsaraz
+380,677,Soraia Nunes,Vendedor,26,3.3,87,Vila Nova de Famalicão
+381,57,Sebastião Figueiredo,Caixa,39,4.35,180,Penela
+382,79,Sandro Miranda,Operário,31,2.19,24,Moita
+383,890,Juliana Leite,Vendedor,23,3.51,142,Vila do Corvo
+384,872,Iara Carneiro,Gerente,32,4.45,131,Vila Franca do Campo
+385,184,Pilar de Borges,Gerente,29,3.03,83,Albufeira
+386,957,Amélia Araújo,Caixa,40,1.32,44,Fafe
+387,374,Rúben de Macedo,Gerente,26,1.39,16,Marinha Grande
+388,249,Lucas Vaz,Gerente,30,1.94,66,Terras de Bouro
+389,866,Mateus Brito,Vendedor,31,2.12,67,São Brás de Alportel
+390,510,Íris Figueiredo,Caixa,33,2.03,60,Montemor-o-Velho
+391,80,Íris do Azevedo,Caixa,33,2.32,13,Alvito
+392,284,Daniela Macedo,Operário,27,1.09,97,Valença
+393,27,Mateus Simões,Operário,30,1.43,109,São Brás de Alportel
+394,531,Júlia Marques,Vendedor,25,1.55,58,Arraiolos
+395,596,Simão Almeida,Gerente,22,3.23,23,Estarreja
+396,233,Emanuel Pinto,Vendedor,26,4.62,136,Ourique
+397,640,Mélanie Oliveira,Operário,26,1.74,31,Albufeira
+398,584,Yara Domingues,Operário,23,2.88,190,Oeiras
+399,201,Guilherme Amorim,Gerente,29,1.85,33,Aguiar da Beira
+400,199,Tiago do Branco,Caixa,40,3.45,97,Lourinhã
+401,176,Petra Rodrigues,Operário,22,4.29,42,Faro
+402,724,Fábio Paiva,Gerente,24,1.05,55,Alcácer do Sal
+403,15,Alice Sá,Vendedor,40,2.9,158,Funchal
+404,269,Joana Castro,Caixa,31,1.0,156,Vila do Porto
+405,870,Joana Alves,Gerente,40,2.08,28,Albufeira
+406,70,Leandro Miranda,Caixa,20,2.56,48,Cuba
+407,961,Caetana-Mélanie Freitas,Vendedor,22,4.03,147,Aljezur
+408,38,Luísa Gaspar-Pinheiro,Operário,29,2.35,139,Ponta Delgada
+409,556,Lucas Fonseca,Caixa,20,3.87,131,Santiago do Cacém
+410,90,Kévim Ribeiro,Gerente,28,1.29,35,Odemira
+411,533,Nádia Moura,Caixa,39,3.73,68,Ribeira Grande
+412,398,Leandro Sousa,Gerente,37,3.02,48,Castelo Branco
+413,979,Salomé Coelho-Moreira,Operário,36,3.5,29,Viana do Alentejo
+414,46,Paulo da Baptista,Gerente,40,1.99,59,Moita
+415,161,Ema Henriques,Vendedor,20,4.4,190,Melgaço
+416,560,Alícia Reis-Mendes,Vendedor,21,3.11,194,Vila do Bispo
+417,947,Isabela Moura,Caixa,20,3.74,10,Vila Nova de Famalicão
+418,337,Luís Ferreira,Operário,27,1.56,182,Cabeceiras de Basto
+419,945,Noa Sá,Operário,34,4.22,50,Santa Cruz da Graciosa
+420,956,Emma-Rafaela Cunha,Caixa,29,4.15,190,Ribeira Grande
+421,915,Nicole Fonseca,Caixa,36,4.59,101,Ferreira do Alentejo
+422,299,Luana Leal,Vendedor,37,3.02,80,Amadora
+423,497,Victória Ferreira,Caixa,37,1.72,154,Mafra
+424,387,Vera da Gaspar,Vendedor,21,3.25,17,Loulé
+425,823,Núria Leite,Gerente,33,3.92,127,Moura
+426,208,Martim Marques,Caixa,36,4.74,179,Ponta Delgada
+427,618,Kévim Martins-Torres,Vendedor,40,4.8,60,Pedrógão Grande
+428,337,Catarina Assunção,Vendedor,37,4.86,38,Valença
+429,43,Débora Batista,Vendedor,22,4.11,128,Sabugal
+430,27,Joaquim Martins,Gerente,22,3.32,63,Vila do Bispo
+431,985,Vera Gonçalves-Borges,Vendedor,24,3.3,70,Montijo
+432,612,Nádia Matias,Vendedor,24,2.93,196,Sever do Vouga
+433,503,Lúcia Teixeira,Vendedor,38,3.03,62,Celorico de Basto
+434,655,Filipa Lourenço,Vendedor,26,4.35,27,Murtosa
+435,963,Erika Batista,Operário,39,2.54,112,Amares
+436,236,Pilar Antunes-Barbosa,Vendedor,23,4.29,180,Angra do Heroísmo
+437,491,Carminho Nunes,Operário,31,4.38,121,Alenquer
+438,239,Gaspar Barbosa,Caixa,34,4.34,187,Castro Verde
+439,338,Dinis Amaral,Caixa,39,4.53,41,Vila Pouca de Aguiar
+440,957,Cláudio Sousa,Operário,23,2.33,132,Lajes das Flores
+441,290,Mélanie Sousa,Caixa,21,2.4,189,Praia da Vitória
+442,603,José Monteiro-Coelho,Caixa,40,1.35,147,Tavira
+443,451,Nelson Costa,Operário,34,1.66,80,Vila Velha de Ródão
+444,875,Diogo Valente,Operário,32,4.97,131,Porto de Mós
+445,291,Mateus Pinho-Lopes,Gerente,34,2.84,104,Vila Franca do Campo
+446,711,Carlos Azevedo,Gerente,26,2.05,119,Lagoa
+447,301,Constança Monteiro,Operário,26,2.53,100,Mogadouro
+448,661,Afonso Assunção-Henriques,Operário,31,2.4,75,Celorico de Basto
+449,599,Bruna Loureiro-Morais,Operário,27,4.01,90,Barreiro
+450,11,Miguel Paiva,Gerente,27,4.5,176,Portimão
+451,686,Mia Lima-Nunes,Operário,20,2.33,22,Alcanena
+452,598,Ariana Brito,Operário,20,1.19,120,Alvaiázere
+453,637,José Nascimento,Operário,21,4.88,130,Amadora
+454,678,Sebastião Fonseca-Matias,Gerente,28,1.14,57,Ponta Delgada
+455,56,Débora Loureiro,Vendedor,39,4.36,104,Vila do Porto
+456,851,Petra Figueiredo,Vendedor,21,4.76,144,Fafe
+457,236,Eduarda Amaral,Caixa,38,2.65,109,Montalegre
+458,586,David Ramos,Caixa,22,3.88,178,Baião
+459,731,Igor Sousa,Vendedor,27,4.26,73,Condeixa-a-Nova
+460,437,Simão Lima,Operário,32,3.1,61,Machico
+461,204,Cláudio Santos,Vendedor,36,3.47,97,Mealhada
+462,71,Henrique Castro,Operário,40,3.77,162,Mealhada
+463,687,Luísa Machado,Gerente,36,4.11,10,Velas
+464,716,Nair-Raquel Alves,Vendedor,20,3.39,117,Moura
+465,904,Laura da Freitas,Vendedor,38,4.51,70,Arruda dos Vinhos
+466,735,Ângelo Mota,Gerente,39,2.21,164,Aljezur
+467,693,Carlota Mota,Vendedor,26,1.91,138,Cascais
+468,445,Lúcia Marques,Vendedor,20,2.52,158,Condeixa-a-Nova
+469,270,Fernando da Soares,Vendedor,24,3.6,139,Bombarral
+470,526,Renata Sá,Caixa,24,3.13,42,Angra do Heroísmo
+471,907,Cristiano Rodrigues,Vendedor,22,1.48,183,Alenquer
+472,295,Rafaela Maia,Caixa,27,1.87,133,Horta
+473,351,Enzo Vieira,Gerente,38,3.29,160,Lisboa
+474,200,Márcio Assunção,Gerente,26,3.32,33,Alcanena
+475,73,Leonardo da Assunção,Gerente,21,1.71,196,Santa Cruz das Flores
+476,255,Andreia Vicente,Caixa,40,2.6,104,Santiago do Cacém
+477,464,Isaac Carvalho,Operário,27,1.71,10,Pombal
+478,898,Yara Batista,Gerente,33,3.28,150,Castro Marim
+479,69,Benjamim Vicente,Gerente,21,1.59,22,São Brás de Alportel
+480,766,Juliana Figueiredo-Soares,Vendedor,22,4.31,38,Alenquer
+481,483,Bernardo Correia,Caixa,21,3.6,33,Arraiolos
+482,112,Beatriz Valente,Operário,23,3.34,135,Estarreja
+483,351,Ricardo Mota,Vendedor,26,2.93,163,Lagos
+484,237,Helena Garcia,Vendedor,36,4.88,10,Portel
+485,537,Vera Fonseca,Vendedor,32,3.23,135,Velas
+486,500,Diogo Barros,Gerente,32,4.03,14,Santiago do Cacém
+487,238,Isabel Torres,Gerente,35,2.22,93,Aljustrel
+488,717,Luís de Borges,Caixa,23,1.47,121,Palmela
+489,359,Jorge Morais,Vendedor,32,3.55,54,Horta
+490,603,Mafalda Anjos,Gerente,24,2.65,27,Vila Real de Santo António
+491,752,Hugo Rocha,Gerente,36,3.69,160,Barcelos
+492,238,João Faria,Gerente,36,1.66,51,Albufeira
+493,886,Luna Vieira,Gerente,35,3.85,122,Sines
+494,227,Vicente Baptista,Gerente,34,1.1,190,Sobral de Monte Agraço
+495,522,Rafael Moura,Operário,32,2.75,40,Celorico de Basto
+496,755,Miriam Amaral,Gerente,39,4.19,109,Portimão
+497,116,Fábio Amorim,Operário,34,2.99,110,Olhão
+498,246,Tatiana Henriques,Gerente,29,3.9,195,Odivelas
+499,384,Rafaela Lopes,Gerente,20,5.0,52,Praia da Vitória
+500,406,Patrícia Pires,Caixa,32,3.71,21,Benavente

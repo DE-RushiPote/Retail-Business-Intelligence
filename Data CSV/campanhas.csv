@@ -1,0 +1,2000 @@
+Campanha_ID,Loja_ID,Nome,Canal,Investimento,Vendas Geradas,Data de Início,Data de Fim
+1,305,Direta Promoção Ecológica,Email Marketing,692.42,63,2024-10-26 12:42:16,2025-02-04 00:40:11
+2,42,Viral Campanha Inovação,Influenciadores,380.05,20,2016-05-08 01:42:49,2017-01-27 21:48:33
+3,857,Direta Campanha Desportiva,Email Marketing,751.13,0,2015-04-30 10:11:34,2015-08-26 22:39:41
+4,788,Direta Impacto Sustentável,Email Marketing,413.58,81,2019-03-12 03:04:00,2019-08-16 12:18:50
+5,757,Direta Promoção Fitness,Email Marketing,407.87,89,2015-08-07 06:25:03,2016-01-31 08:03:30
+6,175,Alvo Impacto Rural,Google Ads,275.97,0,2017-06-25 08:02:46,2017-10-28 18:28:55
+7,930,Viral Impacto Vintage,Influenciadores,601.48,222,2020-12-17 11:00:23,2021-08-30 21:03:35
+8,426,Direta Promoção Ecológica,Email Marketing,312.04,0,2015-10-30 15:28:34,2016-08-24 16:12:08
+9,980,Conectada Impacto Cultural,Redes Sociais,367.09,4,2021-03-20 11:45:21,2022-01-15 14:43:10
+10,233,Direta Campanha Digital,Email Marketing,585.75,72,2024-05-09 18:01:11,2025-03-05 16:40:56
+11,872,Alvo Impacto Nacional,Google Ads,201.94,27,2016-03-23 13:18:04,2016-10-06 01:04:26
+12,97,Conectada Impacto Desportiva,Redes Sociais,252.35,0,2023-11-18 12:44:10,2024-09-17 05:48:17
+13,340,Direta Promoção Artística,Email Marketing,221.66,0,2024-12-10 22:10:08,2025-06-30 19:22:37
+14,921,Direta Campanha Gourmet,Email Marketing,683.75,0,2020-03-25 23:11:25,2020-04-30 01:47:30
+15,622,Direta Campanha Nacional,Email Marketing,690.97,6,2019-08-26 15:11:59,2020-04-27 04:12:49
+16,440,Conectada Promoção De Luxo,Redes Sociais,674.32,172,2021-11-28 22:04:52,2022-10-23 11:26:28
+17,606,Alvo Promoção Retro,Google Ads,710.02,74,2016-04-15 13:14:49,2016-12-31 17:43:20
+18,17,Direta Impacto Cultural,Email Marketing,399.04,99,2022-06-16 15:04:37,2023-06-10 12:54:49
+19,513,Direta Promoção Artística,Email Marketing,229.43,0,2020-06-27 07:00:04,2020-10-15 09:35:06
+20,7,Conectada Campanha Artística,Redes Sociais,444.82,0,2014-04-12 09:20:58,2014-09-08 18:32:27
+21,163,Alvo Impacto Familiar,Google Ads,208.93,34,2017-01-04 22:33:16,2017-05-13 07:12:26
+22,509,Alvo Campanha Global,Google Ads,950.66,57,2016-08-09 16:26:19,2016-11-12 22:11:43
+23,564,Conectada Impacto Retro,Redes Sociais,829.56,32,2016-04-26 14:22:57,2016-11-01 08:15:06
+24,611,Viral Promoção Online,Influenciadores,479.41,18,2023-09-11 21:15:46,2024-07-29 03:16:25
+25,516,Viral Promoção Tradicional,Influenciadores,494.1,7,2019-07-10 02:16:31,2019-12-21 23:24:23
+26,901,Alvo Impacto Familiar,Google Ads,336.88,0,2023-04-19 01:06:11,2023-08-14 09:33:16
+27,24,Direta Promoção Tecnológica,Email Marketing,573.99,47,2018-02-19 08:12:26,2018-08-17 16:52:41
+28,879,Clássica Promoção Cultural,TV,383.5,71,2023-09-18 07:39:48,2024-05-23 19:26:36
+29,752,Clássica Impacto Urbana,TV,918.45,0,2022-09-19 15:46:06,2022-11-02 07:41:02
+30,342,Viral Campanha Local,Influenciadores,541.1,102,2024-07-17 18:23:33,2024-11-13 13:49:53
+31,358,Viral Campanha Rural,Influenciadores,269.34,0,2021-12-02 16:29:06,2022-02-25 03:40:13
+32,813,Conectada Campanha Familiar,Redes Sociais,520.65,0,2020-12-01 07:07:10,2021-11-20 00:23:35
+33,232,Alvo Promoção Vintage,Google Ads,493.51,0,2015-09-21 15:51:14,2015-12-05 17:27:57
+34,700,Direta Impacto Clássica,Email Marketing,827.45,91,2022-06-07 16:32:02,2023-02-03 00:52:57
+35,871,Alvo Campanha Digital,Google Ads,522.66,0,2016-10-02 23:10:04,2017-09-05 17:07:36
+36,9,Alvo Impacto Rural,Google Ads,584.93,45,2023-01-10 23:04:19,2023-06-29 07:54:40
+37,732,Conectada Impacto Artística,Redes Sociais,506.31,0,2020-10-13 05:54:48,2021-05-02 03:28:08
+38,794,Alvo Impacto Global,Google Ads,803.26,118,2014-08-26 21:51:01,2015-08-16 09:52:31
+39,412,Conectada Impacto Local,Redes Sociais,503.92,47,2023-11-26 17:49:21,2024-10-28 04:19:18
+40,624,Viral Promoção Sustentável,Influenciadores,824.65,0,2017-07-29 00:40:34,2018-03-30 16:05:21
+41,206,Alvo Impacto Nacional,Google Ads,539.28,23,2022-07-14 00:03:45,2022-11-28 09:18:00
+42,790,Clássica Campanha Retro,TV,900.9,57,2024-04-29 00:34:40,2024-08-14 02:20:05
+43,179,Direta Impacto Gourmet,Email Marketing,216.74,50,2017-10-04 11:05:39,2018-03-28 22:36:46
+44,343,Alvo Campanha Tradicional,Google Ads,990.33,24,2017-03-02 13:03:14,2017-07-04 06:41:21
+45,202,Alvo Promoção De Luxo,Google Ads,587.33,0,2024-06-26 13:31:16,2024-08-09 02:40:26
+46,179,Alvo Impacto Gourmet,Google Ads,809.06,24,2019-01-03 21:23:22,2019-03-05 21:20:56
+47,713,Viral Promoção Retro,Influenciadores,959.21,0,2018-11-04 19:54:34,2019-03-11 11:27:18
+48,198,Viral Impacto Digital,Influenciadores,725.07,109,2024-03-29 06:27:47,2025-03-11 19:21:58
+49,401,Direta Campanha De Luxo,Email Marketing,764.44,57,2014-03-22 17:20:09,2014-10-23 19:16:01
+50,306,Conectada Impacto Gourmet,Redes Sociais,987.61,0,2014-01-16 01:51:40,2014-03-10 18:02:33
+51,633,Clássica Promoção Rural,TV,585.74,26,2016-02-23 10:05:54,2016-04-07 14:43:43
+52,744,Conectada Promoção Gourmet,Redes Sociais,859.76,96,2015-04-07 08:40:19,2016-01-23 09:31:04
+53,579,Conectada Campanha Nacional,Redes Sociais,513.96,135,2014-05-04 19:14:04,2014-12-20 01:44:48
+54,926,Direta Impacto Global,Email Marketing,869.62,164,2022-01-21 01:20:00,2022-09-04 15:01:52
+55,263,Alvo Promoção Global,Google Ads,336.61,165,2017-01-15 00:00:30,2017-12-02 01:36:39
+56,600,Direta Promoção Cultural,Email Marketing,960.21,50,2017-05-12 03:15:21,2018-04-03 19:29:08
+57,385,Clássica Impacto Digital,TV,696.12,0,2024-12-31 20:14:08,2025-10-27 02:11:29
+58,766,Direta Campanha Gourmet,Email Marketing,680.91,0,2023-03-06 03:12:36,2023-12-05 23:19:39
+59,31,Conectada Campanha Contemporânea,Redes Sociais,256.96,46,2024-09-15 12:54:36,2025-09-11 20:21:15
+60,240,Conectada Campanha Local,Redes Sociais,380.65,154,2017-01-05 12:53:50,2017-07-10 12:46:30
+61,214,Clássica Campanha Contemporânea,TV,499.36,146,2021-01-22 06:15:08,2022-01-01 03:48:07
+62,482,Direta Promoção Sustentável,Email Marketing,608.22,0,2019-01-31 14:16:51,2019-11-29 21:11:21
+63,2,Conectada Promoção Ecológica,Redes Sociais,367.35,2,2014-11-23 11:20:32,2015-11-01 10:30:36
+64,782,Conectada Impacto Contemporânea,Redes Sociais,230.19,0,2014-07-02 09:30:25,2014-08-02 12:00:44
+65,65,Direta Campanha Cultural,Email Marketing,819.52,107,2020-11-29 13:30:24,2021-10-13 16:43:52
+66,180,Conectada Impacto Fitness,Redes Sociais,544.11,35,2014-07-08 12:52:58,2014-11-04 13:08:15
+67,103,Alvo Promoção Artística,Google Ads,960.41,92,2022-08-25 13:15:27,2023-04-16 17:52:35
+68,296,Conectada Campanha Familiar,Redes Sociais,683.06,0,2016-08-07 12:40:32,2016-12-09 09:59:35
+69,345,Viral Promoção Rural,Influenciadores,347.88,96,2015-06-21 13:31:27,2016-03-03 06:21:40
+70,930,Alvo Impacto Artística,Google Ads,874.25,56,2017-02-21 11:33:59,2017-09-26 18:45:44
+71,347,Clássica Campanha Familiar,TV,504.11,18,2019-09-16 03:54:07,2020-05-06 00:00:47
+72,820,Conectada Impacto Tradicional,Redes Sociais,530.38,0,2018-02-05 22:31:57,2018-08-25 22:35:36
+73,618,Clássica Promoção Contemporânea,TV,717.39,26,2016-05-09 09:38:20,2017-04-23 15:58:05
+74,16,Clássica Campanha Desportiva,TV,380.06,29,2020-06-17 05:06:20,2021-02-14 08:49:14
+75,891,Viral Campanha Clássica,Influenciadores,331.69,0,2020-02-14 10:14:03,2020-08-15 08:49:54
+76,464,Conectada Campanha Artística,Redes Sociais,268.97,183,2015-01-04 00:09:45,2015-08-01 19:26:59
+77,157,Clássica Impacto Tradicional,TV,621.63,114,2019-01-11 21:43:11,2019-07-07 03:19:13
+78,59,Viral Campanha Digital,Influenciadores,481.43,0,2019-09-02 18:54:18,2020-01-14 09:17:48
+79,619,Alvo Campanha De Luxo,Google Ads,646.77,0,2021-12-05 22:22:34,2022-04-07 11:20:12
+80,362,Conectada Campanha Contemporânea,Redes Sociais,972.37,0,2022-03-13 12:57:00,2022-07-19 04:52:55
+81,797,Viral Campanha Online,Influenciadores,982.05,152,2020-01-22 11:07:47,2020-09-26 00:12:27
+82,555,Viral Promoção Local,Influenciadores,396.58,0,2021-05-27 08:16:22,2021-12-25 21:08:55
+83,446,Alvo Impacto Fitness,Google Ads,654.04,0,2021-06-14 00:14:05,2021-09-01 14:25:02
+84,234,Viral Impacto Retro,Influenciadores,926.32,0,2014-05-04 18:21:33,2014-06-15 12:00:43
+85,553,Clássica Impacto Local,TV,979.45,0,2019-02-08 21:03:43,2019-04-17 23:41:30
+86,666,Clássica Impacto Tradicional,TV,769.46,0,2024-08-19 04:43:16,2025-01-08 05:46:48
+87,187,Alvo Impacto Rural,Google Ads,935.63,0,2020-04-22 14:44:11,2020-10-17 12:41:32
+88,303,Viral Promoção Gourmet,Influenciadores,463.44,0,2023-09-27 15:21:00,2024-07-16 18:45:36
+89,784,Viral Campanha Inovação,Influenciadores,416.43,12,2016-02-06 01:44:50,2016-04-02 21:54:02
+90,75,Alvo Promoção Global,Google Ads,828.35,90,2021-01-25 05:02:14,2021-08-31 00:18:14
+91,239,Conectada Promoção Familiar,Redes Sociais,388.31,36,2021-04-14 20:44:29,2021-07-31 02:41:50
+92,541,Alvo Campanha Gourmet,Google Ads,386.28,100,2017-06-23 11:22:23,2017-07-20 22:13:33
+93,733,Viral Campanha Retro,Influenciadores,355.98,0,2022-07-27 18:09:32,2023-01-17 16:06:18
+94,197,Alvo Campanha Ecológica,Google Ads,352.39,0,2016-12-17 02:47:15,2017-01-26 08:08:57
+95,89,Clássica Promoção Nacional,TV,236.18,0,2022-09-12 18:47:42,2022-12-07 14:16:36
+96,747,Conectada Campanha Cultural,Redes Sociais,575.26,170,2018-02-18 23:27:06,2018-11-02 12:11:46
+97,242,Conectada Impacto Global,Redes Sociais,955.37,0,2020-09-22 07:30:48,2020-10-10 05:57:43
+98,182,Conectada Impacto Cultural,Redes Sociais,635.1,26,2017-11-15 12:21:30,2018-02-05 09:45:00
+99,348,Clássica Campanha Ecológica,TV,983.94,0,2018-03-12 12:39:29,2018-07-29 18:36:28
+100,163,Alvo Impacto Tecnológica,Google Ads,973.37,108,2022-12-13 22:28:08,2023-06-25 18:49:04
+101,8,Clássica Promoção Tecnológica,TV,814.95,0,2020-04-26 03:00:47,2020-08-09 20:42:01
+102,429,Viral Campanha Digital,Influenciadores,452.94,0,2016-09-10 01:21:21,2016-10-22 02:47:01
+103,991,Direta Impacto Tradicional,Email Marketing,923.86,81,2015-07-01 11:00:08,2016-02-20 22:41:20
+104,111,Alvo Promoção Digital,Google Ads,355.51,63,2014-11-17 16:24:24,2015-04-16 20:37:24
+105,530,Direta Promoção Sustentável,Email Marketing,547.42,56,2021-04-21 19:47:26,2021-12-04 01:58:34
+106,303,Alvo Campanha Global,Google Ads,356.31,5,2020-11-23 06:46:10,2021-07-27 01:16:56
+107,547,Viral Impacto Desportiva,Influenciadores,360.02,18,2024-05-30 02:28:27,2025-04-13 21:06:32
+108,772,Alvo Campanha Gourmet,Google Ads,316.77,0,2024-06-22 01:50:45,2024-08-09 13:38:43
+109,157,Direta Impacto Nacional,Email Marketing,320.75,0,2018-06-29 15:18:37,2018-09-10 09:59:02
+110,511,Direta Impacto Familiar,Email Marketing,761.54,0,2016-03-13 15:09:35,2016-07-20 00:30:24
+111,758,Viral Impacto Inovação,Influenciadores,502.59,409,2020-02-05 17:30:40,2020-12-11 16:00:16
+112,202,Viral Campanha Clássica,Influenciadores,820.94,0,2019-09-01 18:10:42,2020-07-05 07:08:00
+113,178,Clássica Campanha Local,TV,704.64,0,2023-01-08 22:07:19,2023-03-16 09:08:00
+114,640,Direta Campanha De Luxo,Email Marketing,555.75,180,2020-01-27 19:27:37,2021-01-16 00:38:06
+115,633,Direta Promoção Clássica,Email Marketing,227.72,0,2021-07-25 23:52:13,2021-08-10 03:31:40
+116,252,Clássica Promoção Cultural,TV,443.28,0,2016-01-01 02:20:23,2016-05-31 14:34:47
+117,680,Clássica Campanha Artística,TV,642.23,71,2022-05-20 09:27:33,2022-11-08 23:49:31
+118,938,Direta Promoção Tradicional,Email Marketing,670.21,65,2024-12-03 01:43:21,2025-05-16 07:06:59
+119,961,Direta Campanha Tradicional,Email Marketing,678.72,198,2015-10-04 17:35:28,2016-05-29 03:04:17
+120,697,Viral Campanha Vintage,Influenciadores,443.31,0,2021-02-13 13:48:37,2021-02-28 19:40:22
+121,184,Alvo Promoção Urbana,Google Ads,573.38,0,2018-07-31 09:08:47,2018-12-03 09:58:34
+122,829,Viral Impacto Fitness,Influenciadores,368.57,348,2015-12-23 12:40:10,2016-11-23 16:36:25
+123,894,Clássica Impacto Tradicional,TV,203.3,89,2021-01-07 01:28:29,2021-07-18 06:20:44
+124,255,Clássica Promoção Global,TV,504.58,0,2015-09-25 04:12:57,2015-10-28 19:52:47
+125,315,Viral Campanha Digital,Influenciadores,980.16,84,2017-10-24 03:19:42,2018-06-22 03:35:13
+126,465,Viral Promoção Fitness,Influenciadores,708.26,0,2015-12-15 13:16:38,2016-01-01 13:05:12
+127,128,Clássica Promoção Tecnológica,TV,394.3,0,2022-11-02 01:10:56,2023-04-17 06:14:16
+128,832,Viral Impacto Fitness,Influenciadores,957.86,178,2021-11-13 14:56:03,2022-10-31 22:52:53
+129,340,Viral Impacto Sustentável,Influenciadores,728.25,124,2015-06-13 02:58:03,2015-10-20 21:47:24
+130,228,Direta Impacto Sustentável,Email Marketing,799.1,0,2018-09-12 08:06:27,2019-07-22 15:24:24
+131,835,Alvo Impacto De Luxo,Google Ads,581.56,208,2019-05-29 18:17:59,2020-05-01 03:13:56
+132,859,Viral Impacto Retro,Influenciadores,865.84,57,2014-10-14 10:06:14,2015-01-21 06:40:19
+133,65,Clássica Campanha Urbana,TV,320.65,120,2021-02-26 05:45:46,2021-12-13 02:03:48
+134,294,Conectada Campanha Tecnológica,Redes Sociais,607.84,0,2017-09-16 01:42:47,2018-04-13 15:03:08
+135,447,Viral Promoção Digital,Influenciadores,748.17,0,2016-08-08 18:11:33,2016-11-08 00:25:44
+136,22,Conectada Campanha Tecnológica,Redes Sociais,872.84,0,2018-03-06 10:51:19,2018-04-04 22:37:00
+137,903,Conectada Impacto Tecnológica,Redes Sociais,656.87,53,2021-05-29 08:46:30,2021-10-26 16:03:46
+138,968,Clássica Campanha Digital,TV,361.04,142,2015-05-14 06:49:28,2016-04-06 01:21:14
+139,963,Conectada Campanha Tradicional,Redes Sociais,819.32,4,2018-08-13 06:45:16,2018-12-17 09:43:53
+140,582,Alvo Campanha Inovação,Google Ads,369.13,0,2017-04-27 22:09:47,2017-11-29 05:59:29
+141,589,Clássica Promoção Sustentável,TV,352.03,75,2020-01-04 19:51:01,2020-12-13 15:52:20
+142,625,Conectada Impacto Retro,Redes Sociais,772.4,58,2021-11-04 11:37:07,2022-05-07 05:48:05
+143,588,Clássica Campanha Inovação,TV,683.71,0,2015-09-15 20:41:43,2016-06-24 14:14:37
+144,134,Alvo Promoção Artística,Google Ads,227.58,0,2019-09-16 06:18:42,2020-07-26 13:49:31
+145,225,Conectada Campanha Digital,Redes Sociais,591.81,0,2021-04-25 22:14:33,2021-08-18 09:08:43
+146,147,Conectada Promoção Digital,Redes Sociais,409.6,120,2016-07-31 07:51:37,2017-06-13 02:14:13
+147,789,Clássica Impacto Ecológica,TV,477.69,185,2021-10-22 06:38:09,2022-04-24 09:40:26
+148,226,Direta Campanha Nacional,Email Marketing,222.75,0,2022-01-27 23:11:11,2022-04-09 06:25:03
+149,470,Alvo Promoção Urbana,Google Ads,925.48,136,2015-01-07 06:54:04,2015-04-14 20:55:05
+150,108,Conectada Impacto Clássica,Redes Sociais,608.03,106,2023-03-30 08:29:55,2023-07-24 01:03:25
+151,370,Conectada Campanha Desportiva,Redes Sociais,228.72,57,2024-04-19 21:45:28,2024-11-28 12:03:05
+152,488,Clássica Impacto Tradicional,TV,275.88,0,2021-05-19 06:36:25,2021-12-16 08:37:06
+153,76,Viral Impacto Tecnológica,Influenciadores,455.7,154,2016-05-05 08:11:24,2017-02-22 00:53:30
+154,241,Conectada Campanha Desportiva,Redes Sociais,821.66,0,2015-08-31 15:54:35,2016-02-17 00:03:08
+155,140,Viral Promoção Gourmet,Influenciadores,354.84,45,2014-07-25 21:07:20,2014-12-04 17:48:09
+156,827,Viral Impacto Inovação,Influenciadores,660.68,0,2018-03-28 20:52:56,2018-06-07 09:40:06
+157,495,Alvo Promoção Sustentável,Google Ads,245.15,0,2021-02-13 13:32:12,2021-05-07 08:03:13
+158,575,Alvo Campanha Urbana,Google Ads,539.32,0,2024-11-25 11:08:24,2025-02-18 17:04:15
+159,327,Direta Impacto Sustentável,Email Marketing,370.45,278,2019-06-18 23:37:27,2019-12-31 00:41:28
+160,945,Conectada Promoção Nacional,Redes Sociais,508.4,0,2022-01-07 16:19:28,2022-07-14 18:55:07
+161,8,Conectada Promoção Desportiva,Redes Sociais,553.61,87,2023-07-25 07:16:46,2024-04-02 14:32:51
+162,904,Viral Impacto Sustentável,Influenciadores,248.8,15,2022-05-21 13:41:29,2022-09-15 16:39:02
+163,88,Conectada Campanha Retro,Redes Sociais,900.61,14,2020-06-26 20:49:28,2021-05-12 13:08:31
+164,431,Alvo Campanha Digital,Google Ads,625.33,0,2014-06-08 04:44:12,2014-11-03 14:44:09
+165,946,Direta Campanha Urbana,Email Marketing,588.0,93,2019-03-23 07:51:24,2019-11-12 22:20:22
+166,503,Direta Promoção De Luxo,Email Marketing,854.08,0,2023-03-04 18:16:35,2023-07-31 10:39:43
+167,942,Clássica Campanha De Luxo,TV,255.09,67,2017-02-11 07:10:39,2017-09-21 22:58:48
+168,449,Conectada Promoção Local,Redes Sociais,389.19,5,2016-11-04 17:14:54,2017-07-03 05:03:42
+169,693,Direta Campanha Urbana,Email Marketing,416.01,0,2024-11-28 10:54:23,2024-12-17 21:02:09
+170,58,Clássica Impacto Digital,TV,310.34,66,2019-12-16 14:18:06,2020-10-07 18:19:24
+171,332,Alvo Promoção Online,Google Ads,423.44,96,2016-08-27 13:31:13,2017-01-23 07:28:18
+172,299,Viral Impacto Digital,Influenciadores,592.43,79,2021-01-16 15:59:55,2021-11-07 01:19:02
+173,780,Direta Impacto Local,Email Marketing,774.11,0,2024-11-02 13:57:14,2024-11-17 22:57:35
+174,443,Clássica Campanha Fitness,TV,996.9,99,2023-06-25 03:35:53,2024-02-12 12:14:13
+175,913,Direta Promoção Tradicional,Email Marketing,353.68,115,2019-10-30 17:09:03,2020-09-12 03:24:43
+176,547,Conectada Campanha Local,Redes Sociais,555.8,0,2018-06-22 01:08:10,2019-06-02 16:30:05
+177,587,Alvo Campanha Retro,Google Ads,361.83,189,2021-08-11 17:26:15,2022-05-22 08:26:29
+178,916,Clássica Promoção Contemporânea,TV,337.11,68,2020-04-23 20:44:23,2020-12-16 11:09:19
+179,888,Viral Promoção Fitness,Influenciadores,928.77,0,2020-04-26 22:05:26,2020-06-09 15:23:27
+180,323,Viral Promoção Vintage,Influenciadores,604.32,75,2019-03-09 19:44:21,2020-01-15 21:42:31
+181,414,Viral Impacto Familiar,Influenciadores,925.89,15,2022-11-11 15:07:34,2023-05-05 17:22:23
+182,684,Alvo Promoção Ecológica,Google Ads,666.95,10,2018-01-10 02:32:29,2018-07-18 03:19:55
+183,798,Alvo Campanha Urbana,Google Ads,695.97,0,2017-02-27 02:04:33,2017-11-04 16:14:07
+184,274,Viral Impacto Contemporânea,Influenciadores,612.69,0,2016-06-26 03:01:19,2016-10-30 06:07:39
+185,262,Conectada Impacto Cultural,Redes Sociais,654.94,84,2022-11-30 13:54:02,2023-07-18 16:39:09
+186,79,Direta Promoção Sustentável,Email Marketing,292.13,59,2022-03-11 11:27:41,2022-07-02 18:00:59
+187,204,Direta Campanha Fitness,Email Marketing,450.83,0,2018-07-12 02:03:13,2019-05-11 15:56:04
+188,832,Conectada Impacto Online,Redes Sociais,354.83,89,2015-09-27 14:23:41,2016-07-11 01:46:05
+189,425,Clássica Campanha Clássica,TV,385.01,0,2023-05-30 06:29:30,2023-08-03 13:11:55
+190,694,Alvo Promoção Sustentável,Google Ads,531.33,0,2024-12-15 09:58:09,2025-04-25 11:11:08
+191,279,Viral Campanha Desportiva,Influenciadores,915.34,0,2024-06-11 01:26:38,2024-07-29 22:55:12
+192,898,Conectada Impacto Fitness,Redes Sociais,687.76,95,2014-08-31 04:11:21,2015-02-01 16:15:38
+193,564,Conectada Promoção Global,Redes Sociais,202.17,105,2014-09-20 19:07:17,2015-02-25 14:27:46
+194,669,Alvo Campanha De Luxo,Google Ads,435.46,127,2016-05-27 00:31:17,2017-04-25 04:13:17
+195,186,Alvo Promoção Rural,Google Ads,626.71,42,2014-04-26 08:42:30,2015-02-11 03:26:12
+196,819,Alvo Promoção Contemporânea,Google Ads,840.82,0,2015-05-13 07:03:42,2016-04-14 11:48:06
+197,912,Viral Campanha Tecnológica,Influenciadores,845.85,0,2017-03-27 15:07:13,2017-05-26 19:10:43
+198,339,Direta Campanha Ecológica,Email Marketing,962.47,0,2024-02-13 22:49:07,2024-08-29 04:22:53
+199,570,Viral Promoção Clássica,Influenciadores,986.33,268,2017-10-13 05:37:00,2018-08-12 03:15:39
+200,501,Conectada Impacto Desportiva,Redes Sociais,858.47,0,2016-11-03 06:14:24,2017-03-02 17:09:59
+201,605,Viral Impacto Sustentável,Influenciadores,815.28,0,2021-01-18 23:43:12,2021-04-12 09:52:51
+202,730,Direta Impacto Contemporânea,Email Marketing,859.55,0,2019-07-08 08:50:30,2019-10-14 23:42:40
+203,882,Conectada Campanha Artística,Redes Sociais,409.86,0,2014-02-22 07:50:40,2014-08-14 22:10:31
+204,847,Alvo Promoção Global,Google Ads,445.62,1,2018-04-09 04:06:45,2018-08-09 18:47:10
+205,288,Conectada Impacto Rural,Redes Sociais,472.93,0,2016-12-21 16:56:23,2017-01-15 01:24:59
+206,190,Clássica Campanha Urbana,TV,990.87,4,2024-06-17 21:00:52,2025-04-21 03:22:47
+207,572,Clássica Promoção Local,TV,773.98,3,2017-05-03 17:58:53,2018-03-08 03:36:23
+208,451,Clássica Impacto Inovação,TV,254.78,81,2023-07-02 18:54:03,2023-08-10 21:52:23
+209,274,Conectada Promoção Local,Redes Sociais,870.44,0,2024-11-18 03:18:38,2025-11-05 22:17:48
+210,365,Viral Impacto Vintage,Influenciadores,596.45,0,2018-04-12 20:57:00,2019-01-20 12:40:46
+211,892,Conectada Impacto Tecnológica,Redes Sociais,415.21,0,2019-05-28 01:22:00,2020-01-16 21:40:38
+212,292,Alvo Impacto Urbana,Google Ads,333.84,0,2022-08-11 10:15:04,2023-02-26 05:24:40
+213,693,Conectada Promoção Clássica,Redes Sociais,448.84,60,2020-12-23 11:16:16,2021-09-07 16:19:40
+214,184,Viral Campanha Fitness,Influenciadores,232.94,0,2023-07-05 00:18:17,2024-05-21 08:51:47
+215,568,Alvo Impacto Contemporânea,Google Ads,582.08,0,2024-02-18 09:05:02,2025-01-21 10:03:05
+216,616,Viral Promoção Local,Influenciadores,374.99,26,2023-08-26 05:55:45,2023-09-22 10:49:53
+217,670,Direta Impacto Desportiva,Email Marketing,946.8,0,2024-03-30 10:36:00,2024-06-29 08:24:38
+218,66,Clássica Impacto Ecológica,TV,219.21,0,2024-05-02 11:31:40,2025-03-22 21:13:41
+219,163,Clássica Impacto De Luxo,TV,912.59,147,2021-08-14 23:00:16,2022-02-15 14:59:25
+220,494,Direta Impacto Local,Email Marketing,503.4,192,2016-01-22 04:17:56,2016-11-12 12:41:53
+221,598,Direta Campanha Global,Email Marketing,815.28,65,2022-07-10 05:10:46,2022-12-07 18:48:22
+222,445,Clássica Campanha Vintage,TV,724.79,0,2017-06-25 10:18:53,2017-08-14 02:55:48
+223,353,Direta Impacto Tecnológica,Email Marketing,691.03,0,2014-10-07 13:07:50,2014-11-15 20:20:54
+224,161,Conectada Campanha Online,Redes Sociais,251.39,0,2020-03-22 11:13:26,2020-07-15 06:02:20
+225,34,Conectada Promoção Nacional,Redes Sociais,400.27,96,2018-07-30 11:04:43,2019-07-16 01:25:02
+226,41,Viral Impacto Rural,Influenciadores,256.16,152,2019-02-17 10:43:50,2020-02-08 00:15:34
+227,795,Alvo Campanha Nacional,Google Ads,379.7,0,2015-02-04 19:32:15,2015-06-06 12:59:28
+228,897,Clássica Impacto Rural,TV,347.69,0,2014-06-20 21:55:50,2014-12-06 01:58:13
+229,332,Viral Promoção Gourmet,Influenciadores,954.29,0,2020-08-24 14:36:25,2021-05-01 18:50:27
+230,527,Alvo Impacto Global,Google Ads,684.26,58,2019-10-14 13:23:11,2020-09-22 03:58:42
+231,749,Direta Impacto Urbana,Email Marketing,317.21,42,2014-12-27 21:21:23,2015-06-29 12:38:39
+232,805,Viral Impacto Rural,Influenciadores,679.06,64,2018-07-21 17:54:57,2018-11-17 05:52:41
+233,420,Direta Impacto Inovação,Email Marketing,421.45,59,2018-06-15 10:40:08,2018-12-14 14:23:54
+234,787,Alvo Campanha Urbana,Google Ads,500.56,40,2024-01-02 06:44:18,2024-07-23 03:24:21
+235,278,Viral Promoção Inovação,Influenciadores,392.76,0,2018-10-23 01:21:49,2018-11-25 06:48:13
+236,982,Viral Campanha Retro,Influenciadores,749.54,0,2016-06-04 17:50:49,2016-12-25 17:15:03
+237,191,Conectada Promoção Global,Redes Sociais,271.7,120,2018-02-28 00:44:34,2018-09-21 04:51:04
+238,241,Direta Campanha Ecológica,Email Marketing,216.95,0,2017-10-26 00:12:20,2018-06-29 12:14:03
+239,422,Viral Campanha Vintage,Influenciadores,926.31,180,2017-06-24 04:10:17,2017-11-04 22:44:42
+240,839,Viral Impacto Ecológica,Influenciadores,764.12,0,2023-10-15 13:55:48,2024-03-29 09:06:44
+241,875,Alvo Impacto Artística,Google Ads,571.46,0,2020-04-05 16:02:23,2020-05-15 02:33:15
+242,839,Clássica Impacto Urbana,TV,882.32,24,2022-03-14 05:29:55,2022-11-28 00:58:33
+243,632,Clássica Campanha Clássica,TV,882.83,76,2023-02-25 03:06:34,2023-07-29 23:27:10
+244,314,Clássica Impacto Inovação,TV,308.7,0,2016-03-27 22:14:45,2016-04-17 05:05:43
+245,996,Viral Promoção Familiar,Influenciadores,936.54,0,2016-12-28 12:37:49,2017-02-20 21:10:00
+246,977,Viral Promoção Digital,Influenciadores,810.86,0,2021-12-24 22:59:02,2022-02-16 05:55:29
+247,600,Direta Campanha Fitness,Email Marketing,293.52,18,2016-07-29 03:47:13,2016-11-15 18:04:32
+248,296,Alvo Promoção Clássica,Google Ads,892.85,51,2020-07-27 20:37:53,2020-11-27 20:00:28
+249,230,Conectada Campanha Digital,Redes Sociais,631.16,18,2022-03-03 17:51:22,2022-05-12 06:36:46
+250,372,Clássica Impacto Nacional,TV,506.26,57,2017-11-29 06:48:46,2018-05-30 10:14:59
+251,738,Direta Promoção Tecnológica,Email Marketing,645.97,224,2014-11-15 07:05:55,2015-09-27 15:59:41
+252,220,Alvo Promoção Vintage,Google Ads,709.0,142,2017-11-08 16:22:55,2018-08-10 20:46:54
+253,262,Alvo Campanha Retro,Google Ads,229.43,84,2022-11-23 21:46:28,2023-11-21 21:51:19
+254,968,Conectada Impacto Artística,Redes Sociais,818.08,0,2024-12-18 11:37:04,2025-10-21 01:55:36
+255,565,Conectada Campanha De Luxo,Redes Sociais,295.2,0,2017-06-27 21:49:13,2017-08-29 07:01:36
+256,137,Clássica Campanha Local,TV,201.13,61,2021-02-19 12:44:56,2022-01-18 03:43:23
+257,151,Conectada Campanha Urbana,Redes Sociais,697.23,0,2024-10-25 18:43:45,2025-05-28 22:38:57
+258,507,Conectada Impacto Sustentável,Redes Sociais,964.29,0,2020-04-24 23:27:26,2020-05-13 22:53:06
+259,779,Direta Impacto Online,Email Marketing,865.84,0,2019-11-18 21:03:26,2020-06-17 22:25:18
+260,449,Direta Impacto Fitness,Email Marketing,644.93,0,2015-01-22 17:30:45,2015-05-10 03:14:53
+261,764,Clássica Promoção Tecnológica,TV,767.83,110,2015-10-03 11:44:35,2016-09-18 04:30:23
+262,709,Alvo Promoção Global,Google Ads,537.39,0,2024-10-10 06:26:15,2024-11-12 23:15:33
+263,273,Alvo Promoção Nacional,Google Ads,602.33,0,2014-03-15 09:46:22,2014-09-05 00:16:43
+264,634,Clássica Campanha Gourmet,TV,379.42,0,2020-09-04 18:34:34,2021-03-13 14:32:55
+265,129,Clássica Campanha Tradicional,TV,888.01,1,2023-04-08 20:20:16,2023-11-02 03:29:23
+266,631,Alvo Promoção Digital,Google Ads,338.84,0,2024-11-20 10:02:49,2025-05-23 18:09:32
+267,53,Alvo Campanha Urbana,Google Ads,742.02,96,2016-05-09 07:07:22,2016-07-08 19:03:24
+268,244,Direta Impacto Urbana,Email Marketing,483.85,70,2021-03-11 14:37:45,2021-08-20 04:05:52
+269,173,Viral Promoção Nacional,Influenciadores,204.71,0,2024-12-14 10:30:45,2025-06-16 18:37:50
+270,687,Alvo Promoção Tecnológica,Google Ads,716.07,129,2020-06-03 13:09:58,2021-06-02 18:30:53
+271,669,Direta Impacto Gourmet,Email Marketing,447.9,130,2014-05-27 23:57:51,2014-10-21 19:10:53
+272,570,Conectada Promoção De Luxo,Redes Sociais,305.5,0,2021-03-03 07:37:01,2021-11-30 01:00:46
+273,806,Viral Campanha Ecológica,Influenciadores,893.86,0,2019-05-11 23:49:17,2019-09-30 11:07:26
+274,510,Direta Impacto Local,Email Marketing,399.67,67,2014-07-09 15:35:36,2015-01-26 08:04:24
+275,929,Clássica Promoção Global,TV,553.34,0,2019-12-26 10:27:27,2020-08-29 06:08:37
+276,259,Viral Impacto Global,Influenciadores,384.36,0,2022-09-22 12:28:57,2023-05-10 11:13:18
+277,734,Conectada Campanha Fitness,Redes Sociais,799.77,21,2020-02-07 05:59:43,2020-07-02 13:44:04
+278,13,Viral Impacto Tradicional,Influenciadores,479.42,14,2017-04-17 20:02:31,2017-11-23 03:46:19
+279,502,Alvo Campanha Vintage,Google Ads,849.91,0,2024-11-30 02:58:30,2024-12-18 21:46:40
+280,113,Viral Campanha Clássica,Influenciadores,495.53,0,2023-07-05 06:42:00,2023-09-25 06:06:18
+281,967,Clássica Promoção Familiar,TV,444.16,0,2016-01-18 00:32:07,2016-02-28 17:32:19
+282,173,Viral Impacto Global,Influenciadores,341.11,0,2021-03-11 23:04:17,2021-04-24 23:43:44
+283,298,Clássica Impacto Nacional,TV,486.17,36,2021-03-29 05:10:32,2022-01-30 19:43:16
+284,568,Clássica Promoção Artística,TV,570.53,0,2014-09-06 08:30:41,2014-11-25 20:00:30
+285,100,Viral Impacto Familiar,Influenciadores,974.89,34,2017-09-17 07:48:34,2018-05-10 04:49:00
+286,966,Viral Promoção De Luxo,Influenciadores,305.35,0,2017-04-11 19:20:00,2017-05-02 00:09:11
+287,330,Viral Promoção Cultural,Influenciadores,205.18,78,2021-12-10 03:27:32,2022-02-05 04:36:25
+288,228,Direta Promoção De Luxo,Email Marketing,495.79,0,2024-06-13 04:08:30,2024-09-12 05:43:06
+289,641,Clássica Promoção Local,TV,491.08,0,2021-07-17 23:22:19,2021-09-17 21:08:08
+290,277,Conectada Campanha Online,Redes Sociais,524.7,30,2019-11-19 08:05:44,2020-09-27 17:13:13
+291,717,Clássica Promoção Digital,TV,332.54,96,2018-08-03 19:09:18,2018-11-29 04:11:25
+292,583,Conectada Campanha Cultural,Redes Sociais,264.99,125,2019-08-23 17:01:57,2020-06-01 05:50:43
+293,282,Viral Impacto Fitness,Influenciadores,573.68,0,2015-06-23 20:27:59,2016-05-09 06:06:05
+294,192,Viral Campanha Nacional,Influenciadores,247.23,0,2022-06-01 09:15:45,2022-09-09 22:43:41
+295,961,Direta Promoção Rural,Email Marketing,351.12,0,2024-09-11 08:47:28,2025-03-14 12:31:19
+296,862,Clássica Promoção De Luxo,TV,980.16,31,2024-04-30 17:28:43,2025-04-15 16:45:45
+297,501,Viral Impacto Cultural,Influenciadores,423.54,0,2018-01-14 03:14:33,2018-03-18 16:37:32
+298,824,Alvo Promoção Inovação,Google Ads,308.8,75,2018-02-13 22:39:06,2018-11-23 10:11:45
+299,376,Direta Impacto Nacional,Email Marketing,666.17,100,2014-12-05 05:58:19,2015-09-24 03:49:55
+300,962,Conectada Impacto Vintage,Redes Sociais,770.2,61,2021-10-15 04:25:09,2022-01-21 20:31:52
+301,349,Conectada Impacto Contemporânea,Redes Sociais,985.25,0,2020-12-23 15:05:20,2021-03-25 02:46:55
+302,17,Conectada Promoção Fitness,Redes Sociais,254.51,31,2016-09-06 15:53:38,2017-07-18 10:31:25
+303,534,Clássica Campanha Gourmet,TV,252.28,0,2019-03-18 10:39:58,2019-06-10 06:22:40
+304,461,Alvo Impacto Contemporânea,Google Ads,892.79,0,2014-09-07 19:01:14,2014-12-21 09:35:12
+305,524,Clássica Promoção Fitness,TV,390.55,0,2019-05-27 12:09:58,2019-07-12 03:19:23
+306,151,Alvo Promoção Familiar,Google Ads,404.4,35,2021-08-19 04:30:52,2022-05-21 02:48:10
+307,459,Conectada Campanha Cultural,Redes Sociais,247.18,0,2017-12-06 12:11:25,2018-08-24 09:39:44
+308,972,Conectada Promoção Cultural,Redes Sociais,989.75,0,2019-05-04 07:29:36,2019-07-25 08:47:52
+309,513,Clássica Promoção Tradicional,TV,275.84,51,2018-08-22 00:47:32,2019-04-27 16:09:48
+310,970,Direta Campanha Retro,Email Marketing,410.44,0,2014-10-24 08:23:13,2015-03-15 21:28:55
+311,92,Direta Campanha Sustentável,Email Marketing,856.28,0,2023-12-15 06:50:47,2024-07-06 08:59:15
+312,502,Viral Promoção Nacional,Influenciadores,998.68,210,2022-08-25 22:06:37,2023-04-15 11:24:54
+313,363,Viral Promoção Tecnológica,Influenciadores,509.25,0,2019-09-03 19:49:46,2019-10-13 15:21:19
+314,531,Direta Promoção Tradicional,Email Marketing,235.32,0,2023-10-22 08:03:29,2024-07-10 07:35:10
+315,471,Direta Campanha Fitness,Email Marketing,266.48,67,2016-02-22 04:44:26,2016-08-01 15:31:39
+316,839,Viral Campanha Inovação,Influenciadores,413.33,0,2024-07-29 18:56:31,2024-08-21 03:43:01
+317,373,Alvo Promoção Urbana,Google Ads,775.04,0,2021-01-27 15:26:19,2021-09-14 04:31:23
+318,250,Direta Promoção Desportiva,Email Marketing,828.35,40,2017-07-08 01:15:06,2018-04-15 17:50:03
+319,558,Conectada Promoção Tradicional,Redes Sociais,643.24,87,2024-05-16 00:39:08,2025-04-24 05:36:58
+320,239,Alvo Campanha Sustentável,Google Ads,437.54,157,2014-11-24 18:47:11,2015-07-22 16:12:23
+321,343,Viral Campanha De Luxo,Influenciadores,651.01,24,2017-04-08 02:54:37,2017-06-02 08:59:11
+322,59,Viral Promoção Desportiva,Influenciadores,578.03,49,2014-12-29 23:33:23,2015-10-27 10:07:32
+323,855,Alvo Campanha Local,Google Ads,744.75,0,2015-11-16 11:16:35,2016-03-20 07:12:24
+324,787,Alvo Promoção Digital,Google Ads,540.39,0,2024-12-11 15:50:16,2025-04-11 12:30:45
+325,696,Conectada Promoção Contemporânea,Redes Sociais,941.5,0,2015-08-31 09:40:17,2016-04-22 23:34:05
+326,620,Direta Promoção Clássica,Email Marketing,323.14,0,2018-06-16 11:06:16,2018-11-29 12:23:31
+327,405,Direta Impacto Contemporânea,Email Marketing,842.0,0,2023-10-23 16:06:26,2024-01-20 08:00:32
+328,127,Clássica Impacto Tecnológica,TV,572.64,0,2020-09-07 12:44:46,2020-11-02 18:07:34
+329,374,Alvo Promoção Tecnológica,Google Ads,998.75,57,2021-11-03 03:34:58,2022-07-13 13:46:02
+330,923,Conectada Campanha Retro,Redes Sociais,715.16,0,2022-01-08 06:12:03,2022-04-04 13:53:00
+331,724,Conectada Impacto Ecológica,Redes Sociais,369.94,0,2015-02-08 07:48:10,2015-05-11 19:44:28
+332,405,Alvo Impacto Vintage,Google Ads,297.85,24,2019-07-22 05:19:29,2020-07-07 02:43:20
+333,232,Clássica Promoção Retro,TV,979.32,149,2019-11-09 06:41:54,2020-07-26 10:13:13
+334,202,Clássica Impacto Vintage,TV,275.97,45,2023-02-03 01:31:33,2023-05-04 14:11:06
+335,464,Alvo Impacto Local,Google Ads,533.45,0,2024-11-20 06:43:07,2025-05-19 01:05:06
+336,676,Viral Campanha Nacional,Influenciadores,706.21,96,2020-03-17 19:27:01,2020-06-22 09:49:34
+337,650,Clássica Impacto Contemporânea,TV,927.43,73,2020-08-13 16:31:11,2021-02-02 02:12:30
+338,489,Alvo Campanha Artística,Google Ads,724.12,99,2020-04-08 23:56:34,2020-07-25 06:44:50
+339,929,Clássica Promoção Retro,TV,424.74,0,2021-04-04 05:58:04,2021-08-03 16:45:37
+340,888,Alvo Promoção Urbana,Google Ads,218.73,0,2020-03-26 19:17:33,2020-08-03 09:17:25
+341,779,Clássica Promoção De Luxo,TV,434.08,0,2017-12-26 11:08:58,2018-01-26 06:12:22
+342,574,Clássica Impacto Tradicional,TV,230.89,0,2014-11-18 03:44:53,2015-03-27 13:53:28
+343,918,Alvo Campanha Online,Google Ads,362.15,0,2021-06-23 17:19:31,2021-12-31 17:26:37
+344,98,Viral Impacto Contemporânea,Influenciadores,447.3,0,2020-05-01 01:45:35,2020-08-29 20:27:13
+345,457,Alvo Promoção Local,Google Ads,520.93,30,2020-12-24 01:39:35,2021-06-29 18:43:11
+346,411,Clássica Impacto Local,TV,748.32,0,2023-10-02 17:15:28,2023-11-24 03:23:43
+347,558,Direta Promoção Contemporânea,Email Marketing,952.22,76,2018-04-30 18:22:08,2019-03-22 06:11:55
+348,338,Viral Promoção Cultural,Influenciadores,367.75,2,2015-10-01 07:51:28,2016-05-14 18:35:23
+349,988,Alvo Campanha Online,Google Ads,208.58,0,2020-07-28 14:09:17,2020-10-01 11:07:22
+350,89,Clássica Campanha Retro,TV,425.58,0,2020-08-23 09:36:40,2020-10-09 18:59:49
+351,305,Viral Campanha Ecológica,Influenciadores,861.01,74,2018-09-23 13:01:43,2019-06-21 08:23:51
+352,891,Clássica Campanha Vintage,TV,644.66,0,2023-02-15 12:25:43,2023-04-09 23:42:35
+353,562,Viral Impacto Inovação,Influenciadores,855.72,81,2024-08-03 04:05:49,2025-05-06 13:22:01
+354,159,Clássica Promoção Fitness,TV,489.41,20,2016-05-20 02:19:27,2016-06-29 03:08:07
+355,617,Conectada Campanha Fitness,Redes Sociais,214.71,44,2024-03-22 09:43:46,2025-03-16 08:37:38
+356,269,Alvo Promoção Contemporânea,Google Ads,823.78,0,2021-06-11 03:05:21,2021-07-08 06:56:50
+357,269,Conectada Impacto Contemporânea,Redes Sociais,242.42,0,2024-03-23 04:29:59,2024-10-05 06:50:55
+358,286,Conectada Impacto Desportiva,Redes Sociais,511.73,33,2023-08-08 01:33:43,2024-03-12 21:46:19
+359,351,Clássica Impacto Vintage,TV,568.23,82,2021-03-16 02:57:51,2022-02-17 15:24:55
+360,179,Direta Promoção Urbana,Email Marketing,355.6,8,2019-08-30 16:11:49,2019-10-16 23:42:58
+361,24,Direta Impacto Rural,Email Marketing,463.57,15,2019-03-28 22:37:32,2019-11-10 15:01:31
+362,859,Conectada Promoção Inovação,Redes Sociais,802.27,88,2023-05-25 17:36:10,2023-11-12 18:45:10
+363,273,Clássica Campanha Digital,TV,577.66,24,2015-01-24 12:03:50,2015-12-16 14:37:27
+364,344,Direta Promoção Retro,Email Marketing,293.77,63,2022-01-03 18:14:38,2022-09-05 01:52:48
+365,799,Viral Impacto Ecológica,Influenciadores,250.8,138,2017-02-25 20:10:51,2017-12-19 22:52:26
+366,723,Clássica Promoção Vintage,TV,318.63,0,2021-03-07 17:29:46,2021-11-16 22:19:24
+367,348,Clássica Campanha Fitness,TV,248.97,0,2020-01-09 06:17:05,2020-04-02 19:26:46
+368,521,Conectada Promoção Nacional,Redes Sociais,529.86,98,2020-12-12 09:05:53,2021-05-25 10:11:01
+369,978,Viral Campanha Inovação,Influenciadores,478.51,0,2015-07-22 12:52:05,2015-10-07 21:41:27
+370,922,Viral Campanha Digital,Influenciadores,721.54,94,2018-01-30 06:52:44,2018-09-03 08:30:59
+371,171,Clássica Promoção Contemporânea,TV,283.56,0,2021-06-15 07:23:04,2021-10-03 14:53:10
+372,954,Direta Impacto Global,Email Marketing,339.14,84,2016-12-03 21:35:27,2017-07-04 09:15:58
+373,510,Viral Campanha Global,Influenciadores,590.8,0,2015-04-25 18:00:09,2016-02-15 06:35:42
+374,27,Alvo Campanha Artística,Google Ads,638.69,231,2021-04-01 00:27:11,2022-03-17 19:24:28
+375,136,Viral Impacto Fitness,Influenciadores,809.95,108,2022-07-20 02:26:36,2023-05-18 01:18:48
+376,397,Alvo Promoção Cultural,Google Ads,364.57,64,2021-02-05 19:12:31,2021-10-18 22:29:11
+377,587,Conectada Impacto Local,Redes Sociais,893.34,0,2015-02-10 03:04:35,2015-06-29 15:25:18
+378,517,Alvo Promoção Global,Google Ads,310.1,155,2022-01-29 07:58:43,2022-10-23 20:32:25
+379,822,Viral Campanha Rural,Influenciadores,988.69,127,2014-04-23 01:35:05,2014-11-23 02:59:59
+380,860,Direta Impacto Cultural,Email Marketing,927.49,50,2015-04-16 06:45:31,2015-11-03 11:12:35
+381,709,Clássica Promoção De Luxo,TV,479.75,0,2014-05-14 19:57:50,2014-08-07 00:04:19
+382,950,Conectada Impacto Familiar,Redes Sociais,713.71,0,2023-04-22 04:02:35,2023-05-25 02:56:51
+383,985,Alvo Promoção Tradicional,Google Ads,684.79,23,2021-11-16 09:23:43,2022-09-02 10:24:45
+384,867,Clássica Promoção Tecnológica,TV,775.64,119,2021-04-10 02:07:40,2022-03-24 22:26:10
+385,529,Viral Impacto Fitness,Influenciadores,912.36,0,2019-06-20 09:21:32,2019-10-07 23:37:15
+386,168,Clássica Campanha Nacional,TV,719.55,224,2021-07-08 01:36:39,2022-03-12 04:10:07
+387,21,Conectada Campanha Vintage,Redes Sociais,907.57,84,2017-06-11 02:33:45,2017-09-02 21:11:51
+388,962,Direta Impacto Fitness,Email Marketing,671.6,3,2016-06-26 13:05:30,2017-03-08 11:50:58
+389,209,Clássica Promoção Familiar,TV,594.57,0,2024-09-19 16:36:26,2024-12-14 04:13:53
+390,404,Clássica Promoção Inovação,TV,970.5,0,2020-02-20 04:30:52,2020-08-14 16:51:16
+391,804,Direta Impacto Retro,Email Marketing,445.24,0,2015-12-31 06:06:46,2016-01-31 21:08:35
+392,591,Viral Promoção Retro,Influenciadores,912.08,135,2014-10-06 11:09:32,2015-09-22 23:02:41
+393,91,Direta Campanha Ecológica,Email Marketing,227.75,91,2019-12-02 08:43:31,2020-06-04 16:03:40
+394,557,Conectada Impacto Global,Redes Sociais,214.26,0,2016-03-07 06:09:38,2016-04-08 08:39:40
+395,907,Alvo Promoção Inovação,Google Ads,743.78,77,2015-07-28 01:46:03,2015-12-31 06:03:33
+396,379,Viral Promoção De Luxo,Influenciadores,970.0,0,2023-11-10 07:22:40,2024-03-31 12:30:52
+397,804,Conectada Campanha Nacional,Redes Sociais,779.31,0,2024-06-24 18:50:58,2024-08-24 14:30:22
+398,135,Alvo Impacto Global,Google Ads,804.37,0,2021-07-13 01:05:43,2022-06-09 22:30:09
+399,10,Conectada Impacto Nacional,Redes Sociais,734.64,117,2014-05-23 23:40:05,2015-01-13 01:32:16
+400,29,Viral Impacto Artística,Influenciadores,801.31,77,2022-12-15 15:40:39,2023-08-27 09:23:06
+401,11,Direta Promoção Global,Email Marketing,208.02,0,2017-07-21 22:36:47,2017-10-29 04:00:49
+402,858,Viral Campanha Fitness,Influenciadores,533.43,0,2024-09-02 17:41:29,2025-05-29 14:25:45
+403,93,Viral Impacto Urbana,Influenciadores,243.59,0,2020-01-16 20:26:23,2020-04-01 22:09:41
+404,340,Viral Impacto De Luxo,Influenciadores,789.39,87,2017-09-10 01:32:30,2018-05-05 08:17:12
+405,699,Viral Impacto Vintage,Influenciadores,232.73,1,2018-02-12 19:47:22,2018-05-18 13:04:54
+406,345,Direta Campanha Vintage,Email Marketing,837.77,0,2019-09-24 20:20:30,2019-12-28 09:09:20
+407,556,Conectada Impacto Online,Redes Sociais,796.56,0,2016-10-31 05:24:00,2017-08-26 10:47:03
+408,846,Alvo Promoção Tradicional,Google Ads,461.17,109,2023-10-02 16:17:30,2024-03-11 14:57:57
+409,35,Conectada Promoção Artística,Redes Sociais,633.95,0,2022-01-17 17:15:43,2022-06-28 07:36:40
+410,683,Conectada Campanha Vintage,Redes Sociais,649.55,0,2018-07-21 12:59:07,2018-12-14 23:37:33
+411,577,Viral Campanha Vintage,Influenciadores,267.74,135,2022-10-20 19:49:31,2023-09-24 15:03:47
+412,287,Alvo Impacto Cultural,Google Ads,580.01,94,2019-01-18 19:18:40,2019-08-27 14:24:26
+413,336,Alvo Impacto Gourmet,Google Ads,786.5,78,2015-10-22 17:57:37,2016-05-31 05:28:07
+414,722,Viral Promoção Ecológica,Influenciadores,560.38,0,2018-04-01 15:32:34,2019-01-05 01:18:34
+415,75,Conectada Impacto Online,Redes Sociais,834.67,72,2022-08-11 19:18:17,2022-09-22 12:53:23
+416,199,Alvo Campanha Retro,Google Ads,460.55,71,2019-12-14 07:40:39,2020-08-23 17:12:32
+417,401,Conectada Impacto Clássica,Redes Sociais,904.66,14,2016-11-14 21:02:10,2017-05-19 18:01:55
+418,821,Alvo Campanha Sustentável,Google Ads,244.95,89,2024-09-10 15:05:17,2025-01-28 21:31:01
+419,986,Viral Promoção Cultural,Influenciadores,268.53,173,2023-11-25 17:20:24,2024-11-03 08:49:20
+420,889,Alvo Campanha Cultural,Google Ads,605.97,75,2016-07-29 20:01:03,2016-12-02 17:16:48
+421,473,Alvo Promoção Fitness,Google Ads,318.76,80,2017-09-05 08:02:02,2018-06-23 14:08:20
+422,965,Viral Campanha Cultural,Influenciadores,814.22,0,2017-06-27 19:28:43,2017-09-19 10:41:36
+423,263,Alvo Promoção Familiar,Google Ads,406.45,0,2020-09-20 03:05:27,2020-11-09 16:05:42
+424,843,Clássica Promoção Ecológica,TV,938.89,79,2022-09-12 11:22:16,2023-02-01 12:26:20
+425,424,Clássica Promoção Rural,TV,816.8,49,2021-10-26 18:22:13,2022-09-18 03:43:34
+426,183,Conectada Impacto Digital,Redes Sociais,674.84,0,2018-05-11 16:02:56,2018-05-27 01:51:56
+427,913,Conectada Campanha Desportiva,Redes Sociais,284.8,25,2020-11-06 03:32:49,2021-07-07 05:45:34
+428,757,Viral Campanha Gourmet,Influenciadores,644.87,0,2018-04-05 22:00:41,2018-04-25 04:48:52
+429,629,Viral Promoção Tecnológica,Influenciadores,623.71,0,2019-11-19 05:57:46,2020-02-29 22:25:17
+430,912,Direta Campanha De Luxo,Email Marketing,282.44,0,2017-05-04 04:33:37,2018-03-11 02:57:39
+431,238,Viral Campanha Local,Influenciadores,802.5,76,2018-11-25 04:55:02,2019-08-28 22:28:45
+432,262,Clássica Promoção Desportiva,TV,649.25,87,2015-12-07 15:43:21,2016-03-02 18:46:18
+433,929,Alvo Impacto Online,Google Ads,696.64,214,2018-09-18 11:03:37,2019-06-17 15:46:45
+434,790,Viral Campanha Digital,Influenciadores,431.26,0,2024-09-24 00:18:09,2024-11-22 21:00:24
+435,834,Direta Campanha Clássica,Email Marketing,994.47,77,2022-10-13 21:25:29,2023-06-30 20:28:42
+436,846,Alvo Campanha Ecológica,Google Ads,632.62,0,2024-10-11 03:56:11,2025-08-02 20:46:27
+437,425,Alvo Campanha Gourmet,Google Ads,697.34,44,2022-01-31 15:05:13,2022-06-05 08:20:34
+438,683,Direta Impacto Local,Email Marketing,858.86,91,2024-01-03 07:29:17,2024-12-29 03:57:08
+439,421,Viral Campanha De Luxo,Influenciadores,253.01,47,2019-12-17 20:44:15,2020-11-06 05:02:24
+440,718,Viral Impacto Vintage,Influenciadores,724.91,0,2024-04-26 18:42:34,2024-07-02 20:13:00
+441,885,Alvo Campanha Rural,Google Ads,768.46,104,2017-09-26 05:09:38,2018-02-09 03:37:04
+442,597,Viral Campanha Urbana,Influenciadores,988.06,70,2022-02-28 12:45:54,2023-01-30 06:43:26
+443,816,Viral Campanha Tradicional,Influenciadores,857.82,70,2020-12-27 19:59:04,2021-08-24 01:49:01
+444,693,Alvo Impacto Local,Google Ads,527.68,0,2023-12-20 15:15:37,2024-02-14 13:12:25
+445,941,Viral Promoção Global,Influenciadores,404.34,74,2016-10-13 19:53:46,2017-09-12 06:15:55
+446,461,Clássica Impacto Rural,TV,749.22,117,2015-02-16 18:01:50,2015-11-20 04:59:47
+447,415,Clássica Promoção Contemporânea,TV,205.55,40,2017-12-14 08:19:36,2018-10-23 08:24:10
+448,565,Conectada Campanha Digital,Redes Sociais,427.47,0,2021-10-19 17:54:35,2022-01-31 21:52:14
+449,153,Viral Promoção Artística,Influenciadores,671.23,0,2016-12-19 22:53:46,2017-03-24 08:34:50
+450,922,Clássica Promoção Digital,TV,452.84,98,2018-09-08 15:27:49,2019-01-20 02:07:39
+451,546,Alvo Promoção Tecnológica,Google Ads,790.45,229,2018-10-10 20:06:09,2019-06-22 14:24:19
+452,22,Alvo Impacto Tradicional,Google Ads,763.32,0,2021-10-29 13:25:32,2022-01-22 19:34:05
+453,657,Clássica Promoção Clássica,TV,633.08,73,2021-10-26 17:25:55,2022-01-12 19:39:19
+454,802,Alvo Promoção Ecológica,Google Ads,507.3,0,2016-10-03 08:30:43,2016-11-26 19:56:45
+455,570,Viral Promoção Retro,Influenciadores,569.39,51,2023-07-05 01:56:07,2024-04-27 18:25:32
+456,285,Direta Campanha Sustentável,Email Marketing,457.48,0,2015-04-03 09:43:05,2015-05-02 03:32:51
+457,434,Viral Campanha Clássica,Influenciadores,834.1,104,2018-05-09 00:28:51,2018-07-30 08:42:46
+458,926,Direta Campanha Artística,Email Marketing,605.7,0,2022-08-08 18:16:00,2022-11-18 17:08:57
+459,929,Alvo Impacto Local,Google Ads,891.1,131,2023-05-01 19:48:08,2024-03-23 13:27:40
+460,205,Direta Campanha Contemporânea,Email Marketing,375.98,18,2021-01-11 02:36:26,2021-03-17 18:57:03
+461,477,Conectada Promoção Sustentável,Redes Sociais,460.23,0,2015-11-15 21:27:47,2015-12-30 14:55:01
+462,628,Direta Impacto Inovação,Email Marketing,750.14,53,2014-07-07 03:09:15,2015-02-22 23:53:39
+463,876,Direta Campanha Urbana,Email Marketing,611.52,0,2014-06-02 05:45:27,2014-09-06 04:37:04
+464,917,Viral Promoção Cultural,Influenciadores,350.11,97,2017-01-30 14:06:24,2017-08-26 23:43:54
+465,350,Clássica Impacto Clássica,TV,538.47,0,2021-08-04 13:30:09,2022-02-08 23:20:12
+466,86,Conectada Impacto Online,Redes Sociais,457.67,0,2023-02-19 19:04:20,2023-07-19 20:46:22
+467,728,Alvo Campanha Cultural,Google Ads,763.11,0,2022-11-22 21:02:10,2023-01-03 09:32:20
+468,850,Direta Promoção De Luxo,Email Marketing,202.27,0,2021-11-14 08:21:35,2022-10-15 06:57:46
+469,759,Clássica Campanha Nacional,TV,734.97,96,2019-07-21 10:26:43,2020-01-16 15:38:13
+470,894,Alvo Impacto Local,Google Ads,223.74,0,2015-05-18 09:38:19,2016-02-07 00:57:06
+471,736,Conectada Impacto Clássica,Redes Sociais,470.87,0,2018-06-17 20:24:17,2018-08-03 00:06:49
+472,41,Conectada Promoção Ecológica,Redes Sociais,644.96,47,2024-09-08 15:31:49,2025-05-20 03:13:37
+473,794,Viral Impacto Tecnológica,Influenciadores,250.83,20,2021-01-09 18:17:16,2021-08-16 18:58:34
+474,847,Clássica Impacto Retro,TV,710.34,22,2022-03-21 12:12:06,2023-03-12 01:06:00
+475,433,Viral Impacto Local,Influenciadores,384.88,12,2018-03-28 16:54:00,2019-01-12 06:56:21
+476,983,Clássica Promoção Retro,TV,537.64,0,2023-03-14 11:11:44,2023-04-17 04:47:00
+477,483,Alvo Promoção Online,Google Ads,421.57,0,2023-10-12 20:25:53,2024-01-16 10:32:45
+478,777,Clássica Impacto Tecnológica,TV,965.31,0,2020-06-22 06:05:05,2020-10-20 09:26:38
+479,29,Clássica Impacto Clássica,TV,587.02,0,2019-03-08 23:29:15,2019-08-21 05:51:22
+480,438,Viral Impacto Inovação,Influenciadores,209.05,31,2018-09-01 21:26:37,2019-04-26 07:33:34
+481,767,Direta Campanha Tecnológica,Email Marketing,646.5,11,2024-06-12 18:31:39,2025-05-31 10:04:28
+482,706,Conectada Impacto Nacional,Redes Sociais,939.12,0,2018-03-17 07:47:41,2018-04-24 17:04:45
+483,4,Direta Impacto Local,Email Marketing,373.42,37,2022-08-16 01:37:39,2022-12-03 17:42:48
+484,460,Viral Promoção Digital,Influenciadores,819.29,0,2014-01-25 07:59:38,2014-02-12 15:59:09
+485,965,Alvo Promoção Tradicional,Google Ads,399.62,256,2024-03-12 18:14:59,2025-03-02 16:10:53
+486,499,Clássica Campanha Desportiva,TV,349.14,36,2015-12-16 14:58:27,2016-08-27 00:59:17
+487,23,Direta Impacto Rural,Email Marketing,312.76,0,2021-07-27 07:02:32,2022-07-10 15:51:49
+488,92,Conectada Campanha De Luxo,Redes Sociais,978.73,30,2022-07-17 10:13:30,2022-10-07 19:03:25
+489,33,Alvo Impacto Vintage,Google Ads,455.59,215,2020-05-17 18:00:28,2021-02-25 14:21:22
+490,39,Clássica Promoção Online,TV,751.59,167,2015-04-14 21:05:01,2015-11-18 20:15:57
+491,685,Viral Campanha Nacional,Influenciadores,381.55,141,2022-07-07 14:06:25,2023-07-04 16:30:58
+492,250,Conectada Campanha Clássica,Redes Sociais,286.14,0,2022-10-24 02:04:42,2023-10-08 05:33:05
+493,353,Viral Impacto Global,Influenciadores,515.73,0,2014-12-01 05:03:39,2015-04-22 23:35:03
+494,324,Clássica Promoção Local,TV,679.84,0,2019-03-19 10:57:45,2019-08-30 20:07:12
+495,676,Clássica Campanha Fitness,TV,338.86,0,2019-08-14 16:31:44,2019-12-15 01:57:20
+496,723,Viral Campanha Gourmet,Influenciadores,492.78,117,2014-02-22 03:35:42,2014-10-22 13:41:42
+497,353,Direta Impacto Global,Email Marketing,488.54,0,2017-07-07 12:54:36,2017-08-31 01:48:23
+498,643,Viral Impacto Ecológica,Influenciadores,600.34,0,2020-12-06 13:11:44,2021-01-02 21:29:13
+499,354,Direta Campanha Contemporânea,Email Marketing,917.54,246,2018-09-28 11:43:07,2019-09-23 21:44:31
+500,210,Conectada Promoção Tradicional,Redes Sociais,555.96,70,2017-06-01 17:12:13,2017-11-25 19:23:22
+501,866,Alvo Campanha Gourmet,Google Ads,501.28,0,2018-09-25 02:15:51,2019-03-18 15:25:33
+502,104,Alvo Campanha Online,Google Ads,695.64,0,2020-05-17 11:13:03,2020-11-30 20:51:59
+503,363,Alvo Campanha Artística,Google Ads,269.28,83,2022-07-02 02:27:27,2023-02-26 11:38:25
+504,662,Viral Campanha Fitness,Influenciadores,545.38,21,2021-09-21 18:06:12,2021-12-24 11:49:58
+505,466,Conectada Campanha Online,Redes Sociais,681.29,55,2021-05-08 23:51:26,2021-11-14 16:13:08
+506,599,Clássica Promoção Vintage,TV,613.22,0,2018-10-26 19:27:30,2019-03-24 02:18:13
+507,956,Direta Promoção Online,Email Marketing,637.98,0,2014-08-28 09:10:59,2014-11-15 21:48:10
+508,574,Viral Impacto Contemporânea,Influenciadores,514.5,0,2017-11-13 01:30:19,2017-11-29 05:28:22
+509,351,Conectada Campanha Familiar,Redes Sociais,423.13,0,2024-08-11 09:33:46,2025-04-02 05:26:53
+510,932,Viral Campanha Ecológica,Influenciadores,492.76,38,2019-03-29 11:26:46,2019-05-21 12:07:30
+511,755,Conectada Campanha Ecológica,Redes Sociais,511.93,30,2019-07-02 02:14:34,2020-06-28 05:01:56
+512,997,Viral Promoção Familiar,Influenciadores,924.3,84,2018-07-03 18:10:34,2019-03-20 04:25:23
+513,312,Alvo Promoção Local,Google Ads,946.42,0,2020-12-19 20:14:35,2021-03-02 23:34:09
+514,219,Clássica Campanha Gourmet,TV,297.96,0,2019-02-04 23:34:54,2019-05-01 00:36:56
+515,959,Clássica Promoção Gourmet,TV,792.35,0,2016-03-06 09:35:01,2016-05-18 21:00:52
+516,859,Conectada Promoção Global,Redes Sociais,649.43,0,2017-03-22 11:53:02,2017-06-10 04:46:55
+517,645,Direta Campanha Gourmet,Email Marketing,226.64,0,2016-07-08 17:51:11,2017-01-23 04:33:31
+518,507,Direta Campanha Clássica,Email Marketing,925.55,0,2015-08-25 01:59:45,2015-12-26 07:56:42
+519,459,Conectada Promoção Clássica,Redes Sociais,483.36,0,2018-02-23 03:39:47,2018-04-17 22:49:10
+520,894,Alvo Impacto Ecológica,Google Ads,208.67,28,2015-01-12 18:10:56,2015-07-10 10:11:54
+521,337,Viral Impacto Tradicional,Influenciadores,614.23,0,2016-06-20 01:32:39,2016-09-16 13:48:32
+522,456,Direta Campanha Fitness,Email Marketing,974.87,21,2015-02-17 06:02:53,2015-04-08 13:40:06
+523,740,Conectada Campanha Tradicional,Redes Sociais,912.26,0,2016-05-19 14:27:55,2017-01-23 16:48:37
+524,306,Alvo Campanha Local,Google Ads,546.44,120,2019-02-03 09:44:49,2020-01-13 16:22:35
+525,832,Viral Campanha De Luxo,Influenciadores,385.36,96,2022-04-03 20:08:21,2022-08-01 20:43:39
+526,33,Alvo Campanha Retro,Google Ads,675.18,80,2015-10-24 05:22:35,2016-04-15 21:04:21
+527,888,Viral Campanha Ecológica,Influenciadores,915.02,27,2024-06-22 07:39:42,2025-04-22 09:57:40
+528,378,Viral Impacto Gourmet,Influenciadores,815.81,158,2024-02-11 17:42:25,2024-10-26 01:55:35
+529,848,Viral Promoção Artística,Influenciadores,753.22,0,2015-01-12 20:04:11,2015-11-07 11:49:20
+530,631,Direta Promoção Gourmet,Email Marketing,450.8,0,2014-06-05 22:12:08,2014-07-21 18:16:22
+531,492,Direta Impacto Vintage,Email Marketing,987.96,21,2014-06-03 06:41:24,2015-01-02 03:59:27
+532,470,Clássica Impacto Fitness,TV,901.96,313,2016-07-27 01:55:17,2017-07-26 08:05:21
+533,977,Conectada Promoção Artística,Redes Sociais,477.96,70,2016-06-16 16:29:53,2016-09-16 07:35:42
+534,223,Alvo Campanha Digital,Google Ads,322.3,0,2024-09-14 01:00:15,2025-03-11 23:50:38
+535,813,Viral Impacto Digital,Influenciadores,221.25,28,2022-05-23 12:09:56,2023-03-19 02:52:34
+536,281,Clássica Promoção Gourmet,TV,766.27,103,2020-02-07 11:14:32,2020-10-31 17:19:31
+537,768,Alvo Impacto Tecnológica,Google Ads,561.73,0,2024-10-28 22:14:14,2025-08-12 16:44:07
+538,737,Viral Campanha Contemporânea,Influenciadores,433.56,74,2022-12-17 06:06:23,2023-10-10 14:30:39
+539,640,Viral Promoção Desportiva,Influenciadores,372.4,33,2017-02-16 13:25:58,2017-06-21 16:49:30
+540,224,Viral Promoção Inovação,Influenciadores,437.46,0,2022-06-29 10:37:57,2022-08-24 01:22:00
+541,960,Alvo Campanha Global,Google Ads,276.54,0,2016-07-15 02:55:25,2016-08-11 06:50:26
+542,813,Clássica Campanha Familiar,TV,991.17,0,2023-11-04 03:40:38,2023-12-30 18:11:40
+543,565,Conectada Campanha Ecológica,Redes Sociais,413.73,38,2014-03-07 05:05:40,2015-02-14 13:41:24
+544,178,Conectada Campanha Fitness,Redes Sociais,971.53,0,2024-12-05 12:19:35,2025-04-12 08:02:56
+545,26,Clássica Impacto Vintage,TV,911.61,127,2020-05-04 15:14:52,2021-05-03 16:58:54
+546,426,Clássica Campanha Vintage,TV,407.3,10,2019-11-17 02:01:15,2020-01-19 17:43:24
+547,886,Direta Campanha Online,Email Marketing,256.14,0,2021-10-07 11:01:52,2022-01-13 14:02:53
+548,832,Conectada Campanha Online,Redes Sociais,282.7,183,2020-10-22 23:43:12,2021-07-04 15:22:19
+549,728,Direta Impacto Online,Email Marketing,869.65,211,2020-08-01 19:24:01,2021-06-27 11:11:47
+550,570,Alvo Impacto Retro,Google Ads,208.77,102,2023-04-25 06:51:28,2024-04-04 01:35:43
+551,170,Alvo Promoção Retro,Google Ads,790.34,22,2024-01-29 02:45:37,2024-11-24 12:44:30
+552,122,Conectada Impacto Retro,Redes Sociais,918.98,0,2020-09-03 22:38:14,2021-08-16 14:52:23
+553,814,Conectada Promoção Urbana,Redes Sociais,999.0,0,2020-07-09 14:49:49,2021-04-30 17:22:15
+554,87,Clássica Campanha Global,TV,722.75,0,2016-07-06 00:37:56,2016-10-17 10:28:44
+555,605,Clássica Impacto Gourmet,TV,866.45,4,2019-04-02 16:24:09,2020-03-24 09:43:40
+556,196,Clássica Campanha Inovação,TV,587.8,83,2014-08-19 13:22:43,2014-11-26 23:33:21
+557,777,Direta Impacto Tradicional,Email Marketing,827.36,208,2015-08-23 19:49:01,2016-04-04 10:01:45
+558,748,Viral Campanha Desportiva,Influenciadores,325.54,49,2016-03-03 03:57:44,2016-05-06 00:53:35
+559,84,Alvo Promoção Nacional,Google Ads,407.29,69,2016-07-21 08:19:43,2017-07-03 02:45:17
+560,773,Viral Promoção Local,Influenciadores,538.31,0,2024-03-06 11:25:08,2024-05-17 21:14:24
+561,363,Clássica Impacto Gourmet,TV,588.04,78,2020-08-19 20:27:05,2021-03-30 21:18:34
+562,230,Clássica Impacto Sustentável,TV,910.22,0,2014-01-29 00:30:20,2014-04-22 15:54:43
+563,849,Direta Campanha Nacional,Email Marketing,702.15,0,2019-07-03 19:38:53,2020-05-25 05:42:27
+564,657,Alvo Impacto Rural,Google Ads,951.61,0,2015-02-26 08:24:51,2015-08-02 13:17:23
+565,991,Direta Impacto Digital,Email Marketing,298.19,0,2018-04-25 20:46:18,2018-09-26 02:38:57
+566,672,Direta Campanha Sustentável,Email Marketing,866.27,3,2019-06-19 18:53:37,2020-04-09 18:52:33
+567,542,Clássica Promoção Local,TV,677.02,0,2022-05-17 20:29:00,2022-10-11 23:17:22
+568,949,Clássica Promoção Urbana,TV,757.23,0,2016-05-30 23:56:10,2016-07-19 02:48:03
+569,816,Viral Promoção Nacional,Influenciadores,503.39,52,2023-10-20 13:17:03,2024-05-26 07:12:13
+570,151,Alvo Campanha Rural,Google Ads,951.31,124,2019-07-07 15:08:06,2020-07-04 16:51:23
+571,843,Conectada Campanha Clássica,Redes Sociais,520.24,77,2022-02-13 10:07:47,2022-05-25 00:55:27
+572,414,Conectada Promoção De Luxo,Redes Sociais,586.27,61,2020-03-18 18:38:16,2020-12-27 10:13:22
+573,931,Direta Impacto Contemporânea,Email Marketing,420.41,0,2014-07-23 06:21:29,2014-08-18 17:20:08
+574,842,Viral Campanha Inovação,Influenciadores,550.34,0,2022-08-18 17:10:59,2023-07-07 05:43:17
+575,459,Conectada Impacto Online,Redes Sociais,552.05,0,2021-10-09 23:08:34,2021-12-02 06:25:47
+576,208,Alvo Campanha Tecnológica,Google Ads,488.41,201,2018-12-09 23:53:04,2019-11-22 09:42:37
+577,832,Alvo Promoção Nacional,Google Ads,762.73,15,2024-08-01 04:04:36,2025-03-17 10:10:12
+578,259,Conectada Campanha Retro,Redes Sociais,222.0,0,2020-03-21 10:33:15,2020-04-10 17:56:40
+579,846,Conectada Campanha Nacional,Redes Sociais,412.99,138,2015-03-31 03:27:30,2016-01-17 04:25:37
+580,313,Alvo Campanha Gourmet,Google Ads,227.22,42,2015-12-30 13:58:16,2016-03-26 19:58:53
+581,921,Clássica Impacto Desportiva,TV,376.97,0,2024-11-21 01:25:32,2025-04-15 07:00:39
+582,670,Alvo Campanha Online,Google Ads,580.02,0,2024-11-07 02:58:40,2025-06-18 20:38:43
+583,151,Conectada Promoção Fitness,Redes Sociais,635.56,0,2023-08-21 23:28:29,2024-04-03 14:45:40
+584,148,Direta Impacto Nacional,Email Marketing,998.14,223,2014-07-27 10:45:46,2015-06-10 03:54:06
+585,435,Clássica Promoção Desportiva,TV,390.17,13,2024-09-30 05:38:39,2024-12-26 11:10:18
+586,638,Viral Campanha Desportiva,Influenciadores,823.02,66,2014-12-29 18:47:43,2015-08-14 06:26:30
+587,902,Viral Campanha Tradicional,Influenciadores,971.83,71,2022-05-25 07:47:12,2023-03-12 16:33:13
+588,981,Clássica Promoção Gourmet,TV,951.59,104,2019-01-23 08:37:49,2019-08-13 16:46:14
+589,832,Clássica Impacto Clássica,TV,257.43,9,2019-03-23 06:14:48,2019-07-13 06:49:14
+590,981,Direta Campanha Vintage,Email Marketing,354.31,130,2019-09-14 20:29:14,2020-07-14 04:34:35
+591,718,Direta Campanha Digital,Email Marketing,438.84,0,2017-01-22 05:26:16,2017-09-28 05:24:17
+592,73,Viral Campanha Retro,Influenciadores,329.46,0,2022-10-22 17:41:17,2023-07-17 19:49:41
+593,515,Direta Campanha Urbana,Email Marketing,836.26,0,2023-03-30 06:31:34,2023-04-16 02:34:01
+594,88,Conectada Promoção Desportiva,Redes Sociais,216.11,91,2015-07-17 06:53:33,2016-02-14 13:00:45
+595,821,Clássica Campanha Vintage,TV,300.45,0,2014-11-11 17:33:51,2015-07-12 08:29:32
+596,75,Alvo Campanha De Luxo,Google Ads,773.63,67,2019-11-15 03:23:49,2020-07-22 23:47:41
+597,89,Viral Impacto Nacional,Influenciadores,510.57,74,2024-05-04 22:09:00,2025-02-09 03:12:33
+598,276,Alvo Promoção Tradicional,Google Ads,289.38,112,2016-05-07 00:27:58,2016-12-29 12:38:36
+599,198,Conectada Impacto Vintage,Redes Sociais,415.35,81,2020-12-23 12:38:34,2021-09-10 08:52:57
+600,955,Alvo Promoção Tecnológica,Google Ads,756.0,94,2020-06-04 13:57:47,2021-02-10 01:34:01
+601,13,Alvo Campanha Sustentável,Google Ads,332.85,15,2019-10-16 05:04:02,2020-06-26 19:06:54
+602,569,Conectada Campanha Gourmet,Redes Sociais,531.23,95,2018-06-16 20:01:01,2018-10-02 13:14:28
+603,407,Viral Promoção Tecnológica,Influenciadores,703.96,12,2015-10-17 12:43:17,2016-07-10 08:06:35
+604,195,Alvo Campanha Online,Google Ads,704.31,70,2019-07-09 14:56:25,2019-11-26 15:16:04
+605,434,Alvo Promoção Rural,Google Ads,220.2,66,2015-10-02 01:41:45,2016-06-14 04:05:20
+606,442,Alvo Impacto Contemporânea,Google Ads,675.66,18,2022-03-03 06:20:58,2022-05-01 14:49:30
+607,366,Clássica Impacto Tecnológica,TV,582.44,0,2016-07-31 05:26:19,2016-09-10 09:26:36
+608,452,Clássica Promoção Cultural,TV,620.54,0,2017-01-16 22:59:34,2017-12-21 05:34:52
+609,990,Clássica Promoção Online,TV,567.97,43,2023-11-01 18:48:48,2024-08-30 22:47:04
+610,887,Conectada Campanha Online,Redes Sociais,356.67,116,2019-02-23 02:15:43,2020-01-15 16:29:15
+611,642,Viral Promoção Rural,Influenciadores,942.3,0,2015-10-11 23:57:00,2016-01-01 02:44:09
+612,565,Conectada Promoção Contemporânea,Redes Sociais,827.63,0,2019-03-31 17:11:47,2019-04-25 11:01:40
+613,181,Clássica Impacto Local,TV,480.56,87,2023-03-23 00:10:10,2024-03-06 16:49:51
+614,278,Viral Impacto Nacional,Influenciadores,924.59,12,2024-09-02 01:17:45,2024-12-02 16:00:12
+615,770,Alvo Campanha Retro,Google Ads,356.77,69,2019-05-22 11:54:16,2020-05-15 18:11:57
+616,808,Alvo Campanha Local,Google Ads,607.98,0,2019-08-22 03:28:59,2020-08-14 18:23:52
+617,934,Clássica Campanha Urbana,TV,752.32,53,2015-10-18 21:37:51,2016-04-21 03:11:11
+618,4,Clássica Promoção Inovação,TV,356.66,0,2019-10-28 23:40:52,2020-01-26 20:26:29
+619,810,Conectada Impacto Familiar,Redes Sociais,828.08,35,2022-08-03 07:48:58,2023-01-20 22:44:04
+620,427,Direta Impacto Tradicional,Email Marketing,596.1,142,2023-07-09 20:26:48,2023-11-19 08:42:09
+621,659,Direta Promoção Rural,Email Marketing,602.3,0,2024-12-30 20:46:36,2025-12-02 19:00:12
+622,648,Viral Promoção Ecológica,Influenciadores,302.75,0,2022-01-07 21:43:43,2022-03-14 05:35:05
+623,447,Conectada Promoção Rural,Redes Sociais,237.63,49,2020-02-04 08:42:21,2020-06-16 09:51:41
+624,90,Conectada Promoção Tecnológica,Redes Sociais,342.82,29,2019-01-01 14:38:06,2019-07-20 05:10:44
+625,157,Conectada Impacto Nacional,Redes Sociais,443.78,0,2018-02-23 06:55:58,2018-08-06 04:17:27
+626,289,Conectada Campanha Gourmet,Redes Sociais,830.98,187,2018-03-20 14:49:32,2018-06-13 23:18:44
+627,904,Viral Campanha Digital,Influenciadores,338.38,0,2021-02-18 15:47:04,2021-11-22 01:54:48
+628,548,Clássica Impacto Online,TV,929.8,0,2022-05-16 14:48:50,2022-06-24 23:45:56
+629,361,Direta Impacto Artística,Email Marketing,215.17,0,2020-08-17 16:40:57,2020-12-20 02:28:36
+630,520,Clássica Impacto De Luxo,TV,707.28,59,2015-01-27 11:26:03,2015-04-25 20:35:17
+631,155,Conectada Impacto Rural,Redes Sociais,381.52,0,2023-03-14 09:13:15,2023-05-22 14:51:36
+632,465,Alvo Promoção Fitness,Google Ads,849.24,44,2024-04-08 16:22:13,2025-01-23 13:26:31
+633,168,Direta Campanha Urbana,Email Marketing,691.68,0,2014-12-01 21:04:29,2015-04-18 19:17:48
+634,538,Direta Promoção Global,Email Marketing,922.54,0,2017-04-13 19:49:52,2017-09-14 14:52:01
+635,560,Viral Impacto Ecológica,Influenciadores,298.57,0,2021-05-03 00:18:16,2022-04-18 16:55:34
+636,971,Alvo Impacto Urbana,Google Ads,739.55,0,2023-03-05 18:59:08,2023-11-04 19:55:00
+637,184,Viral Promoção Fitness,Influenciadores,395.02,51,2019-10-08 03:34:09,2020-02-24 15:25:17
+638,457,Direta Impacto Urbana,Email Marketing,512.01,15,2014-06-02 18:50:07,2015-05-18 10:02:52
+639,441,Direta Campanha Desportiva,Email Marketing,318.45,51,2016-07-20 08:54:56,2017-07-03 07:04:12
+640,347,Conectada Impacto Ecológica,Redes Sociais,714.88,0,2024-10-31 18:33:14,2025-03-21 14:11:27
+641,84,Conectada Impacto Ecológica,Redes Sociais,842.4,0,2015-10-15 06:08:47,2016-08-29 16:56:07
+642,987,Viral Campanha Digital,Influenciadores,441.59,21,2023-08-06 05:41:40,2023-12-25 00:34:28
+643,100,Conectada Promoção Fitness,Redes Sociais,280.94,0,2019-08-08 03:57:30,2019-09-17 11:06:48
+644,206,Clássica Promoção Online,TV,346.8,0,2023-05-03 19:38:26,2023-09-18 02:35:44
+645,236,Alvo Promoção Artística,Google Ads,218.49,160,2015-12-03 01:15:27,2016-09-09 22:48:55
+646,131,Direta Impacto Global,Email Marketing,877.83,38,2023-05-30 00:13:30,2023-12-23 14:25:23
+647,638,Viral Campanha Ecológica,Influenciadores,429.04,0,2021-01-02 14:31:19,2021-01-24 13:26:43
+648,814,Alvo Impacto Online,Google Ads,984.33,0,2023-01-22 18:07:24,2023-12-08 11:27:51
+649,30,Direta Impacto Retro,Email Marketing,550.96,12,2017-05-04 21:35:48,2017-12-16 16:05:55
+650,865,Alvo Promoção Vintage,Google Ads,414.53,0,2018-11-23 22:45:33,2019-06-02 05:41:26
+651,210,Clássica Impacto Digital,TV,861.24,73,2021-04-14 19:12:44,2021-12-25 23:20:03
+652,945,Direta Impacto Familiar,Email Marketing,716.2,94,2015-09-16 14:21:14,2016-02-24 04:55:27
+653,597,Viral Impacto Ecológica,Influenciadores,780.48,144,2022-12-10 14:54:39,2023-07-22 07:47:04
+654,57,Alvo Campanha Gourmet,Google Ads,928.4,0,2019-06-19 19:55:46,2019-10-07 14:08:03
+655,252,Alvo Promoção De Luxo,Google Ads,864.9,0,2024-02-28 01:06:38,2025-02-07 10:04:01
+656,750,Alvo Impacto Familiar,Google Ads,271.73,21,2018-04-23 20:07:06,2018-11-24 03:35:00
+657,918,Direta Campanha Tecnológica,Email Marketing,724.69,63,2017-01-24 12:37:05,2017-12-25 07:57:24
+658,203,Alvo Impacto Desportiva,Google Ads,735.06,0,2020-07-11 00:05:28,2021-02-08 04:36:52
+659,49,Alvo Promoção Local,Google Ads,264.32,0,2024-06-25 05:49:27,2024-12-20 18:36:51
+660,73,Clássica Impacto Online,TV,747.47,62,2018-08-30 00:19:51,2019-07-17 15:53:12
+661,927,Direta Impacto Contemporânea,Email Marketing,749.25,0,2020-08-29 12:43:29,2020-10-03 11:46:18
+662,315,Viral Impacto Clássica,Influenciadores,483.76,11,2023-08-18 10:21:16,2023-12-09 08:27:54
+663,596,Viral Campanha Nacional,Influenciadores,363.33,78,2015-09-06 23:37:28,2016-05-07 13:07:33
+664,924,Alvo Campanha Tecnológica,Google Ads,797.61,0,2017-10-04 01:02:00,2018-08-03 05:52:31
+665,102,Direta Promoção Global,Email Marketing,285.65,0,2020-12-18 22:31:31,2021-08-02 04:35:24
+666,130,Clássica Campanha De Luxo,TV,817.77,0,2014-02-16 01:03:10,2014-06-18 22:34:55
+667,290,Viral Impacto Tecnológica,Influenciadores,707.98,0,2014-10-15 03:08:41,2015-01-24 01:07:36
+668,164,Conectada Campanha Contemporânea,Redes Sociais,252.07,0,2017-02-08 20:37:49,2017-04-22 09:23:58
+669,431,Conectada Promoção Global,Redes Sociais,300.97,0,2022-01-04 09:06:36,2022-06-17 22:43:18
+670,477,Direta Campanha Clássica,Email Marketing,534.94,114,2017-03-23 00:21:50,2017-12-28 13:01:35
+671,239,Conectada Promoção Gourmet,Redes Sociais,358.42,0,2019-10-11 09:58:41,2019-10-31 03:53:28
+672,182,Alvo Campanha Nacional,Google Ads,303.37,54,2018-09-07 21:48:03,2019-04-24 11:27:41
+673,801,Conectada Impacto Global,Redes Sociais,590.41,119,2022-05-25 19:12:15,2023-04-05 19:08:39
+674,760,Direta Impacto Local,Email Marketing,608.07,71,2017-12-24 15:29:10,2018-10-21 16:27:44
+675,487,Direta Impacto Ecológica,Email Marketing,986.93,91,2024-04-06 17:58:23,2024-10-18 10:40:56
+676,645,Clássica Promoção De Luxo,TV,282.08,0,2020-06-02 03:05:31,2021-03-28 09:10:49
+677,479,Direta Promoção Artística,Email Marketing,621.27,95,2024-05-03 23:11:40,2024-11-11 04:27:07
+678,152,Direta Promoção Contemporânea,Email Marketing,202.51,173,2014-12-30 01:30:27,2015-09-01 17:49:55
+679,717,Direta Promoção Clássica,Email Marketing,853.7,0,2024-01-09 20:13:08,2024-01-26 18:19:35
+680,677,Conectada Impacto Tradicional,Redes Sociais,343.33,0,2018-08-17 14:00:38,2018-12-09 13:47:42
+681,394,Clássica Promoção Clássica,TV,473.07,108,2020-10-29 08:57:51,2021-02-27 07:53:11
+682,675,Direta Campanha Nacional,Email Marketing,704.69,0,2020-04-07 03:22:40,2020-08-07 21:50:25
+683,219,Viral Promoção Artística,Influenciadores,915.99,100,2022-02-21 04:51:30,2022-11-18 10:58:33
+684,257,Conectada Campanha De Luxo,Redes Sociais,951.86,0,2016-11-26 18:34:15,2017-03-27 16:31:06
+685,515,Alvo Promoção Gourmet,Google Ads,487.01,0,2023-03-26 14:43:56,2023-11-10 06:15:28
+686,548,Clássica Campanha Online,TV,870.45,92,2020-12-14 20:37:24,2021-04-29 14:09:13
+687,836,Clássica Campanha Familiar,TV,322.32,0,2023-06-27 08:05:18,2024-05-29 11:19:18
+688,255,Direta Impacto Inovação,Email Marketing,867.49,0,2022-12-31 17:42:50,2023-06-07 10:38:52
+689,278,Clássica Promoção Fitness,TV,244.09,0,2019-08-01 18:45:15,2019-09-12 07:13:42
+690,377,Clássica Campanha Desportiva,TV,632.26,0,2024-12-26 16:45:18,2025-04-20 17:28:43
+691,762,Viral Promoção Sustentável,Influenciadores,906.57,0,2023-06-06 09:28:58,2024-03-19 11:43:45
+692,259,Clássica Impacto Rural,TV,592.02,0,2022-01-27 08:42:42,2022-09-03 18:43:15
+693,716,Clássica Promoção Global,TV,836.82,51,2017-08-31 00:58:48,2018-06-07 09:20:32
+694,604,Alvo Impacto Sustentável,Google Ads,286.12,0,2021-04-20 10:42:07,2022-02-18 10:50:53
+695,931,Conectada Promoção Local,Redes Sociais,843.24,104,2024-02-18 18:36:20,2024-09-29 17:42:21
+696,908,Alvo Impacto Sustentável,Google Ads,810.42,0,2015-06-12 08:24:04,2015-11-20 10:37:46
+697,620,Clássica Promoção Tecnológica,TV,912.94,175,2014-04-08 22:12:49,2015-04-09 21:25:55
+698,384,Conectada Promoção Sustentável,Redes Sociais,563.67,0,2017-04-12 12:39:10,2017-08-12 04:49:59
+699,189,Conectada Impacto Digital,Redes Sociais,377.7,25,2016-06-26 00:27:54,2016-08-24 22:06:41
+700,559,Clássica Impacto Clássica,TV,681.22,0,2024-02-10 21:00:22,2025-01-26 01:49:50
+701,955,Conectada Campanha Global,Redes Sociais,696.01,94,2020-06-02 07:06:30,2020-09-01 04:23:47
+702,311,Viral Promoção Ecológica,Influenciadores,677.24,0,2024-05-17 08:13:20,2025-03-09 04:30:42
+703,436,Viral Campanha Rural,Influenciadores,330.26,35,2018-06-26 07:05:23,2018-12-10 11:27:43
+704,475,Conectada Promoção Tradicional,Redes Sociais,831.58,37,2018-09-17 19:18:13,2018-11-07 02:20:03
+705,473,Direta Impacto Digital,Email Marketing,593.76,0,2018-12-03 04:19:08,2018-12-23 21:19:50
+706,397,Conectada Campanha Tradicional,Redes Sociais,366.44,70,2018-09-12 00:03:29,2018-12-26 22:12:21
+707,61,Viral Impacto Tecnológica,Influenciadores,272.47,3,2019-03-30 18:44:30,2020-01-19 13:09:04
+708,70,Alvo Campanha Artística,Google Ads,757.74,0,2019-02-17 08:10:41,2019-04-28 19:07:31
+709,420,Viral Promoção Artística,Influenciadores,518.65,0,2019-03-30 14:03:21,2019-08-01 08:21:46
+710,683,Conectada Promoção Tecnológica,Redes Sociais,282.15,62,2015-01-20 03:57:39,2015-03-17 16:32:10
+711,620,Direta Campanha Global,Email Marketing,380.51,0,2024-08-19 11:59:37,2025-01-30 11:09:51
+712,929,Alvo Promoção Vintage,Google Ads,849.15,99,2014-04-03 19:00:41,2014-08-27 13:52:53
+713,751,Conectada Promoção Clássica,Redes Sociais,939.85,28,2016-02-18 05:28:31,2016-08-09 03:08:06
+714,869,Direta Campanha Global,Email Marketing,273.88,44,2023-12-31 06:35:51,2024-09-24 14:08:24
+715,728,Direta Promoção Digital,Email Marketing,200.41,0,2015-01-28 07:59:44,2015-09-30 11:45:55
+716,358,Conectada Impacto Gourmet,Redes Sociais,541.29,79,2018-04-07 02:44:05,2019-01-11 05:15:11
+717,184,Conectada Campanha Gourmet,Redes Sociais,911.0,0,2020-04-07 04:33:30,2021-02-05 03:07:25
+718,722,Clássica Campanha Inovação,TV,530.83,0,2020-05-26 00:17:26,2020-09-09 06:38:29
+719,155,Clássica Promoção Tradicional,TV,276.76,0,2023-06-01 12:40:49,2023-09-11 19:44:42
+720,509,Conectada Impacto Online,Redes Sociais,926.41,0,2018-02-08 02:55:43,2018-03-30 07:57:52
+721,222,Alvo Promoção Tradicional,Google Ads,588.55,80,2024-03-17 00:20:10,2024-06-02 17:57:57
+722,65,Alvo Campanha Urbana,Google Ads,565.17,79,2020-11-11 23:38:01,2021-06-03 00:44:24
+723,543,Direta Promoção Vintage,Email Marketing,933.23,93,2019-09-22 07:48:23,2020-08-11 05:28:02
+724,993,Viral Impacto Global,Influenciadores,653.95,21,2021-12-02 22:31:41,2022-08-30 07:15:45
+725,579,Viral Promoção Desportiva,Influenciadores,952.16,0,2020-04-09 16:59:06,2020-05-06 02:58:44
+726,875,Direta Promoção Fitness,Email Marketing,405.36,115,2020-12-19 10:40:07,2021-08-27 04:00:40
+727,26,Direta Campanha Ecológica,Email Marketing,601.7,0,2014-03-22 12:00:58,2014-08-27 05:04:34
+728,529,Direta Campanha Familiar,Email Marketing,512.03,210,2019-05-23 17:16:38,2020-02-19 19:48:18
+729,577,Direta Campanha Gourmet,Email Marketing,392.43,0,2016-12-10 07:08:09,2017-07-11 13:51:13
+730,958,Clássica Impacto Online,TV,975.71,0,2023-08-31 13:01:27,2024-04-14 05:19:06
+731,859,Direta Campanha Contemporânea,Email Marketing,506.35,0,2022-06-12 00:56:49,2022-09-06 05:33:24
+732,251,Conectada Impacto Inovação,Redes Sociais,269.99,21,2015-11-29 19:43:38,2016-10-27 11:36:22
+733,789,Alvo Impacto Tradicional,Google Ads,746.98,0,2021-10-17 06:15:46,2021-12-11 02:50:14
+734,204,Alvo Campanha Contemporânea,Google Ads,665.99,62,2021-08-05 19:59:20,2021-09-06 14:38:13
+735,840,Conectada Impacto Vintage,Redes Sociais,392.67,0,2021-01-13 23:50:17,2021-02-05 21:20:24
+736,625,Alvo Campanha Online,Google Ads,232.81,0,2023-05-02 14:39:18,2024-03-08 03:34:20
+737,399,Conectada Promoção Desportiva,Redes Sociais,517.95,0,2022-09-01 14:24:33,2022-11-09 02:46:51
+738,711,Clássica Promoção Nacional,TV,707.87,92,2017-05-03 16:28:12,2017-12-24 06:20:53
+739,104,Conectada Impacto Retro,Redes Sociais,357.91,131,2016-09-25 21:25:54,2017-06-30 20:23:44
+740,437,Viral Impacto Clássica,Influenciadores,696.2,0,2019-08-07 01:07:18,2020-02-01 19:09:24
+741,646,Clássica Promoção Familiar,TV,994.01,0,2015-01-24 05:01:46,2015-10-27 23:06:22
+742,928,Clássica Impacto Vintage,TV,698.64,0,2016-12-09 17:24:06,2017-01-11 05:43:55
+743,421,Conectada Promoção Sustentável,Redes Sociais,952.76,209,2021-02-01 14:30:49,2021-11-09 16:44:46
+744,112,Alvo Campanha Clássica,Google Ads,358.71,0,2024-10-10 22:52:16,2025-01-07 10:08:44
+745,790,Direta Promoção Vintage,Email Marketing,890.06,32,2024-10-07 00:09:03,2025-06-15 14:59:30
+746,618,Conectada Promoção Inovação,Redes Sociais,426.87,42,2015-12-15 11:11:01,2016-03-16 15:48:56
+747,791,Clássica Impacto Familiar,TV,446.46,41,2019-12-09 07:38:19,2020-03-13 06:30:00
+748,456,Conectada Impacto Retro,Redes Sociais,245.44,78,2022-11-17 11:44:02,2023-08-03 07:03:08
+749,61,Viral Impacto Gourmet,Influenciadores,335.83,0,2019-08-30 12:04:00,2019-09-24 20:23:10
+750,447,Direta Campanha Familiar,Email Marketing,859.85,86,2024-08-06 11:22:53,2024-12-02 19:49:28
+751,766,Conectada Promoção Retro,Redes Sociais,202.33,0,2020-10-29 05:17:58,2020-11-26 16:14:11
+752,118,Direta Promoção Sustentável,Email Marketing,446.81,31,2016-06-16 07:18:16,2016-12-21 07:40:04
+753,195,Clássica Campanha Fitness,TV,619.52,0,2024-08-04 01:26:47,2025-03-18 04:03:04
+754,755,Direta Impacto De Luxo,Email Marketing,520.78,0,2017-07-10 05:16:09,2017-10-21 05:32:59
+755,237,Alvo Impacto Fitness,Google Ads,839.46,114,2022-03-07 15:38:39,2022-10-31 18:32:26
+756,198,Alvo Campanha Retro,Google Ads,827.46,19,2023-07-02 05:15:48,2023-11-22 06:23:18
+757,999,Alvo Campanha Online,Google Ads,358.8,0,2024-11-01 04:42:31,2024-11-18 15:23:32
+758,596,Conectada Promoção Inovação,Redes Sociais,432.06,0,2014-05-21 15:50:44,2014-06-19 12:49:22
+759,785,Clássica Campanha Digital,TV,682.04,23,2018-04-27 17:52:05,2018-06-24 23:12:45
+760,186,Direta Impacto Ecológica,Email Marketing,594.41,0,2017-04-11 01:11:47,2018-01-01 03:30:37
+761,789,Clássica Campanha Sustentável,TV,413.44,0,2017-10-03 13:38:51,2018-02-21 14:43:57
+762,129,Conectada Impacto Retro,Redes Sociais,736.6,85,2014-03-15 23:19:36,2014-07-24 12:07:31
+763,19,Conectada Impacto Inovação,Redes Sociais,608.94,46,2018-09-07 10:23:24,2019-02-18 15:29:39
+764,378,Direta Impacto Gourmet,Email Marketing,957.69,0,2023-05-16 21:45:55,2023-06-26 07:09:38
+765,184,Viral Promoção Desportiva,Influenciadores,316.77,76,2017-12-30 21:17:24,2018-03-29 21:30:03
+766,975,Viral Impacto Fitness,Influenciadores,936.19,38,2021-05-18 02:17:00,2021-10-16 16:01:02
+767,517,Alvo Campanha Retro,Google Ads,434.07,165,2017-12-02 01:18:50,2018-11-10 20:02:38
+768,543,Alvo Impacto Inovação,Google Ads,487.7,60,2016-07-16 12:03:02,2016-12-24 00:56:54
+769,471,Alvo Impacto Clássica,Google Ads,300.69,0,2023-08-07 08:07:34,2024-06-12 07:44:25
+770,421,Conectada Promoção Vintage,Redes Sociais,955.78,0,2015-08-04 01:14:21,2015-11-13 05:56:28
+771,273,Conectada Campanha Gourmet,Redes Sociais,424.07,0,2020-01-27 15:52:12,2020-07-01 22:55:39
+772,259,Alvo Promoção Cultural,Google Ads,459.42,67,2014-01-25 08:30:52,2014-10-28 10:46:27
+773,370,Viral Impacto Urbana,Influenciadores,513.96,0,2016-10-27 12:04:38,2017-02-13 06:06:43
+774,471,Viral Campanha Global,Influenciadores,257.66,0,2019-05-18 07:51:44,2020-01-11 01:10:57
+775,43,Clássica Impacto Online,TV,726.0,0,2018-12-12 19:28:47,2019-01-13 16:58:16
+776,731,Conectada Campanha Local,Redes Sociais,276.81,190,2019-03-25 00:06:44,2019-09-13 00:30:57
+777,577,Conectada Promoção Artística,Redes Sociais,825.0,39,2023-09-19 08:08:23,2024-04-27 21:20:59
+778,859,Conectada Campanha Tradicional,Redes Sociais,464.77,0,2022-03-19 19:32:04,2022-05-14 17:12:07
+779,282,Conectada Impacto Vintage,Redes Sociais,714.66,0,2014-07-08 18:36:40,2015-04-12 01:49:12
+780,847,Clássica Impacto Fitness,TV,352.98,57,2020-05-10 08:48:17,2020-12-02 02:40:44
+781,861,Clássica Promoção Global,TV,585.73,103,2016-07-31 15:37:21,2017-07-05 14:21:16
+782,773,Alvo Campanha Artística,Google Ads,274.05,0,2014-06-23 07:00:45,2014-08-21 21:54:07
+783,119,Conectada Campanha Fitness,Redes Sociais,815.93,0,2017-05-13 20:51:31,2017-11-28 14:03:47
+784,548,Direta Impacto Online,Email Marketing,824.32,0,2015-11-19 14:21:50,2016-09-06 01:42:43
+785,715,Clássica Promoção Contemporânea,TV,555.45,94,2016-05-18 00:07:22,2017-02-28 14:00:34
+786,172,Viral Impacto Clássica,Influenciadores,462.33,335,2016-01-14 14:35:49,2017-01-03 14:00:34
+787,640,Alvo Promoção Local,Google Ads,300.92,0,2024-02-05 04:17:03,2024-05-18 11:44:54
+788,532,Conectada Campanha Sustentável,Redes Sociais,719.16,0,2020-03-23 13:44:26,2020-05-06 04:00:40
+789,617,Clássica Campanha De Luxo,TV,639.62,82,2020-10-02 04:05:47,2021-01-26 08:06:16
+790,192,Conectada Campanha Rural,Redes Sociais,380.23,120,2024-06-06 22:59:09,2024-12-28 20:06:17
+791,954,Conectada Impacto Gourmet,Redes Sociais,213.29,0,2024-11-10 01:40:44,2025-01-10 08:22:57
+792,585,Viral Promoção Artística,Influenciadores,481.17,144,2022-02-01 12:46:43,2022-10-25 23:39:02
+793,237,Conectada Impacto Tecnológica,Redes Sociais,680.9,0,2020-07-30 15:28:28,2020-08-18 01:33:37
+794,620,Clássica Impacto Retro,TV,548.51,0,2016-08-28 05:41:14,2016-11-30 18:10:25
+795,596,Clássica Promoção Fitness,TV,608.89,0,2023-07-23 12:17:33,2023-11-11 08:26:42
+796,424,Clássica Promoção Local,TV,401.71,21,2019-04-24 19:47:29,2019-10-08 16:00:05
+797,642,Direta Impacto Retro,Email Marketing,284.01,0,2015-12-03 08:37:50,2016-03-07 14:58:05
+798,398,Conectada Campanha Rural,Redes Sociais,386.01,0,2019-04-27 00:17:52,2019-11-13 22:16:58
+799,597,Conectada Promoção Tradicional,Redes Sociais,948.75,144,2022-07-15 16:33:52,2023-04-29 04:26:41
+800,752,Viral Promoção Sustentável,Influenciadores,637.0,0,2023-05-11 17:01:01,2023-10-13 06:51:22
+801,754,Clássica Campanha Gourmet,TV,315.62,75,2018-10-19 22:12:16,2019-10-11 12:42:40
+802,330,Conectada Campanha De Luxo,Redes Sociais,676.58,214,2022-07-29 05:11:31,2023-03-09 06:18:02
+803,471,Direta Promoção De Luxo,Email Marketing,207.99,67,2016-02-19 06:35:39,2016-08-14 07:09:19
+804,525,Clássica Campanha Sustentável,TV,752.05,0,2016-01-22 05:26:23,2016-12-04 07:43:27
+805,550,Direta Impacto Ecológica,Email Marketing,832.99,152,2019-03-28 14:23:23,2019-10-15 21:08:13
+806,873,Conectada Promoção De Luxo,Redes Sociais,813.41,0,2018-02-18 07:30:24,2018-04-24 11:37:36
+807,677,Clássica Promoção Contemporânea,TV,573.64,0,2024-11-25 18:45:51,2025-07-18 08:43:08
+808,124,Alvo Promoção Digital,Google Ads,573.86,0,2023-02-25 12:53:39,2023-11-01 06:22:02
+809,957,Direta Campanha Cultural,Email Marketing,353.86,0,2019-07-09 22:08:16,2019-12-03 18:10:50
+810,953,Viral Impacto Desportiva,Influenciadores,765.59,180,2024-06-18 22:53:07,2025-02-07 15:43:17
+811,602,Clássica Campanha Gourmet,TV,631.38,93,2023-06-09 18:55:52,2024-02-25 05:05:30
+812,11,Clássica Campanha Retro,TV,916.88,121,2016-09-14 05:58:40,2017-01-29 10:17:03
+813,698,Direta Promoção Desportiva,Email Marketing,272.95,25,2023-03-01 20:55:46,2023-09-13 04:03:17
+814,745,Clássica Promoção Local,TV,908.85,0,2018-02-15 07:03:52,2018-10-18 20:14:41
+815,264,Conectada Promoção Online,Redes Sociais,592.11,13,2018-04-08 18:40:09,2018-11-07 11:48:58
+816,975,Clássica Promoção Ecológica,TV,842.48,226,2021-02-26 08:57:08,2021-12-31 05:36:08
+817,301,Direta Impacto Global,Email Marketing,587.46,98,2023-05-29 19:07:08,2023-12-25 22:34:59
+818,219,Direta Impacto Rural,Email Marketing,661.6,0,2019-07-09 17:25:34,2019-11-16 05:57:27
+819,926,Clássica Impacto Sustentável,TV,703.74,0,2021-03-30 09:06:50,2021-09-01 07:30:43
+820,345,Conectada Promoção Inovação,Redes Sociais,500.84,200,2014-06-05 01:42:04,2015-02-22 01:45:03
+821,526,Alvo Promoção Clássica,Google Ads,305.78,85,2017-12-26 04:09:34,2018-08-13 03:06:26
+822,130,Clássica Impacto Desportiva,TV,422.81,29,2018-08-03 00:34:37,2019-02-11 15:36:22
+823,766,Clássica Impacto Global,TV,258.54,51,2022-08-01 05:55:12,2022-12-24 15:47:40
+824,966,Conectada Impacto Digital,Redes Sociais,205.94,0,2014-04-14 10:32:40,2014-09-28 03:57:54
+825,568,Direta Promoção Sustentável,Email Marketing,772.69,0,2020-04-07 17:26:38,2020-05-13 05:18:04
+826,988,Alvo Promoção Urbana,Google Ads,414.38,0,2015-07-22 01:27:12,2015-08-07 00:26:15
+827,27,Viral Impacto Desportiva,Influenciadores,518.27,0,2016-06-25 10:34:29,2016-12-12 07:39:04
+828,628,Viral Promoção Rural,Influenciadores,695.41,0,2018-12-23 16:50:46,2019-11-09 11:57:21
+829,56,Clássica Promoção Fitness,TV,574.98,95,2018-02-22 17:30:52,2019-01-18 07:47:22
+830,378,Viral Campanha Cultural,Influenciadores,414.6,0,2023-06-05 09:42:38,2023-09-02 15:49:20
+831,319,Alvo Campanha Tecnológica,Google Ads,675.31,30,2016-12-31 23:40:31,2017-08-29 16:42:59
+832,738,Conectada Promoção Fitness,Redes Sociais,292.39,0,2020-08-11 14:09:09,2021-03-17 09:11:48
+833,717,Viral Promoção Rural,Influenciadores,615.99,0,2022-06-14 03:29:36,2022-10-18 02:50:11
+834,302,Alvo Promoção Cultural,Google Ads,361.86,213,2019-04-23 00:37:11,2020-03-25 23:09:34
+835,614,Clássica Impacto De Luxo,TV,398.27,0,2014-07-08 01:39:09,2015-03-31 05:23:13
+836,79,Alvo Campanha Inovação,Google Ads,509.23,35,2014-06-30 08:37:28,2015-01-11 19:24:18
+837,38,Clássica Impacto Global,TV,748.92,0,2019-10-08 17:08:00,2019-10-29 08:23:24
+838,328,Alvo Promoção Familiar,Google Ads,620.19,105,2021-08-18 08:44:02,2022-06-06 13:27:44
+839,635,Conectada Impacto Inovação,Redes Sociais,974.77,33,2019-12-07 00:36:58,2020-03-02 02:39:26
+840,546,Clássica Promoção Online,TV,499.06,32,2021-05-03 13:41:26,2021-11-17 09:46:42
+841,913,Viral Campanha Fitness,Influenciadores,960.1,30,2017-01-21 22:44:18,2017-11-21 13:45:56
+842,41,Conectada Impacto Ecológica,Redes Sociais,555.94,166,2019-11-13 04:38:17,2020-06-30 16:06:35
+843,144,Conectada Impacto Ecológica,Redes Sociais,624.42,20,2023-09-16 21:10:05,2024-02-06 08:09:34
+844,127,Clássica Impacto Digital,TV,517.39,0,2018-08-04 18:39:07,2019-02-19 11:29:51
+845,54,Alvo Impacto Familiar,Google Ads,335.29,165,2015-10-10 20:59:49,2016-07-24 00:39:20
+846,221,Direta Promoção Rural,Email Marketing,590.11,0,2017-03-12 06:22:41,2017-04-30 16:02:49
+847,532,Direta Campanha Desportiva,Email Marketing,972.96,92,2014-06-22 09:01:37,2015-04-26 08:40:36
+848,969,Clássica Campanha Fitness,TV,306.24,34,2015-03-26 13:39:41,2015-07-26 04:29:41
+849,74,Clássica Promoção Urbana,TV,979.68,181,2022-08-19 09:56:21,2023-08-08 23:02:01
+850,380,Conectada Campanha Nacional,Redes Sociais,483.63,43,2016-06-11 02:29:05,2017-04-08 23:25:15
+851,721,Clássica Impacto Urbana,TV,934.44,53,2015-01-12 18:06:56,2015-11-12 23:18:04
+852,809,Clássica Promoção Ecológica,TV,677.36,16,2019-01-19 05:03:12,2019-03-15 11:27:08
+853,533,Viral Impacto Artística,Influenciadores,261.7,0,2023-05-14 09:56:56,2024-03-11 07:34:57
+854,140,Conectada Promoção Artística,Redes Sociais,347.42,33,2017-07-17 19:31:41,2018-04-24 03:57:24
+855,441,Clássica Campanha Vintage,TV,334.28,0,2015-08-17 05:31:37,2015-09-11 23:08:22
+856,367,Alvo Campanha Gourmet,Google Ads,632.44,21,2020-02-17 11:34:23,2020-03-06 09:35:05
+857,304,Conectada Campanha Familiar,Redes Sociais,248.8,0,2014-01-08 14:31:01,2014-08-28 00:36:59
+858,371,Viral Campanha Online,Influenciadores,866.11,0,2021-02-10 21:09:21,2021-05-12 13:45:55
+859,145,Conectada Impacto Desportiva,Redes Sociais,228.83,18,2023-01-10 03:51:26,2023-10-15 17:37:36
+860,505,Conectada Impacto Tradicional,Redes Sociais,429.85,0,2017-01-25 23:32:21,2017-02-26 12:05:33
+861,327,Clássica Impacto Nacional,TV,475.44,98,2019-01-23 19:49:07,2019-09-09 09:13:35
+862,632,Direta Campanha Cultural,Email Marketing,327.99,19,2017-06-14 07:07:30,2018-05-28 14:36:10
+863,919,Clássica Promoção Online,TV,684.37,23,2022-02-15 14:02:01,2023-01-29 07:07:41
+864,121,Viral Impacto Contemporânea,Influenciadores,332.24,1,2019-11-07 09:26:55,2020-10-05 01:52:50
+865,795,Clássica Campanha Artística,TV,651.61,0,2024-09-07 11:28:01,2025-05-08 08:37:34
+866,847,Conectada Impacto Ecológica,Redes Sociais,490.96,99,2014-02-02 17:07:22,2014-06-21 09:38:59
+867,431,Clássica Impacto Gourmet,TV,216.92,9,2020-06-12 00:12:01,2020-08-20 04:53:50
+868,477,Direta Impacto Global,Email Marketing,924.36,0,2024-05-17 03:18:11,2024-09-03 10:49:25
+869,510,Direta Impacto Tradicional,Email Marketing,321.64,112,2018-03-02 01:27:00,2018-10-17 01:39:01
+870,376,Viral Campanha De Luxo,Influenciadores,205.93,173,2014-11-01 06:59:07,2015-10-31 13:33:16
+871,733,Viral Campanha Rural,Influenciadores,849.36,0,2024-06-14 23:01:16,2025-01-19 08:24:46
+872,525,Direta Impacto Tecnológica,Email Marketing,555.11,14,2017-04-05 12:28:25,2017-07-15 09:06:37
+873,517,Alvo Promoção Fitness,Google Ads,216.84,78,2020-08-13 06:17:59,2021-06-19 10:54:50
+874,566,Clássica Impacto Contemporânea,TV,372.84,49,2014-05-13 03:41:22,2014-12-11 23:44:35
+875,862,Direta Campanha Clássica,Email Marketing,604.26,0,2022-03-18 23:31:14,2022-05-11 18:29:39
+876,746,Conectada Promoção Fitness,Redes Sociais,779.69,280,2017-09-22 02:58:20,2018-07-27 10:57:57
+877,205,Alvo Promoção Local,Google Ads,654.82,0,2024-12-08 08:53:44,2024-12-26 13:25:29
+878,660,Alvo Promoção Tecnológica,Google Ads,625.77,0,2021-09-09 15:05:39,2022-04-16 11:30:55
+879,593,Direta Impacto Gourmet,Email Marketing,667.21,0,2021-09-30 15:37:07,2022-02-28 15:36:09
+880,540,Conectada Promoção Online,Redes Sociais,873.42,9,2023-02-07 15:59:09,2023-07-08 03:12:38
+881,206,Clássica Campanha Familiar,TV,469.13,18,2017-01-27 11:39:01,2017-06-06 08:34:49
+882,930,Alvo Impacto Local,Google Ads,566.74,0,2014-04-29 18:46:19,2015-03-17 06:13:16
+883,21,Clássica Promoção Contemporânea,TV,692.44,0,2017-01-04 09:21:31,2017-05-09 15:49:26
+884,16,Clássica Impacto Tecnológica,TV,868.98,0,2024-05-23 00:13:27,2025-03-07 19:08:34
+885,173,Clássica Promoção Tradicional,TV,474.48,0,2020-05-30 07:38:31,2020-07-31 14:58:26
+886,483,Viral Campanha Contemporânea,Influenciadores,941.5,94,2014-02-10 12:20:17,2014-07-06 00:22:37
+887,429,Viral Campanha Global,Influenciadores,507.52,56,2018-04-21 05:33:00,2018-08-01 06:50:12
+888,859,Alvo Promoção Local,Google Ads,774.64,0,2015-08-13 10:34:16,2015-11-29 20:46:15
+889,304,Alvo Impacto Desportiva,Google Ads,831.35,83,2014-09-04 16:24:45,2015-08-17 11:39:08
+890,608,Conectada Campanha Global,Redes Sociais,921.01,0,2017-03-16 09:27:22,2018-03-05 00:44:57
+891,5,Clássica Campanha Clássica,TV,501.5,0,2018-07-30 07:06:15,2018-11-10 10:14:08
+892,407,Viral Promoção Rural,Influenciadores,279.45,0,2016-05-02 00:50:26,2016-08-04 23:07:18
+893,602,Conectada Campanha Sustentável,Redes Sociais,712.36,0,2015-03-07 06:57:53,2015-08-11 17:55:32
+894,951,Clássica Campanha Desportiva,TV,451.43,0,2023-02-11 00:34:32,2023-06-27 14:00:45
+895,358,Alvo Impacto Fitness,Google Ads,884.4,83,2020-05-07 10:45:10,2021-01-05 07:07:56
+896,407,Direta Impacto Cultural,Email Marketing,486.08,28,2020-08-06 22:59:09,2021-06-05 23:47:00
+897,15,Direta Campanha Ecológica,Email Marketing,887.96,83,2022-02-23 06:00:49,2022-07-02 01:59:49
+898,192,Alvo Campanha Desportiva,Google Ads,536.15,31,2018-04-27 02:56:49,2019-03-08 18:58:23
+899,395,Clássica Impacto Global,TV,819.9,225,2014-12-18 21:10:43,2015-05-07 19:43:26
+900,187,Direta Promoção Urbana,Email Marketing,866.73,94,2018-12-21 00:14:53,2019-07-31 17:19:08
+901,644,Clássica Promoção Tecnológica,TV,298.98,144,2020-10-02 13:42:24,2021-09-08 09:57:03
+902,513,Conectada Campanha Rural,Redes Sociais,660.18,0,2018-09-25 00:19:46,2019-06-17 23:20:49
+903,724,Conectada Campanha Gourmet,Redes Sociais,985.33,95,2019-11-20 20:09:23,2020-07-04 03:59:57
+904,454,Conectada Campanha Global,Redes Sociais,448.67,0,2021-12-18 18:30:00,2022-02-19 03:38:35
+905,102,Direta Promoção Tecnológica,Email Marketing,791.49,0,2014-12-13 11:47:27,2015-08-13 08:36:08
+906,116,Conectada Impacto Global,Redes Sociais,441.65,0,2014-02-14 13:18:57,2014-09-20 12:07:35
+907,49,Direta Promoção Online,Email Marketing,755.73,0,2022-01-05 09:40:28,2022-04-07 01:03:26
+908,774,Clássica Impacto Gourmet,TV,253.59,57,2014-09-28 13:14:01,2015-04-25 23:23:24
+909,885,Viral Impacto Local,Influenciadores,909.56,0,2016-04-05 13:39:56,2016-10-24 17:18:11
+910,620,Viral Campanha Vintage,Influenciadores,975.27,98,2024-05-11 08:59:43,2025-02-23 03:22:46
+911,142,Clássica Campanha Cultural,TV,902.23,176,2023-08-27 18:38:42,2024-07-30 10:13:40
+912,88,Conectada Impacto Retro,Redes Sociais,254.61,0,2016-03-18 04:40:54,2016-12-02 18:07:51
+913,129,Direta Impacto Vintage,Email Marketing,743.09,0,2019-05-13 11:40:48,2020-01-28 17:01:32
+914,640,Alvo Impacto Clássica,Google Ads,234.91,33,2016-07-12 17:42:42,2017-07-02 01:14:32
+915,908,Conectada Promoção Sustentável,Redes Sociais,790.63,74,2015-05-10 11:53:20,2016-02-21 05:07:32
+916,916,Viral Impacto Cultural,Influenciadores,933.84,252,2019-05-16 01:37:26,2020-02-17 19:12:28
+917,812,Clássica Impacto Artística,TV,462.79,20,2021-08-04 06:50:43,2022-06-12 20:59:22
+918,210,Viral Campanha Gourmet,Influenciadores,434.94,0,2020-02-10 17:00:14,2020-05-12 11:59:41
+919,469,Conectada Impacto Online,Redes Sociais,502.36,0,2018-05-16 12:59:34,2018-12-15 10:35:25
+920,889,Alvo Campanha Cultural,Google Ads,610.47,53,2015-10-25 02:12:19,2016-02-22 16:33:05
+921,312,Conectada Campanha Global,Redes Sociais,935.99,0,2022-02-04 23:43:40,2022-12-26 20:13:24
+922,805,Alvo Promoção Local,Google Ads,441.8,0,2022-01-05 09:55:06,2022-03-30 23:13:00
+923,732,Viral Campanha Online,Influenciadores,233.92,0,2024-08-11 02:21:42,2025-01-18 19:36:57
+924,314,Conectada Impacto Tradicional,Redes Sociais,870.91,0,2020-10-15 06:28:19,2021-04-29 15:32:48
+925,159,Conectada Impacto Fitness,Redes Sociais,614.36,140,2023-10-24 02:07:46,2024-06-29 22:46:30
+926,403,Direta Promoção Inovação,Email Marketing,998.71,0,2017-03-03 09:58:10,2018-01-04 04:07:49
+927,25,Conectada Campanha Local,Redes Sociais,647.51,0,2016-03-31 09:09:51,2016-06-29 15:25:03
+928,383,Conectada Impacto Artística,Redes Sociais,917.31,83,2019-07-05 09:59:46,2019-11-08 01:39:33
+929,264,Direta Promoção Familiar,Email Marketing,659.42,28,2019-03-20 03:12:42,2019-12-11 16:28:05
+930,259,Viral Impacto Tecnológica,Influenciadores,564.86,81,2021-10-30 14:03:11,2022-01-23 10:01:12
+931,891,Viral Impacto Nacional,Influenciadores,629.79,67,2020-02-14 22:57:27,2020-11-24 01:24:59
+932,888,Alvo Promoção Retro,Google Ads,249.76,0,2018-09-21 09:20:50,2018-11-18 23:56:27
+933,14,Conectada Impacto Contemporânea,Redes Sociais,712.72,22,2018-07-24 07:32:02,2018-11-27 22:35:38
+934,120,Clássica Impacto Desportiva,TV,789.35,0,2017-08-10 08:35:53,2017-09-24 04:08:38
+935,884,Viral Promoção Vintage,Influenciadores,569.91,0,2022-11-15 00:21:10,2023-03-26 03:56:49
+936,966,Clássica Promoção Nacional,TV,318.12,121,2020-02-10 19:45:23,2020-11-18 02:54:52
+937,812,Clássica Impacto Retro,TV,843.29,31,2014-07-28 04:04:56,2014-10-09 05:18:30
+938,121,Alvo Impacto Fitness,Google Ads,446.56,0,2016-01-07 06:05:27,2016-09-29 00:33:53
+939,571,Conectada Campanha Vintage,Redes Sociais,607.79,0,2024-12-31 13:49:40,2025-12-05 02:10:23
+940,855,Viral Promoção Familiar,Influenciadores,927.46,0,2021-12-25 12:51:38,2022-12-09 15:29:50
+941,155,Viral Campanha Retro,Influenciadores,476.16,0,2014-11-17 12:09:12,2015-06-14 06:24:13
+942,587,Viral Promoção Urbana,Influenciadores,311.53,0,2016-07-22 22:19:07,2016-08-13 11:33:29
+943,936,Viral Promoção Ecológica,Influenciadores,476.87,95,2023-12-25 14:53:51,2024-06-24 22:47:33
+944,356,Viral Impacto Familiar,Influenciadores,269.27,137,2021-09-11 12:55:00,2021-12-19 16:24:32
+945,251,Alvo Campanha Clássica,Google Ads,761.11,63,2017-11-11 07:00:46,2018-10-29 21:27:44
+946,131,Direta Campanha Sustentável,Email Marketing,443.05,0,2016-06-24 04:06:40,2016-08-01 12:10:15
+947,20,Viral Campanha Familiar,Influenciadores,785.62,32,2024-08-08 16:22:46,2025-05-25 04:06:19
+948,665,Clássica Promoção Ecológica,TV,865.41,143,2017-04-14 04:54:04,2017-11-08 14:33:22
+949,916,Alvo Campanha Urbana,Google Ads,635.36,66,2016-10-16 17:46:37,2017-04-05 03:31:01
+950,405,Direta Promoção Rural,Email Marketing,381.26,80,2021-04-06 11:56:11,2021-08-01 08:09:07
+951,234,Alvo Promoção Nacional,Google Ads,762.74,0,2022-03-27 12:31:01,2022-05-17 06:25:00
+952,352,Conectada Promoção Sustentável,Redes Sociais,553.04,12,2022-02-24 16:07:18,2022-10-03 02:11:21
+953,192,Direta Impacto Gourmet,Email Marketing,208.05,94,2016-12-10 06:38:04,2017-02-02 08:53:43
+954,513,Viral Promoção Fitness,Influenciadores,928.91,0,2015-07-24 17:59:03,2016-06-03 05:45:06
+955,935,Conectada Campanha De Luxo,Redes Sociais,436.78,48,2021-02-14 14:19:45,2021-07-14 16:05:49
+956,214,Alvo Promoção Familiar,Google Ads,477.02,46,2022-11-10 04:31:25,2023-04-19 21:11:27
+957,525,Conectada Impacto Sustentável,Redes Sociais,714.59,106,2021-11-01 05:54:55,2022-05-31 18:21:09
+958,556,Direta Impacto Ecológica,Email Marketing,925.29,91,2014-03-11 08:21:21,2014-11-02 06:21:16
+959,505,Conectada Promoção Fitness,Redes Sociais,595.96,202,2020-04-30 17:49:51,2020-11-26 09:03:10
+960,986,Viral Impacto Familiar,Influenciadores,244.06,0,2014-08-21 00:18:54,2015-03-31 22:44:28
+961,688,Clássica Impacto Tecnológica,TV,200.49,91,2019-12-06 20:32:34,2020-02-04 08:51:45
+962,150,Viral Campanha Gourmet,Influenciadores,911.93,243,2016-11-04 23:52:05,2017-10-27 01:11:31
+963,40,Direta Campanha Desportiva,Email Marketing,378.93,31,2022-02-15 09:09:17,2022-07-18 19:25:14
+964,184,Alvo Promoção Gourmet,Google Ads,788.16,109,2022-06-04 21:48:14,2022-10-25 12:55:10
+965,694,Viral Campanha Gourmet,Influenciadores,575.76,0,2024-03-24 04:26:12,2024-05-20 13:20:12
+966,238,Conectada Campanha Gourmet,Redes Sociais,803.33,0,2015-06-15 00:30:14,2016-03-29 04:34:09
+967,694,Alvo Promoção Familiar,Google Ads,960.77,0,2024-02-19 23:43:15,2024-06-29 11:13:22
+968,621,Alvo Impacto Vintage,Google Ads,559.06,0,2024-02-15 13:29:55,2024-10-21 19:57:01
+969,483,Conectada Impacto Clássica,Redes Sociais,620.49,0,2023-12-01 17:15:08,2024-06-22 20:03:42
+970,900,Alvo Impacto Fitness,Google Ads,272.38,0,2014-07-27 18:35:26,2014-10-09 01:54:14
+971,427,Direta Impacto Tecnológica,Email Marketing,280.37,0,2021-03-03 15:15:09,2021-10-14 19:01:04
+972,260,Direta Campanha Urbana,Email Marketing,366.5,0,2023-12-27 13:25:28,2024-09-11 20:45:16
+973,168,Alvo Promoção Cultural,Google Ads,243.18,11,2015-05-09 18:58:05,2015-11-30 13:49:45
+974,903,Direta Campanha Global,Email Marketing,894.77,0,2017-11-17 13:24:44,2018-04-09 21:16:28
+975,648,Clássica Campanha Tecnológica,TV,928.16,59,2022-02-10 15:06:12,2022-12-03 09:05:12
+976,303,Viral Campanha De Luxo,Influenciadores,932.7,0,2018-08-05 11:48:20,2018-10-27 11:50:23
+977,899,Viral Promoção Global,Influenciadores,456.67,0,2018-12-24 09:43:17,2019-03-20 11:25:54
+978,677,Viral Promoção Artística,Influenciadores,847.23,0,2021-10-25 05:09:52,2022-01-10 14:42:37
+979,397,Alvo Impacto Cultural,Google Ads,882.11,190,2021-09-09 07:41:57,2022-05-30 02:23:22
+980,207,Direta Campanha Digital,Email Marketing,944.69,0,2014-06-24 21:25:58,2015-01-26 00:50:27
+981,559,Viral Impacto Tecnológica,Influenciadores,844.49,0,2015-01-11 23:52:38,2015-02-11 00:24:35
+982,73,Alvo Impacto Desportiva,Google Ads,922.28,0,2022-10-02 01:34:37,2023-05-18 00:42:09
+983,916,Conectada Promoção Contemporânea,Redes Sociais,985.21,16,2015-12-03 21:48:05,2016-06-23 19:08:45
+984,290,Direta Impacto Cultural,Email Marketing,844.88,36,2023-08-29 09:47:42,2023-10-22 13:21:46
+985,598,Viral Promoção Global,Influenciadores,261.81,146,2017-03-04 02:15:39,2018-01-16 17:34:26
+986,488,Direta Promoção Tecnológica,Email Marketing,682.68,16,2015-02-17 08:51:25,2015-09-12 15:56:54
+987,986,Conectada Promoção Fitness,Redes Sociais,312.44,0,2021-06-30 11:38:06,2021-07-16 02:46:34
+988,811,Viral Campanha Sustentável,Influenciadores,788.21,114,2018-07-25 05:36:59,2019-06-22 15:34:28
+989,521,Direta Campanha Sustentável,Email Marketing,814.48,143,2021-08-02 10:26:06,2022-07-07 14:27:26
+990,73,Direta Impacto Digital,Email Marketing,577.42,71,2015-03-26 10:29:09,2016-01-04 04:30:40
+991,696,Direta Promoção Rural,Email Marketing,592.89,2,2020-02-25 05:36:51,2020-04-18 21:20:10
+992,939,Clássica Impacto Tradicional,TV,721.92,78,2021-01-12 17:54:13,2021-08-09 08:53:29
+993,389,Viral Impacto Vintage,Influenciadores,911.83,35,2017-10-21 13:08:03,2018-10-13 06:32:06
+994,109,Direta Campanha Local,Email Marketing,993.41,0,2017-11-11 07:46:50,2018-03-03 09:49:47
+995,688,Conectada Promoção Global,Redes Sociais,741.76,0,2021-03-15 18:24:46,2022-02-11 09:12:09
+996,550,Clássica Promoção Cultural,TV,319.04,152,2018-12-18 02:30:04,2019-10-30 04:07:05
+997,997,Alvo Impacto Ecológica,Google Ads,213.05,95,2016-04-08 07:40:09,2016-12-30 23:59:11
+998,893,Clássica Campanha Artística,TV,444.79,0,2018-05-25 13:47:25,2018-06-26 16:11:55
+999,100,Clássica Campanha Ecológica,TV,287.45,160,2018-07-23 02:56:03,2019-05-31 14:27:54
+1000,734,Alvo Campanha Tradicional,Google Ads,366.48,64,2022-09-23 02:58:52,2023-01-16 19:25:09
+1001,441,Clássica Impacto De Luxo,TV,414.65,242,2018-08-08 21:57:02,2019-05-23 17:42:21
+1002,288,Direta Promoção Inovação,Email Marketing,328.09,0,2020-12-23 00:13:49,2021-04-10 19:01:47
+1003,744,Viral Campanha Contemporânea,Influenciadores,595.3,2,2023-05-18 19:22:48,2024-04-04 02:11:41
+1004,284,Direta Campanha Sustentável,Email Marketing,937.83,0,2023-12-09 17:42:15,2024-06-04 05:35:38
+1005,656,Conectada Promoção Sustentável,Redes Sociais,679.06,2,2022-09-10 14:54:33,2022-11-19 04:14:11
+1006,670,Conectada Impacto Sustentável,Redes Sociais,866.86,0,2023-03-28 09:02:10,2023-12-15 17:27:34
+1007,545,Direta Promoção Sustentável,Email Marketing,339.99,16,2014-07-19 21:01:51,2015-07-14 14:54:28
+1008,742,Alvo Campanha Vintage,Google Ads,346.97,224,2022-06-10 23:06:51,2023-03-30 00:34:51
+1009,663,Conectada Impacto Sustentável,Redes Sociais,953.87,31,2023-02-23 08:05:35,2023-12-11 16:52:01
+1010,768,Conectada Campanha Rural,Redes Sociais,740.73,0,2024-10-30 03:40:15,2025-09-23 17:06:02
+1011,697,Conectada Promoção Fitness,Redes Sociais,238.17,0,2023-02-16 21:17:43,2023-03-11 00:39:27
+1012,994,Clássica Promoção Fitness,TV,696.2,0,2021-01-17 11:24:57,2021-06-25 23:36:50
+1013,508,Direta Impacto Retro,Email Marketing,953.11,115,2020-05-24 19:37:04,2021-02-18 20:06:52
+1014,967,Viral Impacto Tradicional,Influenciadores,404.22,0,2016-09-01 16:06:09,2017-06-26 00:57:34
+1015,485,Viral Impacto Artística,Influenciadores,595.16,0,2019-07-27 18:01:22,2019-09-25 22:33:23
+1016,659,Conectada Campanha Tecnológica,Redes Sociais,555.22,52,2014-12-02 10:31:35,2015-06-17 08:44:11
+1017,2,Clássica Campanha Artística,TV,207.92,55,2021-05-24 23:08:13,2022-02-17 16:01:22
+1018,81,Conectada Promoção Cultural,Redes Sociais,753.44,116,2019-10-31 11:06:20,2020-03-11 19:15:37
+1019,700,Alvo Campanha Nacional,Google Ads,854.04,58,2014-09-01 08:40:42,2015-06-22 08:29:23
+1020,182,Viral Impacto Digital,Influenciadores,796.71,93,2017-04-28 03:48:09,2018-03-01 18:09:40
+1021,928,Alvo Promoção Ecológica,Google Ads,660.82,63,2021-11-19 05:53:36,2022-05-01 16:34:04
+1022,864,Alvo Promoção Inovação,Google Ads,417.82,0,2022-02-04 23:06:25,2022-08-19 21:21:49
+1023,89,Direta Campanha Familiar,Email Marketing,457.33,0,2023-08-06 04:44:04,2023-10-15 07:08:40
+1024,10,Clássica Impacto Cultural,TV,310.47,0,2023-02-11 16:55:58,2023-07-09 19:31:29
+1025,857,Viral Promoção Desportiva,Influenciadores,976.97,0,2019-11-16 12:18:17,2020-01-04 21:08:50
+1026,126,Alvo Promoção Ecológica,Google Ads,366.58,73,2016-08-02 02:17:40,2017-07-17 04:00:56
+1027,267,Alvo Campanha Global,Google Ads,991.0,74,2019-01-05 04:21:12,2019-11-07 12:21:48
+1028,991,Alvo Impacto Rural,Google Ads,973.0,67,2020-07-30 01:29:38,2020-08-30 08:39:30
+1029,82,Viral Promoção Local,Influenciadores,526.3,114,2022-10-08 15:01:47,2023-03-06 20:45:17
+1030,650,Conectada Promoção Artística,Redes Sociais,670.98,0,2023-05-01 23:46:38,2023-06-29 13:04:18
+1031,124,Viral Campanha Familiar,Influenciadores,238.34,0,2016-04-11 00:00:58,2016-07-29 00:05:47
+1032,912,Alvo Promoção Tradicional,Google Ads,641.91,0,2020-10-26 07:06:02,2021-03-23 02:08:46
+1033,972,Direta Campanha Online,Email Marketing,300.58,0,2017-08-03 18:57:41,2017-11-06 20:51:41
+1034,172,Alvo Impacto Retro,Google Ads,972.14,53,2014-08-27 14:34:30,2015-02-26 15:40:18
+1035,773,Clássica Campanha Nacional,TV,321.68,114,2022-03-30 04:29:44,2022-11-02 10:24:36
+1036,442,Alvo Impacto Local,Google Ads,437.15,21,2020-04-04 07:03:35,2021-01-27 20:04:33
+1037,90,Alvo Impacto Online,Google Ads,753.93,133,2016-05-27 07:52:16,2016-10-13 07:22:40
+1038,988,Direta Campanha Gourmet,Email Marketing,569.4,197,2022-04-24 02:50:44,2023-04-23 14:33:17
+1039,487,Direta Promoção Fitness,Email Marketing,337.29,91,2024-02-19 14:36:25,2024-10-29 00:53:51
+1040,199,Alvo Promoção Sustentável,Google Ads,670.1,15,2016-09-04 11:40:53,2017-01-19 20:41:57
+1041,358,Conectada Impacto Desportiva,Redes Sociais,247.84,14,2019-07-13 00:28:12,2019-08-14 20:06:17
+1042,451,Direta Impacto Fitness,Email Marketing,245.19,0,2021-01-31 16:49:44,2021-11-21 06:54:44
+1043,666,Viral Impacto Contemporânea,Influenciadores,859.8,58,2017-06-09 21:14:51,2017-11-15 19:28:47
+1044,216,Conectada Promoção Online,Redes Sociais,756.47,0,2022-03-05 07:02:29,2022-05-11 09:05:53
+1045,168,Alvo Campanha Local,Google Ads,965.89,11,2014-11-02 14:33:58,2015-10-12 09:38:44
+1046,961,Clássica Promoção Digital,TV,925.82,94,2018-02-13 23:07:42,2018-12-22 05:16:53
+1047,863,Alvo Impacto Vintage,Google Ads,857.18,0,2017-05-01 00:50:44,2017-09-15 09:41:01
+1048,804,Viral Campanha Ecológica,Influenciadores,312.05,0,2023-12-25 20:48:49,2024-05-07 01:34:39
+1049,33,Direta Promoção Cultural,Email Marketing,960.32,106,2022-02-10 18:43:09,2022-10-19 06:32:24
+1050,514,Alvo Impacto Familiar,Google Ads,262.38,0,2019-06-07 22:22:29,2019-07-25 18:24:03
+1051,691,Alvo Campanha Gourmet,Google Ads,774.27,0,2015-05-07 07:25:19,2015-09-18 15:01:31
+1052,327,Alvo Promoção Vintage,Google Ads,888.73,146,2023-03-18 08:53:44,2023-12-04 20:37:04
+1053,249,Alvo Promoção Ecológica,Google Ads,327.13,166,2015-11-16 09:00:48,2016-08-17 01:29:02
+1054,891,Clássica Campanha Contemporânea,TV,851.51,0,2018-04-10 03:26:25,2018-12-16 03:47:35
+1055,343,Direta Promoção Ecológica,Email Marketing,330.61,97,2014-03-13 01:46:44,2014-12-01 07:21:40
+1056,420,Direta Campanha Gourmet,Email Marketing,528.09,0,2019-05-20 12:27:05,2019-06-12 08:29:43
+1057,203,Clássica Impacto Digital,TV,709.65,198,2019-07-27 15:36:02,2020-06-26 12:36:02
+1058,876,Direta Promoção Nacional,Email Marketing,419.03,65,2015-05-01 05:38:58,2015-08-19 23:01:25
+1059,249,Clássica Campanha Contemporânea,TV,642.43,0,2018-07-30 19:11:07,2019-05-01 18:22:28
+1060,934,Direta Campanha Tradicional,Email Marketing,613.65,33,2021-07-25 07:37:04,2022-03-23 19:56:24
+1061,229,Clássica Campanha Tecnológica,TV,635.74,77,2021-08-22 10:02:09,2022-06-11 03:19:28
+1062,311,Direta Impacto Digital,Email Marketing,913.33,22,2016-04-18 12:26:36,2017-01-11 02:49:23
+1063,507,Viral Campanha Inovação,Influenciadores,260.43,35,2016-08-05 10:58:25,2017-01-19 13:38:20
+1064,244,Direta Impacto Sustentável,Email Marketing,202.73,179,2020-03-09 07:01:52,2021-02-22 05:05:44
+1065,58,Alvo Promoção De Luxo,Google Ads,270.24,125,2016-11-04 18:30:38,2017-04-05 12:23:11
+1066,395,Clássica Promoção Nacional,TV,942.08,26,2023-06-02 02:25:32,2024-02-03 02:57:52
+1067,855,Alvo Impacto Ecológica,Google Ads,323.5,17,2019-11-09 04:47:03,2020-02-27 04:22:12
+1068,337,Alvo Promoção Familiar,Google Ads,557.29,15,2014-10-05 08:05:24,2015-04-01 01:44:44
+1069,477,Clássica Promoção De Luxo,TV,247.53,65,2017-07-24 04:57:29,2018-01-25 19:37:42
+1070,933,Viral Impacto Inovação,Influenciadores,912.08,86,2016-07-03 16:00:49,2017-04-17 01:31:43
+1071,752,Conectada Promoção Urbana,Redes Sociais,527.18,17,2015-07-13 04:10:34,2015-07-30 03:30:01
+1072,677,Viral Campanha Familiar,Influenciadores,259.35,0,2019-05-20 23:02:34,2019-09-20 09:45:43
+1073,347,Conectada Impacto Artística,Redes Sociais,862.12,0,2019-12-01 17:44:43,2020-02-11 08:58:33
+1074,711,Clássica Campanha Rural,TV,783.94,228,2021-10-22 08:37:28,2022-07-06 20:03:35
+1075,184,Conectada Campanha Nacional,Redes Sociais,339.59,181,2018-11-14 15:16:22,2019-03-21 10:25:58
+1076,787,Clássica Impacto Retro,TV,968.6,152,2019-10-26 18:46:26,2020-09-25 07:55:00
+1077,147,Viral Campanha Urbana,Influenciadores,633.22,89,2022-01-04 21:26:52,2022-06-20 23:51:05
+1078,961,Conectada Impacto Gourmet,Redes Sociais,846.59,43,2016-05-29 11:55:26,2016-11-09 16:40:29
+1079,22,Clássica Campanha Online,TV,791.76,51,2019-04-19 09:31:38,2020-02-11 18:55:24
+1080,782,Viral Campanha Vintage,Influenciadores,945.11,100,2020-02-20 18:59:23,2020-05-03 09:50:12
+1081,408,Conectada Campanha Online,Redes Sociais,605.99,0,2024-10-26 04:44:38,2024-12-03 00:11:07
+1082,663,Clássica Impacto Clássica,TV,805.49,61,2022-11-20 16:26:47,2023-10-25 07:55:01
+1083,932,Clássica Promoção Gourmet,TV,963.64,265,2021-03-14 12:56:47,2021-10-04 21:23:56
+1084,445,Alvo Campanha Familiar,Google Ads,727.2,0,2020-10-28 15:53:38,2021-02-09 18:59:20
+1085,353,Alvo Campanha Artística,Google Ads,875.13,12,2020-05-14 03:37:27,2021-01-31 21:11:29
+1086,697,Clássica Campanha Fitness,TV,789.74,0,2017-04-11 02:24:11,2017-08-01 03:03:15
+1087,840,Alvo Promoção Artística,Google Ads,720.16,59,2017-09-23 01:33:15,2018-04-09 02:14:08
+1088,439,Viral Promoção Sustentável,Influenciadores,840.8,24,2023-07-01 16:39:39,2023-11-21 23:37:50
+1089,691,Conectada Impacto Familiar,Redes Sociais,291.19,8,2017-03-20 22:15:19,2017-06-27 10:13:21
+1090,712,Alvo Impacto Vintage,Google Ads,242.05,0,2021-09-19 23:55:22,2021-10-24 06:11:25
+1091,925,Viral Promoção Fitness,Influenciadores,762.43,0,2014-02-09 10:44:57,2014-06-03 22:16:11
+1092,343,Alvo Promoção Rural,Google Ads,660.81,179,2014-09-07 13:27:39,2015-09-06 12:25:11
+1093,190,Viral Campanha Tecnológica,Influenciadores,338.99,70,2014-10-03 02:19:46,2015-07-18 17:38:42
+1094,745,Direta Impacto Desportiva,Email Marketing,890.52,104,2023-10-10 22:29:59,2024-09-30 22:49:36
+1095,347,Alvo Promoção Inovação,Google Ads,839.95,0,2015-08-15 17:08:26,2016-01-05 11:09:30
+1096,11,Conectada Campanha Urbana,Redes Sociais,663.62,16,2018-09-24 00:56:48,2019-05-26 07:48:04
+1097,721,Direta Campanha Online,Email Marketing,243.85,0,2015-07-18 09:46:00,2016-01-26 07:40:15
+1098,54,Conectada Campanha Digital,Redes Sociais,509.6,0,2020-07-03 21:00:52,2020-09-28 04:03:12
+1099,563,Alvo Impacto Retro,Google Ads,601.78,0,2021-07-20 07:39:56,2021-09-29 05:10:48
+1100,733,Clássica Impacto Tradicional,TV,613.78,13,2017-01-12 09:52:08,2017-12-16 02:50:58
+1101,823,Conectada Impacto Desportiva,Redes Sociais,921.83,19,2023-01-15 03:59:06,2023-06-24 06:43:18
+1102,543,Direta Impacto Rural,Email Marketing,459.13,0,2016-03-14 19:01:53,2016-09-28 08:25:14
+1103,425,Alvo Campanha Clássica,Google Ads,916.2,183,2015-02-17 14:07:41,2015-07-05 04:17:22
+1104,86,Direta Campanha Familiar,Email Marketing,437.16,66,2017-02-04 11:59:58,2017-07-11 19:08:54
+1105,927,Alvo Promoção Urbana,Google Ads,604.98,72,2021-09-26 06:51:03,2022-06-26 14:20:24
+1106,836,Viral Promoção Clássica,Influenciadores,590.94,0,2019-09-10 17:41:09,2020-02-13 19:35:39
+1107,570,Clássica Impacto Ecológica,TV,204.36,0,2021-02-10 16:43:58,2021-11-29 12:32:40
+1108,518,Direta Promoção Online,Email Marketing,802.67,0,2016-12-10 13:04:40,2017-03-08 15:30:13
+1109,185,Alvo Impacto Sustentável,Google Ads,323.26,0,2017-08-23 07:50:42,2017-11-14 23:06:26
+1110,161,Direta Campanha Vintage,Email Marketing,462.98,0,2023-05-29 04:12:14,2023-09-04 21:35:12
+1111,976,Direta Campanha Digital,Email Marketing,842.24,0,2017-07-27 02:06:48,2017-08-16 01:51:11
+1112,473,Direta Campanha Local,Email Marketing,233.12,9,2015-11-26 19:04:29,2016-09-17 10:50:27
+1113,109,Clássica Impacto Artística,TV,569.64,0,2023-10-13 12:09:59,2023-11-07 10:07:38
+1114,519,Alvo Promoção Artística,Google Ads,743.35,55,2020-09-16 13:48:25,2021-06-02 11:10:06
+1115,650,Clássica Impacto Clássica,TV,933.77,48,2014-03-08 01:16:01,2014-12-12 09:12:51
+1116,617,Direta Campanha Contemporânea,Email Marketing,603.86,130,2017-08-15 13:56:20,2018-01-19 00:16:42
+1117,968,Viral Promoção Urbana,Influenciadores,640.8,107,2021-03-12 06:07:13,2022-03-06 19:55:00
+1118,889,Viral Impacto Contemporânea,Influenciadores,872.85,110,2017-12-18 14:02:12,2018-12-16 10:08:00
+1119,167,Viral Campanha Tecnológica,Influenciadores,786.56,58,2015-05-16 07:18:23,2016-01-25 21:35:57
+1120,823,Viral Campanha Digital,Influenciadores,771.14,0,2018-06-16 17:19:42,2019-04-03 03:46:08
+1121,868,Viral Campanha Digital,Influenciadores,855.79,0,2014-07-06 12:09:18,2014-10-29 21:02:06
+1122,256,Viral Campanha Local,Influenciadores,272.8,56,2016-08-09 04:02:23,2017-07-20 09:28:19
+1123,64,Alvo Impacto Rural,Google Ads,869.95,97,2015-05-05 17:48:21,2015-06-16 14:12:28
+1124,305,Alvo Campanha Rural,Google Ads,761.3,0,2023-09-29 03:10:18,2024-03-24 22:15:41
+1125,302,Clássica Promoção Digital,TV,724.73,50,2019-10-31 08:38:12,2020-01-24 07:34:28
+1126,983,Direta Impacto Rural,Email Marketing,564.6,145,2019-09-12 15:23:17,2020-04-09 17:45:22
+1127,397,Viral Campanha Gourmet,Influenciadores,220.53,0,2017-02-20 08:51:18,2017-03-07 16:13:04
+1128,461,Conectada Promoção Local,Redes Sociais,540.0,100,2019-06-13 17:24:37,2020-06-06 01:47:53
+1129,547,Direta Campanha Online,Email Marketing,360.43,137,2021-01-31 12:32:42,2021-07-11 03:53:34
+1130,84,Clássica Impacto Tecnológica,TV,958.92,0,2024-10-30 15:18:55,2024-12-23 22:41:31
+1131,19,Conectada Promoção Digital,Redes Sociais,209.17,0,2024-03-12 15:07:19,2024-06-06 16:59:18
+1132,520,Conectada Campanha Global,Redes Sociais,570.35,177,2024-02-29 06:32:33,2024-08-10 00:48:39
+1133,784,Direta Campanha Urbana,Email Marketing,791.52,76,2023-08-19 04:14:08,2024-07-12 02:18:18
+1134,427,Alvo Promoção Vintage,Google Ads,577.94,0,2018-05-29 07:05:01,2018-06-29 15:24:40
+1135,821,Direta Campanha Inovação,Email Marketing,911.64,43,2015-06-08 09:36:35,2016-05-03 10:57:09
+1136,283,Direta Promoção Tradicional,Email Marketing,905.7,103,2021-11-14 02:17:10,2022-08-05 18:58:09
+1137,609,Clássica Impacto Clássica,TV,451.1,99,2020-12-05 21:30:38,2021-08-21 04:32:35
+1138,640,Conectada Impacto De Luxo,Redes Sociais,519.13,93,2019-02-17 06:16:08,2019-08-17 06:10:36
+1139,485,Alvo Campanha Sustentável,Google Ads,328.34,0,2019-08-15 05:33:41,2020-03-23 11:00:09
+1140,656,Direta Impacto De Luxo,Email Marketing,223.26,0,2021-07-04 21:41:44,2021-08-13 19:04:52
+1141,120,Direta Impacto Nacional,Email Marketing,502.78,8,2015-01-10 01:30:21,2015-02-05 21:31:53
+1142,907,Alvo Impacto Cultural,Google Ads,666.58,0,2019-03-28 08:19:23,2020-02-09 23:55:00
+1143,130,Alvo Impacto Ecológica,Google Ads,532.51,41,2021-03-10 13:40:37,2022-01-04 15:22:44
+1144,333,Viral Impacto Tradicional,Influenciadores,631.34,82,2016-06-27 05:47:27,2017-05-13 19:34:38
+1145,86,Direta Campanha Urbana,Email Marketing,865.74,140,2014-02-05 08:00:12,2014-12-10 09:03:54
+1146,133,Conectada Impacto Ecológica,Redes Sociais,607.51,0,2024-10-01 18:32:37,2025-03-15 04:37:05
+1147,147,Alvo Campanha Sustentável,Google Ads,247.94,0,2019-01-27 09:23:18,2020-01-11 02:11:01
+1148,428,Alvo Impacto Nacional,Google Ads,714.07,0,2017-11-22 16:19:21,2018-01-09 12:59:45
+1149,381,Conectada Campanha De Luxo,Redes Sociais,965.36,57,2020-07-09 14:57:31,2021-06-16 05:58:46
+1150,823,Direta Campanha Ecológica,Email Marketing,338.78,55,2019-02-19 23:21:05,2020-02-10 16:08:42
+1151,931,Direta Impacto Desportiva,Email Marketing,756.59,0,2022-06-03 23:40:58,2022-10-11 20:01:22
+1152,876,Direta Campanha Contemporânea,Email Marketing,313.9,0,2016-01-28 17:35:26,2016-03-11 08:38:35
+1153,571,Clássica Impacto Local,TV,839.69,0,2014-04-05 11:44:22,2014-05-06 02:14:53
+1154,921,Direta Impacto Cultural,Email Marketing,462.35,0,2014-02-20 03:57:09,2014-08-16 06:40:36
+1155,224,Clássica Impacto Rural,TV,866.87,43,2019-06-08 17:19:54,2020-05-19 01:02:58
+1156,847,Direta Campanha Inovação,Email Marketing,349.83,1,2018-03-09 08:54:35,2019-01-25 05:46:55
+1157,702,Alvo Campanha Vintage,Google Ads,526.62,0,2019-06-03 21:28:53,2019-12-01 07:29:11
+1158,157,Viral Promoção Fitness,Influenciadores,342.23,0,2020-09-12 10:57:45,2021-03-05 12:53:00
+1159,826,Alvo Promoção Ecológica,Google Ads,967.09,0,2023-02-03 10:48:16,2023-05-22 08:00:27
+1160,777,Conectada Promoção Nacional,Redes Sociais,726.12,79,2017-05-22 18:58:32,2018-04-21 15:18:30
+1161,44,Viral Promoção Familiar,Influenciadores,448.82,82,2014-03-05 03:50:55,2015-01-15 13:34:10
+1162,706,Alvo Impacto Global,Google Ads,616.27,9,2023-01-28 01:37:05,2023-07-30 09:08:43
+1163,671,Conectada Impacto Rural,Redes Sociais,274.47,87,2017-07-10 13:48:48,2018-02-20 03:23:52
+1164,909,Direta Impacto Inovação,Email Marketing,809.1,57,2023-10-31 15:25:35,2024-01-07 03:20:10
+1165,972,Conectada Promoção Urbana,Redes Sociais,844.05,0,2019-10-01 16:56:59,2020-07-24 21:31:17
+1166,303,Conectada Impacto Ecológica,Redes Sociais,545.1,0,2018-10-12 10:06:29,2019-04-22 04:38:01
+1167,568,Alvo Impacto Desportiva,Google Ads,811.63,0,2024-10-09 20:46:05,2025-09-13 00:45:50
+1168,710,Viral Campanha Digital,Influenciadores,857.05,81,2021-01-08 10:34:00,2021-07-25 12:16:25
+1169,694,Conectada Impacto Retro,Redes Sociais,272.94,66,2023-04-23 01:31:22,2023-06-24 02:54:25
+1170,930,Direta Impacto Clássica,Email Marketing,748.48,0,2023-07-30 05:37:13,2023-09-23 03:40:04
+1171,37,Viral Impacto Urbana,Influenciadores,992.68,0,2022-04-19 07:12:14,2023-04-16 02:08:59
+1172,250,Direta Campanha Urbana,Email Marketing,734.15,46,2021-05-30 02:44:48,2022-01-19 11:00:50
+1173,348,Viral Impacto Nacional,Influenciadores,290.75,0,2014-06-10 06:41:26,2015-06-10 15:52:28
+1174,499,Clássica Promoção Urbana,TV,828.62,36,2016-03-12 09:39:51,2017-01-09 14:35:34
+1175,696,Direta Campanha Clássica,Email Marketing,601.01,66,2024-03-25 06:22:53,2024-10-21 22:20:03
+1176,402,Viral Promoção Digital,Influenciadores,943.22,40,2019-09-30 21:17:51,2020-04-13 08:30:10
+1177,252,Clássica Impacto Contemporânea,TV,885.56,139,2018-09-04 10:11:26,2019-07-12 02:28:19
+1178,605,Conectada Promoção Gourmet,Redes Sociais,562.18,131,2017-05-10 12:33:49,2018-04-22 03:09:22
+1179,660,Viral Promoção Artística,Influenciadores,944.84,75,2022-09-24 17:44:21,2023-08-10 15:17:25
+1180,677,Conectada Promoção Local,Redes Sociais,227.95,59,2014-05-05 10:17:58,2014-07-24 06:07:38
+1181,463,Direta Impacto Desportiva,Email Marketing,913.43,47,2021-02-08 01:38:12,2021-11-15 20:43:33
+1182,967,Alvo Promoção Tradicional,Google Ads,380.88,0,2014-02-27 08:49:44,2015-01-12 09:38:22
+1183,569,Clássica Impacto Ecológica,TV,591.7,192,2017-04-19 03:44:24,2017-10-28 14:14:59
+1184,737,Conectada Campanha Rural,Redes Sociais,894.85,5,2019-01-19 07:12:15,2019-05-11 23:55:16
+1185,522,Clássica Impacto Vintage,TV,680.3,77,2019-11-18 14:32:06,2020-10-17 05:17:48
+1186,798,Direta Campanha Global,Email Marketing,433.5,332,2016-03-10 18:34:18,2017-02-25 21:51:09
+1187,783,Alvo Campanha Global,Google Ads,544.56,102,2023-04-07 08:34:22,2024-01-23 18:18:34
+1188,643,Clássica Promoção Urbana,TV,276.64,7,2024-11-20 01:11:20,2025-07-09 05:38:28
+1189,986,Conectada Campanha Vintage,Redes Sociais,466.07,112,2024-04-16 00:50:24,2024-09-05 04:24:04
+1190,404,Alvo Impacto Digital,Google Ads,293.04,0,2014-07-07 14:56:15,2014-09-06 19:54:31
+1191,430,Alvo Campanha Tecnológica,Google Ads,520.65,0,2021-03-26 02:04:39,2021-06-30 03:14:47
+1192,807,Conectada Promoção Clássica,Redes Sociais,846.94,237,2018-11-03 16:33:13,2019-09-13 09:00:10
+1193,418,Clássica Promoção Digital,TV,630.22,84,2020-06-22 22:09:09,2021-02-12 22:48:08
+1194,752,Alvo Impacto Artística,Google Ads,427.71,0,2022-05-13 17:18:33,2022-12-22 09:51:47
+1195,591,Viral Impacto De Luxo,Influenciadores,896.48,166,2023-02-04 14:34:51,2023-12-13 01:00:58
+1196,993,Viral Impacto Clássica,Influenciadores,865.69,0,2023-04-17 07:22:21,2023-08-11 12:09:06
+1197,217,Alvo Promoção Contemporânea,Google Ads,320.69,9,2024-04-11 17:42:26,2024-10-11 10:55:06
+1198,970,Conectada Impacto Rural,Redes Sociais,469.86,132,2017-05-21 03:48:29,2017-09-11 19:32:55
+1199,263,Alvo Promoção De Luxo,Google Ads,410.36,82,2017-08-22 21:39:21,2017-12-23 10:21:54
+1200,961,Conectada Promoção Nacional,Redes Sociais,685.79,157,2021-12-30 01:37:28,2022-11-13 05:34:19
+1201,343,Alvo Impacto Tecnológica,Google Ads,404.74,2,2024-06-15 11:30:54,2025-02-04 18:12:29
+1202,339,Alvo Campanha Inovação,Google Ads,511.83,220,2017-11-21 05:03:18,2018-11-03 19:21:49
+1203,748,Viral Promoção Artística,Influenciadores,255.88,0,2020-03-12 00:00:14,2020-10-01 05:20:11
+1204,383,Viral Impacto Rural,Influenciadores,375.75,0,2016-11-04 12:50:02,2016-12-01 17:41:43
+1205,751,Alvo Campanha Vintage,Google Ads,912.93,0,2024-12-30 04:32:30,2025-10-28 03:13:04
+1206,861,Clássica Impacto Artística,TV,511.02,75,2023-01-14 12:58:22,2023-07-18 19:03:48
+1207,422,Alvo Campanha Nacional,Google Ads,740.85,327,2016-08-26 11:01:02,2017-07-18 07:28:30
+1208,440,Alvo Promoção Familiar,Google Ads,526.24,0,2017-03-28 21:17:48,2017-05-06 13:07:14
+1209,254,Viral Campanha Local,Influenciadores,511.88,83,2014-09-18 08:56:50,2015-07-14 14:14:06
+1210,279,Clássica Promoção Inovação,TV,889.44,84,2021-03-22 03:58:39,2021-11-26 06:50:26
+1211,59,Conectada Campanha Online,Redes Sociais,446.78,0,2023-08-10 12:17:10,2023-09-11 18:32:33
+1212,327,Clássica Impacto Urbana,TV,615.45,100,2024-05-18 19:32:20,2025-01-24 04:38:46
+1213,341,Direta Campanha Cultural,Email Marketing,832.78,0,2018-01-04 10:29:42,2018-03-15 08:04:46
+1214,812,Alvo Promoção Urbana,Google Ads,928.24,69,2023-02-07 09:53:13,2023-04-04 11:22:31
+1215,240,Viral Impacto Local,Influenciadores,756.67,6,2015-01-06 04:03:41,2015-11-26 09:16:18
+1216,916,Viral Impacto Fitness,Influenciadores,203.65,0,2017-05-10 07:12:13,2018-02-17 07:42:51
+1217,107,Alvo Campanha Global,Google Ads,633.62,0,2020-05-07 20:58:17,2020-09-17 05:49:41
+1218,572,Viral Promoção Nacional,Influenciadores,560.18,0,2014-10-15 01:52:25,2014-12-08 15:44:42
+1219,405,Clássica Impacto Inovação,TV,807.92,0,2020-01-28 16:23:16,2020-09-04 19:47:43
+1220,556,Alvo Promoção Digital,Google Ads,558.82,98,2020-09-09 22:46:35,2021-05-17 10:30:06
+1221,75,Alvo Promoção Urbana,Google Ads,519.78,0,2024-02-12 22:45:01,2024-08-15 21:11:55
+1222,239,Direta Impacto Digital,Email Marketing,670.57,0,2017-06-30 15:34:00,2017-09-18 22:13:28
+1223,375,Clássica Promoção Tradicional,TV,801.48,21,2020-03-08 15:31:21,2020-11-02 04:33:11
+1224,611,Viral Promoção Nacional,Influenciadores,359.53,188,2021-03-19 17:34:54,2021-09-15 09:42:39
+1225,131,Direta Campanha Clássica,Email Marketing,980.49,0,2021-02-18 07:03:07,2021-07-14 11:07:34
+1226,282,Clássica Campanha Artística,TV,461.96,13,2019-09-28 15:49:24,2020-04-17 08:30:17
+1227,133,Clássica Campanha Sustentável,TV,354.8,72,2022-08-28 05:59:27,2023-03-08 06:11:57
+1228,134,Viral Campanha Artística,Influenciadores,910.4,0,2018-11-06 15:06:38,2019-02-12 13:25:12
+1229,365,Viral Campanha Global,Influenciadores,602.06,0,2024-12-03 14:05:12,2025-11-26 14:45:36
+1230,599,Direta Impacto Tecnológica,Email Marketing,615.0,84,2019-09-24 14:39:14,2020-05-07 10:41:14
+1231,29,Clássica Impacto Urbana,TV,685.05,0,2014-04-15 17:06:53,2014-06-19 18:03:12
+1232,236,Alvo Impacto Local,Google Ads,569.3,0,2022-02-06 00:15:59,2022-11-11 07:43:44
+1233,117,Direta Campanha Retro,Email Marketing,449.7,53,2023-02-17 22:14:19,2023-07-02 13:25:51
+1234,409,Alvo Campanha Tecnológica,Google Ads,503.61,0,2016-02-06 07:20:14,2016-06-20 10:43:28
+1235,203,Conectada Campanha Clássica,Redes Sociais,296.63,26,2016-08-29 15:53:59,2017-03-18 06:02:28
+1236,34,Alvo Promoção Nacional,Google Ads,312.66,99,2024-09-17 19:16:12,2024-11-22 02:43:27
+1237,640,Viral Promoção Retro,Influenciadores,832.4,106,2015-07-07 08:55:25,2016-04-23 11:58:17
+1238,507,Alvo Campanha Rural,Google Ads,446.04,0,2018-10-15 22:05:56,2019-06-25 07:40:23
+1239,180,Direta Promoção Ecológica,Email Marketing,377.41,0,2016-11-22 15:40:18,2017-05-24 12:14:22
+1240,707,Direta Promoção Vintage,Email Marketing,982.0,38,2016-08-13 06:57:47,2016-11-12 15:34:31
+1241,705,Clássica Impacto Tecnológica,TV,964.79,0,2018-06-16 22:44:34,2019-02-21 12:57:47
+1242,685,Clássica Impacto Fitness,TV,997.54,79,2023-06-12 10:25:52,2024-04-30 18:35:25
+1243,891,Alvo Impacto Tecnológica,Google Ads,807.27,0,2022-05-26 20:43:01,2022-10-26 02:34:04
+1244,928,Direta Campanha Ecológica,Email Marketing,391.04,74,2021-07-09 13:16:30,2021-08-01 08:55:34
+1245,630,Viral Impacto De Luxo,Influenciadores,439.8,0,2021-03-31 03:45:08,2021-05-28 02:36:59
+1246,672,Clássica Promoção Sustentável,TV,375.19,94,2014-12-24 14:19:44,2015-08-15 21:37:20
+1247,51,Alvo Promoção Retro,Google Ads,961.5,91,2024-02-02 05:58:56,2025-01-19 03:48:18
+1248,915,Alvo Promoção Artística,Google Ads,266.89,216,2023-05-10 17:28:53,2024-01-02 14:16:23
+1249,81,Alvo Impacto Urbana,Google Ads,689.55,132,2021-02-06 04:02:45,2021-11-23 09:47:28
+1250,580,Direta Impacto Tecnológica,Email Marketing,260.7,82,2024-08-30 13:25:54,2025-06-12 12:39:35
+1251,142,Viral Impacto Familiar,Influenciadores,331.76,173,2018-08-15 19:03:32,2019-03-10 03:08:52
+1252,790,Clássica Impacto De Luxo,TV,288.09,0,2018-09-04 04:01:45,2018-09-27 17:57:55
+1253,225,Direta Impacto Sustentável,Email Marketing,777.64,71,2018-07-26 00:55:48,2019-05-03 17:11:13
+1254,673,Viral Campanha Clássica,Influenciadores,420.85,0,2024-12-16 06:59:11,2025-03-08 11:11:35
+1255,442,Clássica Promoção Sustentável,TV,818.03,0,2024-12-04 12:40:15,2025-10-18 08:39:06
+1256,27,Direta Promoção Rural,Email Marketing,552.19,32,2023-08-06 13:56:10,2023-12-27 18:47:38
+1257,920,Conectada Campanha Vintage,Redes Sociais,875.14,0,2023-10-01 14:29:54,2023-11-15 14:29:28
+1258,678,Alvo Impacto Fitness,Google Ads,404.17,0,2018-02-12 21:49:52,2018-09-29 18:39:45
+1259,214,Conectada Campanha Retro,Redes Sociais,369.89,11,2015-09-29 14:17:59,2016-09-06 05:30:24
+1260,293,Conectada Campanha Sustentável,Redes Sociais,827.48,2,2024-07-16 22:57:40,2024-09-09 21:57:23
+1261,780,Clássica Impacto Nacional,TV,601.5,99,2015-04-23 14:34:06,2015-10-27 06:43:40
+1262,304,Direta Impacto Contemporânea,Email Marketing,226.5,83,2014-05-28 15:56:38,2015-04-22 18:18:58
+1263,891,Viral Promoção De Luxo,Influenciadores,613.65,225,2021-12-16 13:59:57,2022-05-20 19:24:17
+1264,561,Direta Promoção Vintage,Email Marketing,561.85,0,2024-12-25 20:13:57,2025-07-05 20:47:35
+1265,882,Conectada Campanha Local,Redes Sociais,223.61,0,2019-02-04 07:45:15,2019-07-10 17:12:45
+1266,899,Conectada Promoção Gourmet,Redes Sociais,300.85,141,2014-10-28 00:14:34,2015-07-17 23:17:46
+1267,340,Direta Campanha Tecnológica,Email Marketing,528.98,0,2017-03-01 17:16:22,2017-04-21 09:58:44
+1268,775,Viral Promoção Gourmet,Influenciadores,693.49,0,2019-10-26 13:57:15,2019-11-29 09:57:16
+1269,338,Viral Impacto Familiar,Influenciadores,309.38,0,2024-12-11 08:23:48,2025-10-13 17:20:50
+1270,137,Clássica Campanha Sustentável,TV,493.52,50,2021-03-22 08:24:56,2021-10-08 10:57:56
+1271,553,Viral Impacto Nacional,Influenciadores,427.16,0,2017-12-17 17:14:24,2018-03-09 22:08:04
+1272,368,Viral Campanha Global,Influenciadores,926.99,23,2016-02-03 20:02:06,2017-01-12 21:22:47
+1273,919,Clássica Campanha Ecológica,TV,556.61,57,2020-11-11 04:35:11,2021-08-28 09:31:29
+1274,771,Clássica Campanha Inovação,TV,599.22,248,2020-06-25 16:58:58,2021-01-03 20:37:23
+1275,533,Direta Impacto De Luxo,Email Marketing,560.03,0,2018-01-12 09:12:08,2018-05-28 19:59:24
+1276,222,Alvo Promoção Retro,Google Ads,223.27,98,2015-08-10 11:02:31,2016-03-13 18:11:16
+1277,961,Clássica Promoção Gourmet,TV,978.58,97,2019-09-29 22:10:09,2020-08-07 13:31:32
+1278,933,Clássica Campanha Online,TV,341.42,0,2017-08-21 17:07:51,2018-02-26 14:11:30
+1279,808,Conectada Promoção Fitness,Redes Sociais,969.85,0,2014-06-03 18:31:47,2014-08-01 04:50:29
+1280,876,Conectada Campanha De Luxo,Redes Sociais,752.65,0,2018-07-08 00:33:30,2019-01-03 15:25:37
+1281,345,Alvo Promoção Inovação,Google Ads,528.36,0,2016-04-28 16:29:29,2016-12-23 12:23:52
+1282,945,Clássica Impacto Digital,TV,347.4,157,2018-02-02 23:12:43,2018-04-04 16:31:46
+1283,669,Conectada Campanha Nacional,Redes Sociais,408.95,124,2021-01-26 21:07:51,2022-01-03 11:46:17
+1284,780,Conectada Impacto Artística,Redes Sociais,600.07,0,2016-05-17 12:38:45,2016-08-29 17:08:59
+1285,862,Direta Promoção De Luxo,Email Marketing,629.75,0,2014-07-09 12:03:59,2015-02-07 23:59:59
+1286,603,Viral Campanha Online,Influenciadores,698.49,0,2020-03-08 05:23:42,2020-07-25 03:03:55
+1287,730,Direta Promoção Tradicional,Email Marketing,408.67,0,2016-05-21 17:45:39,2016-08-10 04:19:00
+1288,383,Viral Campanha Digital,Influenciadores,585.81,86,2019-11-24 08:46:23,2020-10-20 03:47:08
+1289,932,Direta Campanha Retro,Email Marketing,743.68,97,2022-10-14 07:30:58,2023-01-19 16:03:01
+1290,997,Direta Campanha Sustentável,Email Marketing,635.43,0,2017-01-28 05:03:43,2017-06-08 16:29:47
+1291,538,Alvo Campanha Ecológica,Google Ads,440.1,145,2020-12-13 11:57:19,2021-09-19 22:24:38
+1292,778,Direta Promoção Contemporânea,Email Marketing,998.53,0,2024-06-13 16:33:09,2024-12-13 13:10:53
+1293,554,Direta Campanha Rural,Email Marketing,769.14,0,2017-01-10 22:10:11,2017-08-07 17:23:48
+1294,234,Clássica Campanha Clássica,TV,772.57,62,2020-10-18 22:15:49,2021-05-12 06:52:32
+1295,356,Direta Campanha Ecológica,Email Marketing,932.25,0,2024-10-09 03:51:12,2025-05-30 20:34:32
+1296,590,Direta Promoção Local,Email Marketing,984.44,61,2017-01-14 01:44:35,2017-04-04 15:03:29
+1297,202,Conectada Impacto De Luxo,Redes Sociais,923.18,47,2016-04-06 00:45:36,2017-03-25 10:56:13
+1298,717,Conectada Promoção Familiar,Redes Sociais,680.36,149,2014-09-23 08:12:46,2015-02-08 10:36:08
+1299,848,Direta Impacto Familiar,Email Marketing,428.46,139,2014-09-14 20:57:25,2015-05-08 16:39:54
+1300,73,Clássica Promoção Sustentável,TV,414.21,94,2018-04-01 15:55:55,2019-01-29 13:20:36
+1301,669,Alvo Promoção Urbana,Google Ads,455.98,0,2016-06-16 17:24:48,2016-07-05 03:35:15
+1302,817,Conectada Campanha Clássica,Redes Sociais,767.03,36,2024-02-14 13:38:50,2025-02-03 05:31:00
+1303,172,Clássica Campanha Global,TV,765.64,0,2017-08-04 20:20:18,2018-01-04 07:16:00
+1304,571,Viral Impacto Inovação,Influenciadores,941.6,0,2018-01-14 05:11:31,2018-02-14 09:33:25
+1305,151,Conectada Promoção Fitness,Redes Sociais,813.02,50,2018-03-12 08:16:08,2018-05-30 10:19:52
+1306,236,Direta Impacto Clássica,Email Marketing,854.89,102,2015-09-07 14:02:57,2016-04-25 20:29:23
+1307,572,Alvo Promoção Rural,Google Ads,295.82,0,2023-03-22 03:16:32,2023-09-20 22:46:45
+1308,765,Conectada Campanha Artística,Redes Sociais,870.22,0,2016-04-20 12:02:05,2016-07-26 10:50:09
+1309,49,Conectada Impacto Global,Redes Sociais,957.21,0,2017-11-05 14:25:37,2018-03-04 03:09:41
+1310,252,Direta Impacto Fitness,Email Marketing,313.59,0,2024-05-28 09:01:33,2024-06-21 09:10:16
+1311,934,Viral Campanha Desportiva,Influenciadores,911.86,53,2015-07-07 20:52:51,2016-05-31 14:00:23
+1312,178,Conectada Campanha Online,Redes Sociais,940.5,84,2021-04-15 13:17:43,2022-03-23 06:19:44
+1313,476,Viral Impacto De Luxo,Influenciadores,618.7,173,2016-04-16 23:47:07,2016-12-11 07:51:32
+1314,483,Alvo Promoção Desportiva,Google Ads,829.04,119,2020-05-25 13:14:46,2020-11-21 13:24:07
+1315,99,Alvo Campanha Clássica,Google Ads,219.27,301,2023-11-22 02:30:32,2024-05-29 09:52:50
+1316,68,Alvo Promoção Ecológica,Google Ads,320.08,65,2017-09-21 05:29:11,2018-05-16 18:12:58
+1317,61,Conectada Promoção Retro,Redes Sociais,322.63,141,2017-02-28 20:53:16,2017-08-30 04:31:42
+1318,326,Direta Campanha Online,Email Marketing,975.02,0,2016-08-10 08:50:55,2017-06-11 13:07:05
+1319,840,Conectada Impacto Tradicional,Redes Sociais,687.22,74,2020-05-14 23:12:54,2020-08-18 01:27:04
+1320,853,Direta Promoção Tradicional,Email Marketing,674.6,0,2022-03-12 22:28:47,2022-06-29 22:05:25
+1321,710,Conectada Impacto Fitness,Redes Sociais,846.86,0,2024-08-03 16:15:07,2025-03-26 07:29:21
+1322,909,Alvo Promoção Global,Google Ads,455.41,0,2016-01-19 06:15:18,2016-05-30 21:52:15
+1323,894,Viral Impacto Sustentável,Influenciadores,519.63,54,2017-05-31 21:22:22,2018-04-20 04:16:19
+1324,910,Clássica Impacto Online,TV,234.48,0,2022-01-13 15:03:47,2022-03-28 11:45:51
+1325,253,Alvo Impacto Cultural,Google Ads,922.26,25,2024-03-30 14:20:47,2025-02-18 00:54:56
+1326,87,Clássica Campanha Inovação,TV,779.2,56,2022-02-10 07:52:03,2022-05-12 15:36:07
+1327,959,Clássica Promoção Online,TV,472.66,23,2024-05-11 09:07:59,2025-01-20 02:08:24
+1328,555,Conectada Promoção Gourmet,Redes Sociais,846.53,66,2017-05-13 16:44:18,2017-12-05 17:36:03
+1329,611,Alvo Promoção Nacional,Google Ads,508.5,26,2021-11-28 12:36:02,2022-07-30 07:50:45
+1330,187,Alvo Impacto Inovação,Google Ads,835.47,0,2019-05-14 06:43:17,2019-06-18 23:46:46
+1331,999,Viral Campanha Desportiva,Influenciadores,384.8,16,2024-09-26 18:24:09,2025-03-27 13:50:01
+1332,121,Direta Campanha Artística,Email Marketing,691.08,98,2018-02-18 13:22:41,2018-07-05 02:42:08
+1333,275,Clássica Campanha Desportiva,TV,747.06,45,2019-12-31 14:32:17,2020-05-02 14:06:09
+1334,229,Clássica Promoção Desportiva,TV,880.94,94,2019-03-23 03:57:22,2019-09-03 23:05:05
+1335,335,Alvo Impacto Inovação,Google Ads,672.1,66,2019-03-18 21:17:46,2019-04-30 03:05:29
+1336,568,Conectada Promoção Retro,Redes Sociais,805.58,0,2016-01-27 23:04:53,2017-01-04 02:59:19
+1337,859,Viral Promoção De Luxo,Influenciadores,557.27,96,2020-05-24 08:57:17,2020-11-14 19:20:53
+1338,738,Conectada Campanha Ecológica,Redes Sociais,353.53,186,2023-10-11 11:09:37,2024-05-27 11:04:06
+1339,554,Clássica Impacto Gourmet,TV,746.61,0,2017-12-24 09:13:13,2018-11-29 18:56:28
+1340,550,Alvo Promoção Urbana,Google Ads,615.58,0,2023-08-29 00:18:12,2024-03-03 07:27:45
+1341,333,Alvo Promoção Retro,Google Ads,958.41,0,2017-12-21 04:19:28,2018-11-28 02:29:58
+1342,273,Alvo Impacto Online,Google Ads,886.16,90,2023-12-27 04:43:35,2024-07-06 20:28:21
+1343,877,Viral Promoção Fitness,Influenciadores,469.37,0,2024-09-13 10:40:25,2025-01-30 17:52:29
+1344,177,Alvo Impacto Contemporânea,Google Ads,258.51,119,2021-04-21 20:59:08,2022-03-27 00:30:42
+1345,715,Clássica Promoção De Luxo,TV,294.89,15,2015-12-30 12:40:19,2016-07-06 02:45:35
+1346,282,Direta Promoção Urbana,Email Marketing,801.28,0,2016-01-27 01:36:43,2017-01-25 08:27:29
+1347,68,Viral Promoção Contemporânea,Influenciadores,272.33,102,2021-05-05 23:37:23,2022-02-18 19:53:17
+1348,190,Viral Impacto Vintage,Influenciadores,575.36,70,2014-09-30 11:30:33,2015-01-25 17:21:58
+1349,9,Direta Impacto Digital,Email Marketing,705.03,72,2020-10-27 08:57:10,2021-09-10 16:16:34
+1350,786,Alvo Impacto Artística,Google Ads,845.8,45,2018-06-23 05:57:13,2019-02-27 16:31:51
+1351,845,Conectada Promoção Familiar,Redes Sociais,957.02,0,2017-05-10 11:30:11,2018-03-17 10:21:02
+1352,259,Direta Impacto Tecnológica,Email Marketing,392.36,0,2024-12-30 09:15:12,2025-02-16 16:17:24
+1353,16,Clássica Campanha Familiar,TV,342.07,231,2021-03-25 10:36:30,2021-09-11 03:15:00
+1354,172,Clássica Impacto Ecológica,TV,273.64,0,2016-06-10 19:13:16,2016-08-20 13:23:24
+1355,965,Alvo Campanha Clássica,Google Ads,877.76,90,2018-10-19 05:43:43,2019-02-17 08:19:23
+1356,607,Viral Campanha Artística,Influenciadores,805.03,0,2021-08-06 08:25:49,2021-09-16 16:40:52
+1357,248,Viral Promoção Online,Influenciadores,642.32,0,2024-10-12 06:18:43,2025-07-08 04:25:06
+1358,238,Clássica Impacto Vintage,TV,235.91,18,2018-01-04 21:38:07,2018-07-22 10:00:14
+1359,522,Viral Impacto Digital,Influenciadores,786.37,139,2019-08-30 13:49:57,2020-08-04 16:19:20
+1360,658,Conectada Promoção Global,Redes Sociais,924.27,79,2018-01-16 09:05:12,2018-12-02 04:55:55
+1361,961,Alvo Promoção De Luxo,Google Ads,438.92,46,2015-02-01 11:45:37,2016-01-19 03:08:27
+1362,839,Clássica Campanha Online,TV,794.97,0,2021-03-18 02:04:46,2021-06-06 06:11:13
+1363,758,Alvo Campanha Cultural,Google Ads,286.15,68,2014-04-02 20:27:47,2015-03-14 04:34:18
+1364,388,Alvo Campanha Contemporânea,Google Ads,694.29,24,2014-04-04 03:44:53,2015-02-11 11:04:26
+1365,769,Conectada Campanha Gourmet,Redes Sociais,487.11,138,2015-04-09 00:26:19,2015-11-18 09:18:17
+1366,489,Clássica Campanha Online,TV,795.88,106,2024-08-10 02:51:33,2025-06-10 04:16:34
+1367,518,Conectada Promoção Cultural,Redes Sociais,269.27,1,2015-05-08 20:09:40,2015-11-17 09:07:31
+1368,429,Clássica Impacto Gourmet,TV,768.82,0,2020-04-16 21:53:06,2020-09-21 07:13:40
+1369,129,Viral Campanha Cultural,Influenciadores,429.67,30,2020-05-27 09:46:02,2020-10-29 21:08:08
+1370,993,Clássica Campanha Gourmet,TV,490.64,0,2022-07-23 10:13:03,2022-08-28 23:49:43
+1371,22,Clássica Impacto Local,TV,415.09,170,2022-09-03 10:22:31,2023-07-02 00:23:45
+1372,434,Viral Campanha Fitness,Influenciadores,519.12,234,2019-11-08 11:56:37,2020-10-20 17:51:42
+1373,517,Conectada Promoção Contemporânea,Redes Sociais,695.65,104,2020-06-23 14:23:47,2020-12-16 19:10:29
+1374,71,Alvo Campanha Urbana,Google Ads,642.98,0,2015-08-30 15:10:06,2015-11-24 08:33:14
+1375,901,Alvo Campanha Desportiva,Google Ads,697.46,0,2020-09-25 06:35:04,2021-01-09 22:14:13
+1376,732,Clássica Campanha Tecnológica,TV,249.68,57,2023-05-25 14:06:21,2023-09-24 20:25:27
+1377,979,Clássica Campanha Global,TV,968.16,0,2021-10-20 17:17:54,2022-02-21 13:16:00
+1378,988,Alvo Campanha Fitness,Google Ads,750.88,0,2021-09-09 08:37:36,2021-10-30 06:02:59
+1379,863,Viral Promoção Cultural,Influenciadores,314.04,0,2020-09-27 20:16:37,2021-01-18 18:36:05
+1380,5,Clássica Impacto Contemporânea,TV,330.64,0,2016-09-12 22:56:46,2016-11-25 11:15:17
+1381,639,Alvo Impacto Tecnológica,Google Ads,337.72,79,2018-06-25 11:21:33,2019-05-29 17:51:43
+1382,358,Clássica Impacto Local,TV,399.59,111,2020-02-14 16:23:09,2020-11-15 12:14:38
+1383,479,Alvo Campanha Ecológica,Google Ads,326.41,0,2023-01-05 16:51:14,2023-09-27 08:32:14
+1384,684,Conectada Impacto Cultural,Redes Sociais,583.19,118,2015-03-19 10:48:48,2016-02-10 21:18:56
+1385,926,Conectada Impacto Artística,Redes Sociais,236.39,0,2016-08-20 05:14:15,2017-02-14 06:05:54
+1386,837,Clássica Promoção De Luxo,TV,306.18,94,2014-04-15 21:43:55,2015-04-10 20:25:06
+1387,162,Conectada Impacto Digital,Redes Sociais,373.24,71,2019-11-17 20:04:23,2020-05-22 06:39:42
+1388,107,Direta Campanha Digital,Email Marketing,323.97,0,2024-02-02 17:34:29,2024-02-22 14:48:44
+1389,168,Direta Campanha Vintage,Email Marketing,863.89,0,2017-05-24 11:29:34,2017-07-22 23:27:00
+1390,130,Clássica Promoção De Luxo,TV,666.73,0,2014-01-10 04:30:34,2014-09-29 09:37:08
+1391,150,Clássica Campanha Tradicional,TV,501.88,0,2015-01-31 08:00:21,2015-04-19 23:50:08
+1392,779,Conectada Campanha Clássica,Redes Sociais,438.69,0,2015-10-26 16:06:54,2016-05-29 04:31:35
+1393,544,Clássica Promoção Digital,TV,505.44,0,2015-11-15 23:58:40,2015-12-29 11:20:29
+1394,607,Viral Impacto Artística,Influenciadores,914.96,0,2014-07-04 10:05:04,2015-03-25 07:08:31
+1395,367,Direta Promoção Familiar,Email Marketing,837.38,26,2023-12-02 01:37:47,2024-11-08 21:21:45
+1396,997,Clássica Impacto Urbana,TV,580.54,95,2023-12-10 03:56:22,2024-10-29 01:05:17
+1397,812,Alvo Campanha Gourmet,Google Ads,804.97,0,2018-05-30 08:58:02,2018-09-11 07:35:01
+1398,85,Alvo Impacto Desportiva,Google Ads,683.26,5,2024-06-04 16:52:57,2024-10-28 14:08:43
+1399,793,Conectada Impacto Desportiva,Redes Sociais,689.49,0,2022-04-08 01:39:09,2022-07-17 01:05:22
+1400,962,Viral Promoção Urbana,Influenciadores,633.7,3,2016-02-08 10:10:58,2016-11-10 03:52:09
+1401,803,Direta Campanha Local,Email Marketing,691.78,113,2015-01-15 12:08:46,2015-12-24 00:25:02
+1402,560,Clássica Promoção Gourmet,TV,992.79,0,2021-11-25 08:44:53,2022-03-04 22:29:58
+1403,572,Conectada Promoção Desportiva,Redes Sociais,646.09,0,2015-10-03 20:38:51,2015-12-03 03:11:27
+1404,992,Alvo Promoção Urbana,Google Ads,247.83,76,2019-10-04 02:17:22,2020-07-22 04:00:19
+1405,455,Viral Impacto Local,Influenciadores,881.88,174,2024-04-07 12:23:44,2024-12-22 04:20:06
+1406,179,Clássica Impacto Clássica,TV,959.96,6,2021-05-28 13:06:16,2022-01-27 02:55:11
+1407,347,Viral Promoção Clássica,Influenciadores,751.71,89,2023-08-18 10:20:57,2024-07-04 13:45:13
+1408,698,Direta Promoção Clássica,Email Marketing,586.74,74,2018-02-28 02:40:39,2018-12-13 15:29:03
+1409,633,Viral Campanha Tecnológica,Influenciadores,400.37,88,2024-06-12 00:05:41,2025-06-07 18:54:33
+1410,406,Conectada Impacto Cultural,Redes Sociais,613.44,300,2021-12-04 16:48:08,2022-11-10 01:58:58
+1411,63,Direta Impacto Vintage,Email Marketing,788.34,54,2021-06-08 06:34:47,2022-02-02 18:36:34
+1412,722,Direta Promoção Online,Email Marketing,871.14,0,2023-06-27 04:15:58,2023-11-07 04:35:39
+1413,516,Direta Campanha Urbana,Email Marketing,244.92,0,2023-03-19 14:37:21,2024-01-13 23:22:20
+1414,465,Conectada Impacto Vintage,Redes Sociais,565.55,0,2017-03-23 18:25:26,2017-09-29 07:58:59
+1415,998,Viral Campanha Gourmet,Influenciadores,411.8,103,2014-08-19 00:58:43,2014-12-14 03:41:05
+1416,972,Alvo Promoção Rural,Google Ads,406.21,148,2018-09-21 09:34:30,2019-05-03 23:40:27
+1417,387,Viral Campanha Local,Influenciadores,505.92,0,2022-10-17 20:49:48,2023-01-13 17:13:37
+1418,863,Clássica Campanha Retro,TV,777.55,250,2015-01-10 23:17:52,2015-10-26 10:13:53
+1419,914,Viral Promoção Online,Influenciadores,869.54,72,2019-08-28 07:59:24,2020-07-03 23:26:18
+1420,305,Viral Impacto Vintage,Influenciadores,495.26,124,2015-03-24 16:18:05,2016-02-06 14:28:32
+1421,149,Direta Campanha Tradicional,Email Marketing,366.78,0,2021-07-01 19:07:24,2021-10-31 10:46:16
+1422,424,Clássica Promoção Contemporânea,TV,587.11,85,2021-07-17 15:22:28,2022-02-03 02:05:52
+1423,986,Viral Promoção De Luxo,Influenciadores,938.24,0,2022-04-28 23:49:16,2023-03-20 06:44:13
+1424,636,Clássica Impacto Artística,TV,217.48,228,2022-10-13 06:48:44,2023-06-01 02:57:16
+1425,908,Alvo Impacto Tradicional,Google Ads,663.93,0,2024-01-14 22:22:24,2024-03-06 20:54:38
+1426,959,Viral Campanha Familiar,Influenciadores,543.81,0,2018-06-06 12:23:06,2018-09-10 18:44:48
+1427,854,Direta Impacto De Luxo,Email Marketing,483.38,0,2018-11-15 07:05:13,2019-01-12 03:47:49
+1428,147,Viral Impacto Nacional,Influenciadores,559.54,0,2023-07-27 00:06:03,2024-03-27 03:47:05
+1429,622,Alvo Campanha Gourmet,Google Ads,614.06,0,2015-04-09 03:50:20,2015-08-20 05:32:14
+1430,473,Viral Campanha Clássica,Influenciadores,806.34,0,2015-05-31 07:15:50,2016-01-21 03:54:33
+1431,286,Alvo Promoção Online,Google Ads,975.54,49,2022-11-01 04:13:50,2023-02-07 23:13:03
+1432,718,Conectada Impacto Familiar,Redes Sociais,570.57,147,2017-12-29 22:23:22,2018-06-03 12:14:02
+1433,509,Direta Campanha Gourmet,Email Marketing,538.87,75,2022-09-17 12:54:08,2023-06-24 12:17:56
+1434,109,Direta Promoção Online,Email Marketing,860.73,146,2017-01-01 11:14:41,2017-04-27 06:53:55
+1435,729,Alvo Promoção Urbana,Google Ads,474.74,0,2024-10-17 15:36:17,2025-06-24 02:56:50
+1436,174,Direta Campanha Online,Email Marketing,732.61,197,2023-02-18 08:10:07,2024-01-07 03:30:33
+1437,892,Viral Promoção Inovação,Influenciadores,426.85,0,2023-05-16 07:37:47,2023-07-21 09:31:27
+1438,670,Alvo Promoção Local,Google Ads,421.44,0,2023-04-24 19:19:06,2023-05-12 12:41:19
+1439,32,Alvo Impacto Digital,Google Ads,969.98,99,2021-12-10 18:04:47,2022-09-16 12:45:37
+1440,489,Viral Campanha Vintage,Influenciadores,300.82,60,2015-07-17 04:20:33,2015-11-08 09:08:30
+1441,229,Alvo Promoção Retro,Google Ads,790.98,138,2015-06-23 20:54:21,2016-01-01 13:53:44
+1442,364,Direta Campanha Artística,Email Marketing,641.62,162,2019-01-16 12:06:15,2019-11-01 23:11:59
+1443,624,Clássica Campanha Digital,TV,591.95,0,2021-04-08 18:23:51,2021-07-16 14:03:42
+1444,469,Conectada Promoção Inovação,Redes Sociais,714.09,0,2022-06-26 17:17:44,2023-04-26 11:50:54
+1445,610,Direta Campanha Clássica,Email Marketing,600.94,0,2016-01-11 18:46:59,2016-09-11 12:48:56
+1446,52,Alvo Impacto Cultural,Google Ads,528.17,0,2022-08-14 08:03:00,2022-09-19 15:03:01
+1447,698,Clássica Promoção Global,TV,443.64,0,2024-04-14 08:40:13,2024-04-30 05:12:32
+1448,719,Conectada Impacto Urbana,Redes Sociais,430.17,0,2021-02-26 05:48:00,2021-04-24 11:28:12
+1449,589,Direta Campanha Contemporânea,Email Marketing,711.95,101,2020-07-01 18:21:41,2021-03-07 15:29:22
+1450,924,Alvo Impacto Online,Google Ads,517.83,99,2014-07-25 02:28:08,2015-03-31 11:56:33
+1451,115,Clássica Promoção Tradicional,TV,439.77,79,2024-01-25 04:32:33,2024-04-01 05:31:56
+1452,767,Direta Impacto De Luxo,Email Marketing,697.67,0,2016-11-09 10:00:39,2017-01-19 17:29:36
+1453,977,Clássica Campanha Tradicional,TV,219.82,0,2024-02-03 15:19:23,2024-06-20 12:12:24
+1454,695,Direta Impacto Online,Email Marketing,958.26,0,2015-01-02 22:55:19,2015-02-05 18:05:04
+1455,445,Alvo Promoção Nacional,Google Ads,530.43,0,2016-04-24 16:22:05,2016-07-31 19:37:35
+1456,284,Conectada Promoção Clássica,Redes Sociais,312.87,0,2016-10-21 16:40:53,2016-12-01 11:59:41
+1457,777,Conectada Campanha Global,Redes Sociais,766.94,76,2015-04-19 14:18:53,2015-12-14 00:15:23
+1458,473,Viral Impacto Global,Influenciadores,261.1,0,2015-08-21 20:20:21,2015-11-30 20:33:12
+1459,850,Conectada Promoção Rural,Redes Sociais,698.83,44,2017-09-25 16:42:05,2017-11-11 07:41:35
+1460,282,Direta Promoção Urbana,Email Marketing,307.63,0,2015-05-08 22:47:07,2015-07-17 04:13:45
+1461,821,Clássica Impacto Sustentável,TV,398.59,32,2021-06-04 04:04:34,2022-01-10 02:33:40
+1462,86,Direta Promoção Tecnológica,Email Marketing,399.41,64,2023-08-15 01:03:38,2024-05-03 04:46:14
+1463,895,Clássica Campanha Local,TV,950.24,80,2019-10-21 07:58:31,2020-04-20 05:35:24
+1464,437,Direta Promoção Global,Email Marketing,654.32,0,2017-08-14 17:53:08,2017-11-21 01:04:39
+1465,690,Conectada Impacto Digital,Redes Sociais,894.91,37,2022-04-01 23:46:20,2022-06-20 16:14:14
+1466,955,Viral Impacto Clássica,Influenciadores,587.16,0,2021-03-14 05:00:24,2021-09-02 13:10:32
+1467,111,Clássica Promoção Fitness,TV,901.95,0,2020-08-15 05:30:17,2020-09-02 17:06:03
+1468,925,Clássica Campanha Contemporânea,TV,715.15,80,2017-04-01 00:48:57,2018-03-10 19:10:04
+1469,79,Alvo Impacto Rural,Google Ads,961.64,0,2017-11-05 12:30:05,2017-11-30 11:05:03
+1470,305,Conectada Impacto Nacional,Redes Sociais,938.52,55,2016-04-27 21:00:39,2017-03-04 18:58:04
+1471,985,Clássica Impacto Familiar,TV,248.63,0,2014-10-27 10:52:55,2014-12-26 19:22:49
+1472,668,Viral Impacto Local,Influenciadores,371.74,0,2014-05-06 20:50:47,2014-06-29 04:41:42
+1473,137,Direta Impacto Contemporânea,Email Marketing,914.87,0,2023-02-08 20:48:55,2023-04-17 21:06:02
+1474,416,Viral Promoção Inovação,Influenciadores,972.94,0,2022-02-18 08:34:32,2022-03-31 17:58:43
+1475,695,Direta Campanha Inovação,Email Marketing,962.59,69,2020-08-06 13:41:47,2021-07-09 21:45:14
+1476,433,Clássica Campanha Digital,TV,833.18,68,2016-02-01 15:20:42,2016-10-04 16:05:18
+1477,654,Clássica Promoção Gourmet,TV,983.84,0,2014-01-25 03:10:58,2014-06-26 19:45:47
+1478,127,Viral Promoção Vintage,Influenciadores,532.95,0,2015-01-13 17:04:48,2015-02-17 03:30:59
+1479,273,Direta Campanha Clássica,Email Marketing,429.37,59,2021-08-20 14:46:58,2021-12-17 00:00:17
+1480,384,Viral Promoção Tecnológica,Influenciadores,454.22,0,2017-03-18 17:15:35,2017-06-03 05:02:58
+1481,371,Clássica Impacto Artística,TV,510.42,101,2016-11-30 13:11:48,2017-05-18 03:43:46
+1482,509,Alvo Campanha Artística,Google Ads,282.2,0,2024-07-16 16:13:45,2024-08-28 01:22:56
+1483,746,Clássica Campanha Ecológica,TV,550.17,0,2019-10-28 01:22:22,2020-06-12 02:00:37
+1484,276,Conectada Promoção Local,Redes Sociais,835.62,98,2024-06-23 06:22:17,2024-11-30 14:51:23
+1485,228,Viral Campanha Online,Influenciadores,994.63,82,2020-01-02 03:17:40,2020-11-16 06:06:09
+1486,430,Conectada Campanha Tecnológica,Redes Sociais,903.08,0,2024-12-21 21:09:36,2025-12-03 12:46:28
+1487,348,Clássica Campanha Retro,TV,726.97,0,2020-04-19 03:53:04,2021-01-09 06:13:49
+1488,171,Conectada Impacto Vintage,Redes Sociais,770.82,40,2014-04-05 12:00:05,2014-05-31 22:11:27
+1489,872,Conectada Impacto Inovação,Redes Sociais,353.85,0,2023-05-18 18:53:31,2023-09-06 07:46:26
+1490,850,Alvo Promoção Tradicional,Google Ads,364.49,76,2018-11-03 19:24:39,2019-06-06 04:52:36
+1491,208,Viral Impacto Retro,Influenciadores,951.16,0,2015-09-22 18:21:50,2015-12-18 20:44:24
+1492,664,Direta Campanha Artística,Email Marketing,345.55,100,2024-02-16 02:59:04,2025-01-03 04:50:28
+1493,21,Conectada Impacto Gourmet,Redes Sociais,637.27,139,2023-04-29 10:31:24,2024-03-22 10:45:49
+1494,873,Conectada Campanha Ecológica,Redes Sociais,990.85,64,2021-08-13 16:46:36,2021-10-25 04:10:52
+1495,619,Alvo Impacto Sustentável,Google Ads,476.36,92,2015-07-04 14:16:51,2016-02-14 23:00:29
+1496,954,Conectada Promoção Digital,Redes Sociais,749.16,0,2015-10-11 21:22:05,2016-06-28 17:56:43
+1497,483,Viral Promoção Artística,Influenciadores,672.86,0,2024-06-05 02:18:18,2025-04-24 04:30:41
+1498,618,Direta Promoção Global,Email Marketing,295.81,2,2014-11-10 16:25:58,2015-03-16 01:48:27
+1499,756,Conectada Promoção Sustentável,Redes Sociais,508.99,0,2018-08-22 17:32:01,2019-02-20 10:17:37
+1500,508,Direta Promoção Artística,Email Marketing,821.73,75,2015-08-13 15:06:57,2016-02-13 19:32:26
+1501,293,Clássica Promoção Cultural,TV,402.34,112,2018-03-26 18:48:56,2019-01-08 13:32:42
+1502,62,Viral Impacto Vintage,Influenciadores,541.91,160,2022-09-03 02:52:01,2023-09-03 21:25:47
+1503,498,Alvo Promoção Rural,Google Ads,699.15,0,2023-10-20 08:37:08,2024-07-12 16:53:15
+1504,741,Conectada Impacto Sustentável,Redes Sociais,339.19,97,2017-11-13 13:52:20,2018-10-04 06:46:50
+1505,103,Conectada Impacto Urbana,Redes Sociais,652.31,61,2022-06-05 17:56:12,2022-09-22 19:48:28
+1506,788,Viral Campanha Familiar,Influenciadores,742.4,54,2023-08-17 12:11:30,2024-07-01 06:51:53
+1507,886,Viral Impacto Familiar,Influenciadores,490.5,229,2015-09-20 12:35:12,2016-07-25 16:32:03
+1508,152,Viral Campanha Desportiva,Influenciadores,565.59,0,2017-08-03 02:11:56,2018-03-28 17:50:31
+1509,505,Clássica Promoção Clássica,TV,748.1,15,2015-11-13 18:50:41,2016-02-05 19:51:06
+1510,624,Clássica Impacto Tecnológica,TV,445.29,161,2024-04-14 09:58:44,2025-03-18 05:27:40
+1511,766,Viral Promoção Tradicional,Influenciadores,410.13,130,2015-08-13 19:57:51,2016-07-04 17:40:23
+1512,676,Clássica Impacto Local,TV,970.26,130,2015-12-27 16:13:30,2016-10-08 06:17:45
+1513,648,Alvo Promoção Nacional,Google Ads,958.32,0,2014-02-22 14:59:13,2014-06-14 07:50:42
+1514,640,Direta Campanha Tradicional,Email Marketing,752.56,60,2022-04-17 21:01:44,2023-04-10 17:33:24
+1515,744,Viral Promoção Ecológica,Influenciadores,756.12,13,2014-11-14 15:21:51,2015-04-26 08:42:40
+1516,758,Direta Impacto Online,Email Marketing,944.88,98,2018-12-22 00:40:16,2019-07-06 22:00:52
+1517,154,Conectada Campanha Online,Redes Sociais,354.4,69,2015-01-06 07:16:41,2015-11-17 18:33:45
+1518,637,Viral Campanha Desportiva,Influenciadores,519.36,45,2015-11-01 06:32:51,2015-12-30 12:19:05
+1519,440,Clássica Campanha Sustentável,TV,994.12,140,2023-02-16 14:56:13,2024-01-26 19:53:17
+1520,937,Viral Impacto Desportiva,Influenciadores,972.66,0,2021-09-13 16:25:21,2022-02-24 12:22:10
+1521,605,Clássica Impacto Artística,TV,772.87,0,2015-12-29 08:14:05,2016-09-20 14:50:54
+1522,349,Viral Promoção Digital,Influenciadores,418.05,29,2017-09-02 10:10:42,2018-05-03 10:03:27
+1523,122,Direta Campanha Tradicional,Email Marketing,434.55,0,2020-02-15 16:38:46,2020-03-11 18:31:43
+1524,620,Direta Campanha Retro,Email Marketing,432.96,0,2021-08-26 18:48:38,2021-12-07 00:01:20
+1525,552,Clássica Campanha De Luxo,TV,518.11,9,2020-01-21 21:05:41,2020-03-18 08:15:43
+1526,369,Clássica Impacto Tecnológica,TV,603.86,0,2024-03-02 22:17:05,2024-09-24 19:04:10
+1527,775,Direta Campanha Vintage,Email Marketing,264.13,171,2016-01-21 22:58:36,2016-11-12 20:34:35
+1528,161,Viral Promoção Tradicional,Influenciadores,591.19,57,2024-08-23 07:05:22,2025-04-28 22:03:37
+1529,8,Conectada Campanha Artística,Redes Sociais,880.03,44,2014-05-21 09:53:34,2014-10-19 17:02:34
+1530,397,Viral Promoção Digital,Influenciadores,889.6,135,2021-08-12 09:41:12,2022-01-12 03:02:26
+1531,632,Conectada Promoção Urbana,Redes Sociais,877.27,0,2014-09-05 08:01:10,2014-12-22 12:01:41
+1532,845,Conectada Impacto Local,Redes Sociais,553.86,98,2024-07-25 00:24:28,2025-05-28 21:32:06
+1533,154,Conectada Promoção Tecnológica,Redes Sociais,797.98,0,2014-02-27 08:13:59,2014-06-21 01:07:30
+1534,28,Direta Impacto Desportiva,Email Marketing,671.16,5,2022-10-04 18:32:26,2023-01-04 00:48:16
+1535,333,Viral Promoção Familiar,Influenciadores,865.47,0,2014-04-02 19:47:31,2014-05-24 21:18:59
+1536,256,Direta Promoção Tradicional,Email Marketing,801.3,108,2015-05-24 06:59:09,2016-04-06 01:38:18
+1537,649,Alvo Promoção Online,Google Ads,905.8,106,2019-09-01 22:46:46,2020-02-03 07:17:05
+1538,685,Clássica Promoção Ecológica,TV,905.64,17,2017-09-03 02:59:45,2018-08-22 09:28:17
+1539,192,Alvo Impacto Desportiva,Google Ads,792.27,76,2020-12-07 22:15:52,2021-08-16 08:06:19
+1540,690,Alvo Promoção Vintage,Google Ads,671.32,55,2020-12-18 04:30:52,2021-09-07 09:11:03
+1541,468,Clássica Promoção Fitness,TV,676.76,0,2020-02-19 16:55:20,2020-04-27 06:37:30
+1542,351,Clássica Campanha Digital,TV,584.04,136,2020-02-08 05:18:56,2020-09-01 20:44:29
+1543,751,Conectada Campanha Clássica,Redes Sociais,796.22,0,2020-04-29 20:47:12,2020-08-01 14:50:51
+1544,441,Conectada Campanha Cultural,Redes Sociais,241.27,29,2021-02-02 13:33:07,2021-05-24 06:05:08
+1545,195,Viral Impacto Tecnológica,Influenciadores,312.9,0,2024-06-16 00:40:47,2024-12-16 06:09:00
+1546,412,Alvo Campanha Global,Google Ads,354.01,147,2021-11-20 01:42:25,2022-10-21 08:46:10
+1547,739,Conectada Impacto Artística,Redes Sociais,473.91,14,2015-08-06 22:36:06,2015-11-03 03:47:46
+1548,289,Clássica Campanha Rural,TV,618.26,83,2020-05-11 06:20:23,2021-02-01 05:54:10
+1549,687,Conectada Impacto Local,Redes Sociais,721.97,46,2016-05-25 02:40:10,2016-10-11 01:41:17
+1550,918,Clássica Campanha Desportiva,TV,646.22,0,2017-10-18 15:17:42,2018-03-13 10:11:57
+1551,448,Direta Promoção Vintage,Email Marketing,676.77,171,2018-03-07 04:45:48,2019-02-19 16:36:57
+1552,589,Viral Promoção Tecnológica,Influenciadores,601.74,0,2023-10-17 07:20:01,2024-02-02 07:44:36
+1553,480,Direta Impacto Artística,Email Marketing,870.48,52,2023-07-12 05:18:33,2023-10-24 02:55:44
+1554,436,Direta Promoção Vintage,Email Marketing,543.33,0,2016-10-02 23:02:04,2017-06-18 10:05:02
+1555,743,Viral Campanha Retro,Influenciadores,955.09,0,2019-01-25 01:44:48,2019-05-01 01:03:59
+1556,895,Clássica Campanha Global,TV,774.91,250,2016-01-18 04:59:03,2017-01-01 00:56:42
+1557,360,Conectada Impacto De Luxo,Redes Sociais,756.3,228,2015-10-05 14:43:54,2016-06-12 21:03:55
+1558,559,Clássica Impacto Global,TV,525.23,0,2022-11-19 03:53:59,2023-11-19 17:35:53
+1559,259,Clássica Campanha Ecológica,TV,718.8,0,2024-10-18 00:37:56,2025-03-19 12:16:43
+1560,280,Conectada Campanha Online,Redes Sociais,751.1,102,2021-04-13 19:27:45,2021-12-08 11:24:53
+1561,179,Direta Promoção Nacional,Email Marketing,659.72,0,2014-05-15 17:03:35,2014-10-22 17:34:44
+1562,376,Conectada Impacto Local,Redes Sociais,847.41,0,2020-08-21 06:23:03,2021-06-18 18:05:31
+1563,37,Clássica Impacto Inovação,TV,333.19,0,2021-04-18 03:05:04,2021-08-10 10:42:54
+1564,106,Viral Impacto Artística,Influenciadores,821.37,90,2014-11-26 20:10:17,2015-08-26 19:15:15
+1565,96,Viral Promoção Local,Influenciadores,376.62,0,2020-05-29 08:53:44,2020-07-26 08:27:55
+1566,378,Viral Impacto Inovação,Influenciadores,482.81,4,2019-07-13 08:17:41,2019-11-09 18:39:05
+1567,429,Viral Promoção Clássica,Influenciadores,511.68,0,2019-10-09 09:46:48,2020-03-11 05:45:27
+1568,103,Clássica Impacto Retro,TV,367.68,0,2017-04-10 01:24:17,2017-12-19 21:41:57
+1569,552,Viral Impacto Artística,Influenciadores,333.1,0,2017-04-20 15:34:44,2017-10-18 21:33:37
+1570,762,Clássica Campanha Urbana,TV,722.55,0,2022-09-05 12:16:49,2022-09-28 12:33:55
+1571,606,Clássica Promoção Urbana,TV,375.39,75,2023-01-27 07:28:29,2023-09-24 20:47:45
+1572,591,Viral Promoção Retro,Influenciadores,424.17,0,2016-12-16 01:50:42,2017-02-09 12:46:24
+1573,15,Conectada Impacto Cultural,Redes Sociais,651.76,0,2018-06-18 00:26:48,2018-10-26 17:04:18
+1574,19,Conectada Impacto Familiar,Redes Sociais,313.25,0,2016-05-07 23:51:36,2016-10-28 04:19:05
+1575,553,Direta Campanha Gourmet,Email Marketing,339.58,0,2024-09-22 00:44:22,2025-04-16 01:16:28
+1576,697,Conectada Impacto Inovação,Redes Sociais,695.7,0,2023-11-19 04:22:04,2024-06-01 17:44:32
+1577,905,Alvo Promoção Nacional,Google Ads,679.65,86,2016-04-11 11:57:58,2016-10-17 20:04:36
+1578,954,Conectada Impacto Gourmet,Redes Sociais,282.0,0,2016-05-16 21:21:35,2017-01-13 00:27:44
+1579,439,Direta Campanha Desportiva,Email Marketing,282.29,34,2018-07-16 17:55:37,2019-02-11 18:28:05
+1580,554,Alvo Impacto De Luxo,Google Ads,773.53,40,2015-07-21 11:26:42,2016-05-11 04:46:58
+1581,735,Direta Campanha Gourmet,Email Marketing,402.52,80,2019-06-21 13:06:15,2019-10-09 18:39:43
+1582,940,Conectada Promoção Urbana,Redes Sociais,418.36,47,2017-09-10 15:26:59,2018-02-06 15:07:16
+1583,8,Direta Campanha Clássica,Email Marketing,774.64,0,2021-05-31 19:05:42,2021-07-11 21:10:01
+1584,827,Direta Impacto Gourmet,Email Marketing,383.79,0,2024-02-05 22:32:59,2024-02-29 01:21:49
+1585,770,Direta Campanha Clássica,Email Marketing,261.68,0,2024-12-03 05:54:26,2025-05-31 14:34:29
+1586,832,Conectada Promoção Ecológica,Redes Sociais,723.95,0,2021-03-12 04:09:56,2021-07-02 09:25:24
+1587,848,Alvo Promoção Ecológica,Google Ads,473.47,71,2017-09-12 14:40:38,2018-09-01 23:25:27
+1588,457,Viral Campanha Contemporânea,Influenciadores,923.11,58,2024-02-03 07:16:19,2025-01-13 02:55:30
+1589,686,Direta Campanha Fitness,Email Marketing,354.45,0,2017-10-22 10:40:23,2017-12-22 20:52:01
+1590,813,Viral Promoção Local,Influenciadores,788.1,94,2024-03-27 08:32:03,2024-12-05 00:07:06
+1591,468,Viral Campanha Clássica,Influenciadores,971.26,116,2016-03-06 07:43:35,2017-02-17 11:20:06
+1592,761,Alvo Promoção Sustentável,Google Ads,389.93,0,2019-05-24 17:40:31,2020-01-19 02:04:56
+1593,782,Conectada Promoção Desportiva,Redes Sociais,515.45,82,2017-12-02 09:59:04,2018-01-21 05:19:44
+1594,94,Viral Campanha Tradicional,Influenciadores,952.79,0,2020-03-11 15:06:14,2020-07-10 19:31:27
+1595,413,Viral Promoção Ecológica,Influenciadores,877.2,127,2015-12-06 23:15:12,2016-07-20 19:39:18
+1596,963,Viral Campanha Familiar,Influenciadores,604.02,90,2019-01-25 08:41:21,2020-01-26 00:34:19
+1597,144,Clássica Impacto Global,TV,611.75,0,2022-01-28 21:33:48,2022-05-09 19:52:38
+1598,620,Viral Campanha Clássica,Influenciadores,241.12,0,2017-05-12 06:16:07,2018-03-17 10:05:59
+1599,559,Clássica Impacto Tradicional,TV,680.44,9,2016-09-13 14:17:44,2017-05-02 15:26:00
+1600,938,Viral Promoção Artística,Influenciadores,612.21,96,2016-11-26 08:57:19,2017-10-23 10:16:57
+1601,747,Direta Campanha Contemporânea,Email Marketing,520.53,30,2020-05-14 08:14:17,2021-04-18 16:51:03
+1602,594,Conectada Impacto Inovação,Redes Sociais,991.9,0,2023-09-17 00:51:15,2024-06-11 19:32:29
+1603,2,Viral Campanha Inovação,Influenciadores,618.8,0,2022-03-01 10:41:45,2022-10-11 14:58:52
+1604,132,Alvo Campanha Global,Google Ads,982.82,86,2021-09-09 05:25:16,2022-05-05 04:30:40
+1605,493,Conectada Promoção Retro,Redes Sociais,958.1,128,2016-03-16 08:43:04,2016-08-23 13:05:13
+1606,342,Viral Promoção Tradicional,Influenciadores,370.0,40,2023-03-15 18:06:30,2023-05-28 16:15:14
+1607,868,Viral Promoção Inovação,Influenciadores,900.4,0,2024-11-21 07:19:58,2024-12-25 18:44:19
+1608,118,Clássica Promoção De Luxo,TV,609.64,0,2024-10-24 13:50:22,2025-02-14 09:01:32
+1609,102,Direta Campanha Vintage,Email Marketing,259.66,0,2014-03-07 20:30:54,2014-11-05 14:53:51
+1610,847,Direta Campanha De Luxo,Email Marketing,955.47,0,2014-01-06 06:01:44,2014-02-18 14:38:46
+1611,710,Conectada Promoção Digital,Redes Sociais,910.77,81,2021-01-21 07:17:39,2021-11-15 03:23:53
+1612,53,Direta Impacto Clássica,Email Marketing,656.48,68,2021-04-26 03:22:24,2021-10-04 13:01:06
+1613,876,Alvo Promoção Contemporânea,Google Ads,245.17,0,2016-07-21 21:52:38,2016-12-31 06:44:24
+1614,646,Conectada Promoção Inovação,Redes Sociais,961.54,0,2015-07-29 05:43:08,2015-12-04 11:13:54
+1615,430,Direta Campanha Fitness,Email Marketing,580.17,86,2023-07-25 18:02:09,2023-12-18 11:11:17
+1616,855,Clássica Impacto Cultural,TV,963.02,9,2014-02-24 09:41:09,2014-11-03 18:03:23
+1617,940,Clássica Campanha Cultural,TV,971.5,67,2017-05-21 17:01:28,2018-04-23 03:51:24
+1618,680,Clássica Campanha Artística,TV,380.22,0,2014-08-19 10:16:35,2014-09-09 07:18:35
+1619,694,Viral Impacto Desportiva,Influenciadores,381.35,180,2024-01-28 01:53:03,2025-01-25 09:08:23
+1620,7,Conectada Campanha Urbana,Redes Sociais,708.35,0,2014-01-14 05:19:27,2014-09-21 04:43:25
+1621,291,Clássica Promoção Digital,TV,441.05,160,2024-08-14 19:14:06,2024-12-30 07:16:42
+1622,58,Conectada Impacto Tradicional,Redes Sociais,342.11,0,2023-02-21 14:50:21,2024-02-09 15:38:43
+1623,693,Conectada Campanha Tecnológica,Redes Sociais,356.46,25,2022-03-31 23:19:45,2023-03-16 23:55:23
+1624,1000,Alvo Impacto Tecnológica,Google Ads,703.3,33,2015-05-11 20:23:15,2015-12-01 14:59:18
+1625,569,Conectada Campanha Gourmet,Redes Sociais,805.7,83,2015-07-24 21:50:44,2016-07-22 19:50:40
+1626,666,Viral Impacto Fitness,Influenciadores,529.18,83,2022-10-05 03:58:38,2023-02-09 03:04:32
+1627,61,Conectada Promoção Contemporânea,Redes Sociais,976.01,0,2021-08-25 18:09:57,2021-10-04 08:33:47
+1628,889,Direta Impacto De Luxo,Email Marketing,765.43,0,2017-01-25 19:01:36,2017-05-26 11:45:37
+1629,385,Direta Promoção Tradicional,Email Marketing,541.65,0,2024-04-04 13:49:04,2024-11-27 11:02:58
+1630,614,Clássica Impacto Urbana,TV,529.86,0,2022-11-20 17:51:25,2023-07-14 04:58:29
+1631,403,Direta Impacto Global,Email Marketing,656.59,107,2021-08-14 05:55:57,2022-06-23 15:35:22
+1632,461,Direta Promoção Familiar,Email Marketing,990.25,137,2016-03-21 04:05:23,2016-08-29 16:43:04
+1633,845,Alvo Promoção Sustentável,Google Ads,825.43,0,2022-12-23 12:02:28,2023-09-27 05:32:00
+1634,84,Clássica Promoção Global,TV,326.02,12,2020-02-20 18:02:36,2020-10-17 16:33:48
+1635,592,Viral Impacto Artística,Influenciadores,330.93,123,2018-07-24 22:04:35,2018-12-09 18:50:53
+1636,523,Conectada Impacto Local,Redes Sociais,483.91,49,2014-05-24 07:47:08,2015-01-14 23:19:37
+1637,399,Viral Impacto Familiar,Influenciadores,772.31,9,2020-05-18 09:26:59,2021-03-15 09:14:50
+1638,895,Conectada Promoção Urbana,Redes Sociais,731.1,162,2015-03-16 20:12:02,2015-09-18 16:54:01
+1639,771,Conectada Promoção Vintage,Redes Sociais,323.05,0,2021-07-04 22:07:44,2021-09-28 21:49:47
+1640,520,Conectada Campanha Inovação,Redes Sociais,370.82,1,2023-05-02 08:49:17,2023-08-07 22:50:15
+1641,352,Viral Campanha Cultural,Influenciadores,809.36,0,2015-02-10 02:17:39,2015-10-08 20:09:46
+1642,546,Conectada Campanha Retro,Redes Sociais,859.49,0,2024-03-18 20:43:01,2024-04-08 16:01:26
+1643,194,Viral Impacto Clássica,Influenciadores,397.99,75,2024-10-02 20:32:16,2024-11-21 23:31:29
+1644,295,Conectada Campanha Cultural,Redes Sociais,971.94,99,2014-10-02 14:19:23,2015-07-16 13:08:49
+1645,560,Direta Impacto Familiar,Email Marketing,848.51,121,2014-09-17 17:46:03,2015-07-03 14:55:27
+1646,85,Direta Campanha Tecnológica,Email Marketing,539.28,0,2022-10-23 16:29:50,2023-02-12 21:03:05
+1647,415,Viral Campanha Tecnológica,Influenciadores,970.91,0,2016-07-02 19:30:03,2016-08-06 06:54:03
+1648,406,Conectada Campanha Ecológica,Redes Sociais,553.33,0,2014-03-03 22:53:25,2014-05-15 18:30:34
+1649,953,Alvo Promoção Local,Google Ads,794.37,80,2022-10-27 12:04:33,2023-06-25 03:04:22
+1650,122,Clássica Promoção Rural,TV,858.6,81,2020-02-29 23:19:52,2021-02-26 23:00:02
+1651,342,Viral Impacto Contemporânea,Influenciadores,338.2,0,2022-02-17 15:34:57,2022-07-05 18:21:30
+1652,486,Alvo Promoção Tradicional,Google Ads,473.09,0,2018-01-14 02:19:41,2018-11-21 18:28:51
+1653,945,Viral Impacto Vintage,Influenciadores,634.22,82,2023-07-11 15:27:47,2023-11-29 14:49:55
+1654,468,Clássica Impacto Rural,TV,428.69,0,2015-09-28 18:48:36,2015-11-20 14:51:48
+1655,917,Alvo Campanha Rural,Google Ads,572.0,0,2021-07-02 10:31:41,2021-07-25 23:18:52
+1656,184,Direta Campanha Artística,Email Marketing,887.12,76,2017-10-27 08:43:59,2018-05-11 19:19:08
+1657,477,Alvo Impacto Clássica,Google Ads,619.92,0,2016-03-16 02:23:58,2016-07-13 23:22:47
+1658,594,Conectada Promoção Clássica,Redes Sociais,763.36,114,2019-02-12 19:22:38,2019-10-07 11:45:34
+1659,196,Direta Impacto Inovação,Email Marketing,365.24,47,2017-09-06 19:03:32,2018-08-24 09:52:21
+1660,580,Alvo Campanha Artística,Google Ads,453.1,0,2022-09-16 14:52:27,2023-05-09 19:49:17
+1661,621,Alvo Campanha Rural,Google Ads,639.17,0,2015-10-28 09:35:54,2016-03-07 04:15:35
+1662,955,Clássica Impacto Cultural,TV,997.99,0,2017-11-09 08:21:57,2018-03-26 22:33:17
+1663,716,Clássica Impacto Vintage,TV,314.95,0,2014-04-18 05:49:09,2014-05-19 02:17:49
+1664,818,Alvo Impacto Global,Google Ads,365.19,16,2020-05-02 20:02:10,2021-04-07 03:32:46
+1665,273,Clássica Campanha Artística,TV,572.69,24,2014-06-20 14:15:30,2015-06-19 00:44:23
+1666,829,Alvo Impacto Local,Google Ads,553.45,0,2021-05-01 16:21:21,2022-01-17 15:25:40
+1667,367,Alvo Promoção Familiar,Google Ads,875.22,14,2024-04-16 04:41:29,2024-08-24 00:22:14
+1668,427,Clássica Campanha Digital,TV,489.32,0,2022-09-23 09:33:06,2023-05-05 15:06:17
+1669,325,Alvo Campanha Sustentável,Google Ads,300.42,20,2021-08-23 18:03:34,2022-08-23 07:25:41
+1670,669,Conectada Promoção De Luxo,Redes Sociais,946.19,127,2016-11-20 05:23:01,2017-06-02 05:23:18
+1671,858,Direta Impacto De Luxo,Email Marketing,562.45,76,2017-04-13 15:30:09,2018-01-08 01:40:21
+1672,474,Clássica Impacto Online,TV,910.36,71,2023-05-10 14:20:36,2023-07-17 10:18:42
+1673,707,Conectada Promoção Tecnológica,Redes Sociais,752.14,0,2017-01-01 00:26:06,2017-10-25 18:09:10
+1674,86,Direta Impacto Contemporânea,Email Marketing,381.61,0,2015-01-15 10:20:51,2015-03-13 17:02:57
+1675,157,Clássica Campanha Global,TV,976.47,0,2023-10-12 03:49:42,2024-01-18 14:20:14
+1676,70,Viral Campanha Nacional,Influenciadores,861.19,0,2014-12-05 01:19:37,2015-07-08 07:00:17
+1677,496,Direta Impacto Ecológica,Email Marketing,409.35,47,2014-08-17 04:38:36,2015-05-03 04:40:28
+1678,277,Clássica Impacto Cultural,TV,886.21,0,2020-01-10 06:40:03,2020-07-28 00:03:21
+1679,509,Clássica Promoção Local,TV,844.51,153,2023-03-04 16:45:19,2024-01-15 16:27:19
+1680,564,Alvo Impacto Familiar,Google Ads,260.67,0,2024-07-20 00:42:12,2024-09-12 17:47:50
+1681,22,Direta Promoção Sustentável,Email Marketing,432.72,0,2017-07-20 06:07:56,2017-11-07 09:53:23
+1682,140,Clássica Impacto Vintage,TV,444.28,0,2024-06-19 17:06:28,2025-02-17 15:55:22
+1683,935,Clássica Promoção Artística,TV,325.11,0,2019-05-10 02:23:58,2019-07-01 03:51:46
+1684,105,Conectada Promoção Desportiva,Redes Sociais,210.23,48,2017-07-09 05:26:57,2018-05-17 09:11:14
+1685,780,Direta Promoção Urbana,Email Marketing,836.04,0,2015-07-15 04:38:15,2016-06-29 22:17:34
+1686,465,Clássica Promoção Sustentável,TV,489.17,0,2019-03-25 01:47:32,2019-04-25 13:53:36
+1687,788,Conectada Campanha Ecológica,Redes Sociais,350.56,155,2014-04-28 22:17:51,2015-04-12 11:51:53
+1688,420,Direta Campanha Inovação,Email Marketing,806.77,44,2015-08-30 13:39:30,2016-02-04 09:26:51
+1689,585,Conectada Promoção Vintage,Redes Sociais,777.14,10,2015-04-06 03:07:17,2015-09-18 11:54:37
+1690,431,Viral Campanha Tecnológica,Influenciadores,592.89,2,2023-01-25 21:35:47,2023-04-18 00:58:48
+1691,97,Viral Campanha Online,Influenciadores,362.04,143,2020-06-28 02:26:22,2021-05-22 23:03:48
+1692,25,Direta Promoção Nacional,Email Marketing,619.71,18,2020-06-16 20:04:56,2020-12-12 00:30:26
+1693,677,Conectada Impacto Familiar,Redes Sociais,798.96,0,2019-07-02 19:32:56,2019-12-19 02:14:29
+1694,329,Viral Impacto Vintage,Influenciadores,431.68,0,2023-04-27 16:06:24,2023-06-19 05:16:53
+1695,552,Conectada Impacto Cultural,Redes Sociais,922.08,0,2024-12-22 04:33:00,2025-01-08 18:53:28
+1696,707,Viral Impacto Nacional,Influenciadores,981.04,0,2023-03-13 07:28:15,2023-05-09 09:16:42
+1697,359,Direta Promoção Tecnológica,Email Marketing,267.2,5,2024-08-18 02:22:52,2025-05-29 19:50:56
+1698,21,Direta Campanha Rural,Email Marketing,927.35,0,2015-05-05 09:30:09,2015-12-25 12:46:26
+1699,290,Direta Promoção Rural,Email Marketing,702.23,0,2024-03-21 04:29:38,2024-04-21 14:16:40
+1700,325,Alvo Promoção Cultural,Google Ads,312.41,0,2021-12-16 06:16:22,2022-05-04 03:03:18
+1701,149,Alvo Campanha Artística,Google Ads,748.63,15,2021-05-17 16:55:39,2022-04-01 15:49:35
+1702,8,Clássica Campanha Local,TV,963.28,85,2015-11-07 00:42:23,2016-07-09 05:01:36
+1703,330,Alvo Campanha Nacional,Google Ads,940.33,0,2016-05-24 10:05:53,2017-05-13 20:03:12
+1704,932,Viral Impacto Vintage,Influenciadores,732.7,28,2015-06-21 11:41:21,2016-05-10 16:10:30
+1705,629,Viral Campanha Contemporânea,Influenciadores,708.26,77,2016-05-19 15:49:47,2017-05-15 04:16:57
+1706,968,Alvo Campanha Artística,Google Ads,550.37,0,2020-05-15 09:02:15,2020-09-06 02:09:28
+1707,546,Viral Promoção Digital,Influenciadores,276.5,77,2014-04-22 12:43:26,2015-02-12 02:40:46
+1708,101,Conectada Impacto Inovação,Redes Sociais,202.74,0,2015-04-16 10:33:00,2015-05-23 03:07:21
+1709,87,Clássica Impacto Desportiva,TV,243.6,70,2014-04-15 02:26:51,2015-02-19 15:36:21
+1710,30,Clássica Impacto Desportiva,TV,551.88,120,2023-12-10 15:21:23,2024-06-20 03:48:59
+1711,930,Direta Impacto Contemporânea,Email Marketing,351.6,0,2015-10-15 16:18:52,2015-12-07 08:18:38
+1712,880,Alvo Impacto Familiar,Google Ads,756.31,0,2017-11-05 14:54:38,2018-03-19 23:50:19
+1713,156,Viral Campanha Contemporânea,Influenciadores,672.12,0,2018-03-08 11:40:44,2018-07-21 08:32:01
+1714,16,Clássica Promoção Online,TV,577.21,0,2023-04-26 22:04:05,2024-04-15 10:45:00
+1715,207,Clássica Impacto Urbana,TV,829.22,55,2015-06-19 08:03:27,2015-09-29 18:41:23
+1716,197,Viral Impacto Nacional,Influenciadores,353.24,84,2022-01-22 13:44:22,2022-09-07 02:39:55
+1717,142,Viral Impacto Tecnológica,Influenciadores,735.2,88,2022-10-01 03:39:28,2023-01-21 18:39:36
+1718,911,Alvo Promoção Vintage,Google Ads,664.98,0,2016-03-14 04:44:11,2016-05-19 11:59:23
+1719,433,Direta Promoção Clássica,Email Marketing,963.8,0,2015-06-12 11:32:20,2015-07-10 18:18:32
+1720,846,Direta Promoção Tecnológica,Email Marketing,871.99,121,2018-08-07 01:24:31,2019-01-30 13:27:46
+1721,192,Direta Promoção Tradicional,Email Marketing,248.61,87,2019-03-07 07:07:53,2019-10-16 19:47:14
+1722,408,Direta Campanha Urbana,Email Marketing,620.7,0,2022-03-07 15:06:58,2022-08-08 19:45:07
+1723,30,Conectada Promoção Fitness,Redes Sociais,435.15,0,2024-01-13 09:08:09,2024-03-16 23:58:36
+1724,655,Viral Impacto Gourmet,Influenciadores,688.08,0,2016-12-27 04:54:01,2017-02-08 23:18:44
+1725,959,Direta Impacto Inovação,Email Marketing,462.16,46,2022-09-21 12:16:27,2023-01-19 08:46:20
+1726,608,Clássica Impacto Contemporânea,TV,268.46,0,2014-10-26 02:23:55,2014-12-14 02:21:05
+1727,8,Conectada Campanha Artística,Redes Sociais,764.2,2,2019-12-25 11:44:25,2020-10-03 09:06:58
+1728,750,Direta Campanha Contemporânea,Email Marketing,484.99,343,2016-09-14 00:21:26,2017-08-26 14:14:19
+1729,181,Viral Promoção Digital,Influenciadores,670.31,0,2019-09-18 17:40:57,2020-08-17 18:36:15
+1730,912,Alvo Campanha Desportiva,Google Ads,456.56,0,2019-10-31 14:28:39,2020-08-24 11:55:23
+1731,525,Alvo Promoção Urbana,Google Ads,786.85,0,2022-05-03 15:03:54,2022-07-03 16:28:13
+1732,618,Direta Promoção Nacional,Email Marketing,360.52,84,2018-08-13 10:57:08,2019-06-25 17:35:57
+1733,401,Conectada Promoção Rural,Redes Sociais,295.47,80,2018-10-08 11:27:47,2019-08-13 08:15:01
+1734,619,Direta Promoção Gourmet,Email Marketing,306.91,0,2018-09-22 12:58:21,2018-10-26 20:42:29
+1735,465,Clássica Impacto Retro,TV,261.63,185,2016-08-21 13:40:26,2016-10-07 19:07:48
+1736,811,Conectada Promoção Retro,Redes Sociais,678.91,30,2020-12-15 17:30:46,2021-02-24 17:13:35
+1737,897,Alvo Impacto Tecnológica,Google Ads,423.32,0,2016-04-11 16:27:05,2016-08-06 18:45:16
+1738,540,Alvo Promoção Digital,Google Ads,867.28,39,2020-05-09 10:26:12,2021-05-03 10:00:08
+1739,342,Viral Impacto Clássica,Influenciadores,243.34,103,2018-09-18 16:55:33,2019-09-12 13:01:56
+1740,632,Conectada Campanha Cultural,Redes Sociais,330.91,195,2022-06-07 08:09:23,2023-04-23 15:29:39
+1741,835,Direta Campanha Desportiva,Email Marketing,483.3,49,2017-01-24 15:16:26,2017-09-25 14:48:07
+1742,490,Viral Impacto Familiar,Influenciadores,534.5,0,2023-09-18 13:23:00,2024-07-01 16:50:46
+1743,409,Clássica Promoção Local,TV,238.66,0,2018-09-11 02:07:25,2018-10-07 06:40:29
+1744,931,Direta Promoção Fitness,Email Marketing,421.79,81,2014-09-25 14:56:10,2014-11-11 10:22:22
+1745,671,Conectada Promoção Gourmet,Redes Sociais,360.97,0,2017-06-12 22:23:02,2017-10-05 16:22:51
+1746,974,Alvo Campanha Familiar,Google Ads,284.69,0,2017-08-16 20:29:04,2018-01-11 12:59:02
+1747,881,Viral Campanha Clássica,Influenciadores,521.69,36,2023-11-27 22:20:20,2024-07-16 05:50:11
+1748,464,Clássica Promoção Tecnológica,TV,408.58,0,2021-07-06 18:15:29,2021-12-25 15:47:50
+1749,361,Viral Impacto Desportiva,Influenciadores,867.99,17,2016-10-22 06:34:55,2017-02-23 14:03:06
+1750,244,Clássica Campanha Cultural,TV,842.82,8,2022-08-16 04:35:08,2023-05-21 15:41:19
+1751,486,Clássica Campanha Online,TV,336.57,0,2023-10-28 10:46:01,2023-11-25 19:04:58
+1752,668,Viral Impacto Local,Influenciadores,916.36,0,2018-07-15 21:20:43,2018-10-18 20:32:10
+1753,540,Conectada Campanha Artística,Redes Sociais,929.18,35,2018-02-27 03:24:14,2018-05-27 19:38:18
+1754,676,Conectada Campanha Familiar,Redes Sociais,812.84,96,2020-03-05 14:32:18,2020-09-07 09:07:33
+1755,692,Clássica Promoção Inovação,TV,638.21,0,2018-07-11 22:20:44,2018-09-29 11:59:50
+1756,658,Viral Campanha Artística,Influenciadores,880.96,0,2018-09-01 12:19:06,2018-10-05 23:02:01
+1757,983,Viral Campanha Local,Influenciadores,369.8,95,2017-03-07 20:36:35,2017-12-30 13:18:52
+1758,126,Viral Promoção Rural,Influenciadores,668.32,21,2015-06-10 07:15:02,2016-03-31 22:37:51
+1759,865,Clássica Campanha Vintage,TV,590.93,0,2024-07-19 20:13:38,2024-10-22 20:22:48
+1760,568,Viral Impacto Retro,Influenciadores,922.01,0,2024-07-25 14:00:46,2024-12-10 13:04:43
+1761,673,Direta Impacto Global,Email Marketing,247.27,167,2023-11-11 10:09:13,2024-11-03 19:24:19
+1762,177,Conectada Impacto Cultural,Redes Sociais,230.93,88,2014-12-17 20:03:59,2015-07-05 23:17:49
+1763,809,Viral Promoção Artística,Influenciadores,547.59,221,2023-09-13 10:51:05,2024-07-01 22:10:12
+1764,851,Direta Impacto Fitness,Email Marketing,667.28,0,2019-09-09 01:46:07,2020-01-02 02:35:13
+1765,182,Clássica Promoção Global,TV,529.91,46,2020-09-26 01:42:52,2020-12-23 22:49:33
+1766,189,Direta Campanha Digital,Email Marketing,202.91,98,2024-06-05 08:42:48,2024-08-05 20:18:18
+1767,80,Conectada Campanha Ecológica,Redes Sociais,555.56,0,2017-10-05 20:32:06,2017-11-26 15:59:46
+1768,783,Direta Impacto Vintage,Email Marketing,851.45,4,2014-01-17 21:06:38,2014-06-09 14:42:02
+1769,24,Clássica Promoção Clássica,TV,597.47,96,2014-12-20 21:59:37,2015-05-14 00:10:50
+1770,983,Conectada Impacto Rural,Redes Sociais,748.34,69,2019-04-08 10:14:58,2019-12-18 22:59:01
+1771,131,Direta Impacto De Luxo,Email Marketing,340.42,133,2017-12-17 12:19:20,2018-12-07 14:00:57
+1772,755,Clássica Promoção Desportiva,TV,604.89,0,2017-08-24 13:52:01,2018-04-08 01:49:55
+1773,9,Clássica Impacto Urbana,TV,866.17,65,2023-12-18 16:32:41,2024-03-16 03:32:52
+1774,306,Viral Impacto Vintage,Influenciadores,894.46,66,2024-04-01 18:22:50,2024-04-29 15:57:35
+1775,527,Conectada Promoção Vintage,Redes Sociais,868.51,74,2015-12-03 21:11:08,2016-12-01 08:48:25
+1776,8,Clássica Promoção Retro,TV,862.11,26,2021-08-11 01:56:02,2022-04-02 05:16:17
+1777,918,Conectada Campanha Gourmet,Redes Sociais,845.96,63,2016-12-21 02:45:40,2017-10-13 18:06:55
+1778,376,Direta Impacto Familiar,Email Marketing,909.81,0,2017-08-19 20:50:22,2017-10-08 20:44:18
+1779,463,Clássica Promoção Urbana,TV,599.35,0,2023-11-19 00:12:31,2023-12-10 13:26:35
+1780,359,Clássica Campanha Retro,TV,303.34,0,2023-03-25 07:12:06,2023-10-16 00:05:59
+1781,267,Viral Impacto Familiar,Influenciadores,397.48,99,2020-09-14 05:10:09,2021-08-09 23:20:42
+1782,222,Alvo Promoção Artística,Google Ads,513.66,96,2018-03-07 14:53:54,2018-10-19 03:08:52
+1783,88,Conectada Impacto Sustentável,Redes Sociais,550.56,0,2022-05-12 20:34:48,2022-09-24 11:01:46
+1784,447,Conectada Campanha Fitness,Redes Sociais,298.27,0,2023-10-04 17:48:11,2024-08-27 16:26:51
+1785,155,Clássica Impacto Online,TV,943.1,2,2018-08-06 00:13:47,2018-10-16 23:32:48
+1786,596,Conectada Impacto Digital,Redes Sociais,614.54,0,2022-09-19 09:47:03,2023-05-20 02:19:02
+1787,89,Alvo Campanha Artística,Google Ads,369.79,16,2017-11-26 08:15:50,2018-05-21 06:15:09
+1788,424,Viral Promoção Tecnológica,Influenciadores,896.41,84,2018-12-13 08:25:01,2019-12-07 01:36:19
+1789,794,Conectada Promoção Ecológica,Redes Sociais,487.68,0,2017-01-11 05:30:08,2017-10-11 15:06:58
+1790,347,Conectada Impacto Clássica,Redes Sociais,578.62,161,2021-01-08 17:09:21,2022-01-02 08:03:37
+1791,850,Clássica Promoção Rural,TV,701.88,0,2023-12-07 21:01:19,2024-08-17 07:14:32
+1792,387,Alvo Campanha Contemporânea,Google Ads,632.84,0,2015-05-14 22:46:01,2015-06-12 23:50:34
+1793,447,Alvo Campanha Online,Google Ads,248.1,0,2014-08-15 10:52:31,2014-09-24 18:47:17
+1794,121,Alvo Impacto Tradicional,Google Ads,495.81,0,2018-07-23 23:12:45,2018-10-11 20:39:31
+1795,36,Direta Promoção Tecnológica,Email Marketing,270.64,0,2015-01-15 13:15:30,2015-07-24 09:20:40
+1796,534,Alvo Campanha Retro,Google Ads,228.12,0,2015-02-14 03:48:58,2015-08-20 10:10:00
+1797,15,Clássica Campanha Desportiva,TV,732.48,83,2022-03-16 15:04:54,2022-04-26 07:33:29
+1798,108,Alvo Impacto Vintage,Google Ads,485.04,92,2024-07-04 00:08:07,2025-01-20 21:38:56
+1799,499,Direta Promoção Sustentável,Email Marketing,448.59,147,2017-07-24 12:15:07,2017-11-14 22:18:11
+1800,435,Direta Promoção Gourmet,Email Marketing,554.67,72,2019-11-04 22:12:15,2020-08-03 02:35:05
+1801,970,Direta Campanha Fitness,Email Marketing,224.15,61,2020-11-25 09:42:43,2021-07-28 23:23:38
+1802,673,Clássica Promoção Global,TV,797.3,0,2019-04-03 09:01:34,2019-09-01 23:53:27
+1803,787,Alvo Campanha Digital,Google Ads,574.4,82,2021-04-04 01:59:26,2021-09-16 16:34:39
+1804,529,Clássica Impacto Familiar,TV,294.17,58,2014-07-21 09:09:24,2015-07-11 13:29:03
+1805,487,Clássica Campanha Desportiva,TV,309.0,0,2017-11-19 08:48:52,2018-06-14 21:20:13
+1806,947,Conectada Campanha Vintage,Redes Sociais,798.09,88,2017-05-10 03:21:22,2018-02-27 03:47:06
+1807,858,Conectada Promoção Nacional,Redes Sociais,818.93,0,2024-03-16 07:13:26,2025-02-04 13:23:52
+1808,17,Viral Campanha Contemporânea,Influenciadores,931.22,0,2014-09-16 13:17:32,2014-10-26 18:08:47
+1809,20,Conectada Campanha Urbana,Redes Sociais,900.48,0,2023-06-01 00:00:58,2023-07-03 10:53:54
+1810,618,Viral Campanha De Luxo,Influenciadores,934.34,78,2014-08-21 11:29:58,2014-12-16 03:03:44
+1811,643,Alvo Promoção Fitness,Google Ads,767.22,0,2021-09-13 22:25:50,2021-12-11 10:30:14
+1812,749,Conectada Campanha Tradicional,Redes Sociais,592.31,27,2023-05-14 09:30:10,2024-02-12 03:11:41
+1813,734,Viral Promoção Contemporânea,Influenciadores,429.6,23,2019-01-24 16:19:31,2019-05-27 03:04:25
+1814,709,Direta Impacto Online,Email Marketing,495.29,32,2018-03-30 14:19:35,2018-08-08 12:47:20
+1815,520,Direta Impacto Retro,Email Marketing,665.42,1,2023-02-20 01:41:09,2023-07-24 17:57:46
+1816,219,Viral Impacto Contemporânea,Influenciadores,910.67,0,2016-07-01 01:28:54,2016-09-17 05:44:23
+1817,119,Viral Promoção Urbana,Influenciadores,348.95,0,2017-02-09 06:51:11,2017-10-12 03:34:00
+1818,646,Clássica Impacto Urbana,TV,744.59,13,2018-05-24 11:25:58,2018-12-29 18:54:53
+1819,903,Alvo Promoção Tecnológica,Google Ads,766.64,145,2017-11-14 14:25:59,2018-08-31 16:58:08
+1820,462,Clássica Promoção Desportiva,TV,209.89,0,2022-12-11 12:45:00,2023-01-31 10:29:57
+1821,451,Viral Campanha Global,Influenciadores,987.44,81,2023-04-27 00:47:04,2023-07-29 06:38:54
+1822,736,Conectada Campanha Urbana,Redes Sociais,203.78,68,2019-10-03 14:16:51,2020-10-01 16:11:46
+1823,191,Alvo Impacto Fitness,Google Ads,696.0,92,2016-05-02 08:42:45,2017-04-20 10:21:28
+1824,277,Direta Impacto Vintage,Email Marketing,433.86,88,2014-08-08 21:26:06,2014-09-23 11:10:34
+1825,182,Conectada Promoção Familiar,Redes Sociais,535.34,0,2024-08-13 00:59:35,2025-05-12 14:01:49
+1826,986,Clássica Promoção Urbana,TV,442.76,0,2016-04-03 18:00:13,2016-10-17 07:11:41
+1827,282,Clássica Campanha Tradicional,TV,859.0,236,2018-01-30 15:03:58,2019-01-22 05:30:54
+1828,939,Clássica Impacto Urbana,TV,911.56,0,2024-12-20 20:13:43,2025-09-26 10:37:25
+1829,548,Viral Impacto Ecológica,Influenciadores,439.66,173,2019-06-16 03:17:35,2019-11-16 14:33:38
+1830,501,Direta Promoção Online,Email Marketing,381.23,35,2021-11-26 07:24:20,2022-08-12 20:37:57
+1831,230,Conectada Campanha Familiar,Redes Sociais,866.19,0,2017-03-19 07:45:30,2017-09-16 14:58:44
+1832,815,Viral Promoção Sustentável,Influenciadores,551.01,16,2015-07-21 16:37:33,2015-08-08 11:16:23
+1833,980,Clássica Impacto Local,TV,647.01,31,2015-05-12 22:06:32,2015-08-08 12:38:01
+1834,962,Clássica Campanha Clássica,TV,278.71,0,2023-11-03 00:34:34,2024-02-12 06:28:59
+1835,711,Alvo Campanha Tradicional,Google Ads,382.79,176,2018-01-20 20:04:00,2018-08-08 00:30:23
+1836,193,Alvo Impacto Familiar,Google Ads,903.36,99,2014-02-07 23:57:30,2014-12-02 07:42:38
+1837,618,Direta Promoção Urbana,Email Marketing,273.79,0,2016-04-09 00:27:37,2016-05-04 13:22:25
+1838,133,Conectada Campanha Artística,Redes Sociais,699.94,0,2017-09-21 10:23:17,2018-03-13 21:46:06
+1839,707,Clássica Impacto Sustentável,TV,563.18,123,2023-03-23 22:38:21,2024-03-21 18:53:10
+1840,888,Direta Impacto Urbana,Email Marketing,850.73,30,2015-06-06 17:30:41,2015-07-30 12:00:57
+1841,218,Direta Campanha Retro,Email Marketing,614.17,0,2018-05-14 23:29:30,2018-05-31 18:52:27
+1842,496,Direta Campanha Retro,Email Marketing,313.72,0,2022-07-28 19:24:38,2022-08-25 14:23:21
+1843,811,Direta Promoção Fitness,Email Marketing,368.28,0,2020-11-16 19:06:29,2021-01-17 11:04:21
+1844,466,Direta Impacto Fitness,Email Marketing,903.51,184,2024-03-12 13:40:16,2024-07-13 00:57:10
+1845,194,Alvo Promoção Clássica,Google Ads,234.62,26,2019-02-08 15:13:43,2019-10-18 08:50:50
+1846,418,Direta Promoção Local,Email Marketing,482.38,95,2021-01-04 03:31:30,2021-06-01 05:44:44
+1847,687,Alvo Impacto De Luxo,Google Ads,938.57,129,2020-08-29 00:52:21,2021-04-30 08:41:45
+1848,348,Direta Promoção Clássica,Email Marketing,979.74,37,2021-10-15 03:09:17,2022-03-31 03:09:52
+1849,904,Conectada Promoção Contemporânea,Redes Sociais,769.32,61,2015-12-06 20:07:30,2016-04-04 05:47:21
+1850,125,Viral Campanha Global,Influenciadores,407.45,0,2024-12-27 21:03:23,2025-03-18 00:46:56
+1851,698,Clássica Promoção Tradicional,TV,639.48,104,2017-07-06 21:09:19,2018-04-12 12:37:04
+1852,854,Alvo Impacto Familiar,Google Ads,257.86,88,2023-10-19 04:09:40,2024-03-12 15:10:49
+1853,198,Alvo Promoção Global,Google Ads,545.15,169,2014-11-27 05:43:13,2015-09-17 20:11:49
+1854,682,Alvo Impacto Contemporânea,Google Ads,350.46,104,2019-12-03 20:21:31,2020-09-13 03:33:55
+1855,602,Direta Campanha Fitness,Email Marketing,653.02,22,2021-07-11 08:42:44,2021-10-15 16:08:53
+1856,927,Alvo Campanha Familiar,Google Ads,748.47,151,2022-07-20 19:25:53,2022-10-16 02:47:41
+1857,728,Direta Impacto Local,Email Marketing,967.95,0,2020-03-09 05:01:31,2020-08-31 09:07:43
+1858,13,Alvo Promoção Digital,Google Ads,627.08,45,2021-04-22 11:27:18,2021-10-13 16:24:19
+1859,631,Clássica Campanha Tecnológica,TV,800.0,0,2017-12-16 04:59:50,2018-01-10 13:57:34
+1860,505,Conectada Promoção Clássica,Redes Sociais,860.27,202,2020-04-05 08:34:01,2021-01-22 00:35:19
+1861,106,Viral Impacto Artística,Influenciadores,604.13,0,2023-02-08 00:57:36,2023-07-30 05:48:03
+1862,857,Conectada Impacto Local,Redes Sociais,706.22,41,2018-10-31 08:39:33,2019-07-26 09:39:58
+1863,147,Clássica Campanha Gourmet,TV,676.91,120,2024-03-12 13:09:25,2024-09-21 01:50:43
+1864,786,Clássica Impacto Nacional,TV,957.25,42,2016-09-16 22:08:53,2017-02-26 04:11:33
+1865,810,Direta Impacto Rural,Email Marketing,772.51,75,2024-05-30 11:47:35,2024-10-07 16:17:08
+1866,550,Viral Promoção Contemporânea,Influenciadores,290.12,0,2021-05-06 11:49:38,2021-08-26 07:49:45
+1867,295,Direta Promoção Tecnológica,Email Marketing,429.12,9,2023-08-21 15:48:26,2024-01-23 05:47:07
+1868,654,Clássica Impacto Sustentável,TV,527.29,0,2018-01-28 15:07:05,2018-05-29 08:50:29
+1869,675,Viral Impacto Desportiva,Influenciadores,569.69,185,2021-07-28 17:15:10,2022-02-24 23:57:17
+1870,247,Alvo Campanha Gourmet,Google Ads,721.08,0,2019-11-22 23:42:18,2020-01-29 11:32:40
+1871,15,Alvo Impacto Urbana,Google Ads,331.9,59,2024-05-27 15:09:55,2024-10-14 02:15:36
+1872,714,Viral Promoção Contemporânea,Influenciadores,999.99,63,2014-08-11 05:37:59,2015-05-06 23:32:54
+1873,70,Clássica Promoção Urbana,TV,934.91,50,2023-04-12 01:48:59,2023-07-03 14:14:49
+1874,302,Clássica Impacto Online,TV,559.41,0,2017-07-01 10:31:26,2017-08-07 00:00:46
+1875,930,Viral Campanha Fitness,Influenciadores,697.93,0,2023-10-30 09:43:29,2024-02-13 08:20:20
+1876,557,Alvo Promoção Nacional,Google Ads,613.79,17,2019-12-07 20:41:24,2020-06-17 03:33:32
+1877,831,Viral Campanha Familiar,Influenciadores,709.6,134,2019-08-18 11:01:04,2020-05-09 07:31:23
+1878,791,Clássica Impacto Retro,TV,701.55,29,2023-07-31 15:40:20,2023-11-20 03:16:17
+1879,150,Alvo Promoção Ecológica,Google Ads,986.89,197,2022-02-12 21:29:04,2022-12-04 22:28:35
+1880,644,Conectada Campanha Inovação,Redes Sociais,556.43,0,2019-01-28 22:21:56,2019-02-15 23:00:49
+1881,475,Direta Impacto De Luxo,Email Marketing,856.81,90,2014-08-18 02:50:48,2015-02-07 13:12:27
+1882,391,Clássica Campanha Inovação,TV,417.31,15,2022-12-02 18:51:20,2023-02-22 01:19:02
+1883,350,Conectada Campanha Online,Redes Sociais,310.43,93,2018-12-01 18:36:20,2019-07-15 12:07:04
+1884,337,Viral Promoção Tradicional,Influenciadores,540.39,0,2024-10-12 11:41:48,2025-02-21 18:26:18
+1885,183,Conectada Impacto Vintage,Redes Sociais,946.41,82,2015-04-30 18:16:14,2015-08-21 00:53:31
+1886,157,Viral Promoção Digital,Influenciadores,855.46,108,2018-12-27 23:24:27,2019-03-02 03:34:19
+1887,966,Viral Impacto Global,Influenciadores,789.72,127,2018-03-16 13:29:48,2018-05-13 01:52:08
+1888,867,Viral Campanha Digital,Influenciadores,327.98,0,2019-07-12 19:41:40,2019-08-12 16:48:37
+1889,354,Clássica Campanha Ecológica,TV,214.3,70,2014-11-26 08:42:07,2015-08-25 01:42:07
+1890,785,Clássica Promoção Gourmet,TV,373.95,199,2014-03-31 08:57:20,2015-02-14 16:50:54
+1891,444,Clássica Campanha Tecnológica,TV,245.82,98,2018-06-01 06:09:55,2018-07-11 21:47:37
+1892,428,Direta Promoção Familiar,Email Marketing,760.54,24,2017-02-25 06:33:08,2017-12-09 07:49:24
+1893,843,Conectada Impacto De Luxo,Redes Sociais,883.32,127,2015-07-09 08:01:10,2016-04-05 00:14:12
+1894,418,Alvo Campanha Retro,Google Ads,309.38,0,2016-04-12 17:50:07,2016-11-19 01:24:38
+1895,669,Conectada Promoção Tradicional,Redes Sociais,811.99,8,2020-01-10 03:18:20,2020-06-07 06:25:22
+1896,622,Clássica Promoção Familiar,TV,882.1,254,2022-08-27 11:25:26,2023-01-27 20:29:42
+1897,145,Clássica Promoção Rural,TV,558.49,0,2020-04-24 09:59:18,2020-09-03 09:05:24
+1898,172,Alvo Promoção Global,Google Ads,717.46,345,2015-12-06 00:06:33,2016-04-13 00:45:30
+1899,269,Clássica Promoção Artística,TV,579.43,32,2022-01-28 09:29:37,2022-12-21 21:21:44
+1900,100,Clássica Promoção Tecnológica,TV,926.79,0,2018-02-22 18:27:56,2018-03-17 01:30:39
+1901,650,Clássica Impacto Gourmet,TV,799.23,0,2023-04-25 03:32:14,2023-10-20 02:49:25
+1902,779,Clássica Impacto Gourmet,TV,402.96,0,2023-03-25 01:42:11,2023-08-19 03:00:13
+1903,787,Viral Campanha De Luxo,Influenciadores,801.18,69,2017-10-18 04:10:44,2018-08-11 05:32:15
+1904,306,Direta Campanha Tecnológica,Email Marketing,372.17,143,2021-10-10 14:23:51,2022-08-18 23:41:42
+1905,796,Conectada Campanha Urbana,Redes Sociais,346.78,89,2023-01-10 12:21:21,2023-12-15 17:50:32
+1906,899,Conectada Campanha Gourmet,Redes Sociais,800.5,59,2016-10-17 09:05:54,2017-09-16 08:59:37
+1907,850,Conectada Promoção Cultural,Redes Sociais,450.98,70,2018-03-25 20:35:32,2018-12-14 07:12:53
+1908,240,Clássica Campanha Inovação,TV,372.63,30,2015-10-28 09:54:23,2016-03-21 13:17:33
+1909,387,Viral Campanha Urbana,Influenciadores,948.36,78,2022-06-10 01:38:42,2023-04-02 11:25:11
+1910,202,Viral Promoção Nacional,Influenciadores,972.15,92,2015-01-30 12:27:39,2015-08-03 20:01:21
+1911,121,Alvo Promoção Ecológica,Google Ads,349.69,198,2017-05-12 05:31:33,2018-01-13 15:32:12
+1912,175,Direta Impacto Inovação,Email Marketing,806.04,2,2024-06-21 03:36:50,2024-11-19 10:26:02
+1913,545,Direta Impacto De Luxo,Email Marketing,670.22,30,2017-07-05 11:38:17,2018-03-26 16:17:09
+1914,608,Alvo Campanha Gourmet,Google Ads,859.1,71,2022-04-28 05:26:57,2022-12-17 22:45:50
+1915,674,Clássica Campanha Local,TV,944.78,34,2024-07-11 08:25:51,2025-05-20 05:05:33
+1916,207,Clássica Impacto Rural,TV,746.98,0,2021-08-10 07:48:55,2022-02-22 21:37:50
+1917,63,Clássica Impacto Gourmet,TV,473.72,0,2018-08-04 04:14:32,2019-01-16 09:41:00
+1918,354,Conectada Impacto De Luxo,Redes Sociais,721.51,106,2024-03-06 05:11:44,2025-01-06 13:22:02
+1919,648,Conectada Promoção Online,Redes Sociais,458.78,138,2014-02-22 23:09:32,2015-02-19 17:05:09
+1920,123,Conectada Impacto Sustentável,Redes Sociais,934.47,0,2017-12-11 12:48:17,2018-04-05 09:24:17
+1921,253,Clássica Impacto De Luxo,TV,579.02,0,2015-01-10 02:40:46,2015-03-30 10:55:50
+1922,498,Clássica Impacto Tecnológica,TV,585.96,28,2014-10-13 11:55:56,2015-03-18 17:38:47
+1923,368,Conectada Campanha Familiar,Redes Sociais,555.08,0,2022-03-19 09:04:45,2022-10-05 03:50:48
+1924,92,Conectada Impacto Digital,Redes Sociais,862.88,105,2021-03-15 13:48:34,2021-10-27 03:19:31
+1925,921,Viral Promoção Rural,Influenciadores,939.33,89,2024-06-09 04:28:29,2024-09-14 09:16:01
+1926,564,Viral Impacto Tecnológica,Influenciadores,430.57,31,2021-04-05 22:00:13,2021-10-06 12:52:32
+1927,590,Clássica Campanha Inovação,TV,861.87,88,2018-05-05 15:59:32,2018-06-07 20:33:38
+1928,224,Viral Impacto Desportiva,Influenciadores,396.01,51,2023-11-25 23:20:56,2024-09-22 11:20:24
+1929,235,Clássica Impacto Desportiva,TV,349.67,0,2016-03-04 23:48:48,2016-06-06 01:19:22
+1930,695,Viral Impacto Tradicional,Influenciadores,997.29,56,2021-06-03 01:08:14,2022-05-09 03:36:04
+1931,567,Direta Campanha Desportiva,Email Marketing,951.3,0,2016-07-11 00:18:06,2016-10-19 01:39:11
+1932,487,Conectada Impacto Artística,Redes Sociais,295.6,0,2021-09-10 02:49:48,2022-04-01 07:48:53
+1933,979,Viral Promoção Online,Influenciadores,902.44,0,2015-10-06 20:01:54,2015-12-07 08:01:43
+1934,525,Viral Impacto Vintage,Influenciadores,950.29,80,2017-09-07 19:43:52,2018-03-21 03:24:50
+1935,393,Viral Impacto Tecnológica,Influenciadores,580.67,0,2018-12-20 05:20:47,2019-03-11 06:50:31
+1936,313,Viral Impacto Vintage,Influenciadores,261.87,79,2019-12-12 18:23:11,2020-09-06 09:04:24
+1937,669,Conectada Campanha Digital,Redes Sociais,288.0,54,2018-02-27 15:06:17,2018-07-14 14:07:32
+1938,141,Direta Campanha Urbana,Email Marketing,619.29,0,2021-08-14 07:48:39,2021-09-01 14:35:32
+1939,854,Conectada Campanha Local,Redes Sociais,745.35,0,2018-04-07 16:27:46,2018-09-26 18:54:58
+1940,528,Direta Campanha Sustentável,Email Marketing,797.05,43,2021-08-07 19:41:24,2022-05-24 12:05:54
+1941,471,Clássica Campanha De Luxo,TV,774.14,13,2014-07-02 17:13:19,2014-09-14 06:12:27
+1942,294,Alvo Campanha Local,Google Ads,253.79,0,2023-05-29 01:48:51,2024-02-07 20:14:55
+1943,987,Viral Promoção Tecnológica,Influenciadores,746.42,0,2017-10-20 23:00:54,2018-09-26 00:31:18
+1944,866,Clássica Campanha Rural,TV,513.43,86,2016-05-03 23:55:09,2017-03-07 14:02:58
+1945,535,Clássica Campanha Digital,TV,272.16,5,2021-09-02 22:16:14,2022-04-12 22:34:50
+1946,797,Alvo Promoção Gourmet,Google Ads,589.29,192,2018-11-28 10:49:28,2019-10-14 23:35:34
+1947,562,Viral Impacto Inovação,Influenciadores,843.12,0,2020-02-09 02:08:14,2020-06-23 04:41:43
+1948,467,Alvo Impacto Sustentável,Google Ads,603.05,11,2022-08-25 04:28:44,2023-01-07 12:45:12
+1949,822,Clássica Promoção Cultural,TV,257.04,12,2023-10-08 19:21:36,2024-09-07 22:36:59
+1950,535,Direta Impacto Retro,Email Marketing,525.2,197,2019-11-05 16:57:11,2020-09-29 07:41:39
+1951,115,Conectada Promoção Clássica,Redes Sociais,773.78,0,2023-06-19 11:37:48,2023-10-19 22:41:58
+1952,223,Alvo Promoção Digital,Google Ads,786.32,69,2023-02-19 14:48:40,2023-09-15 17:32:55
+1953,493,Direta Impacto Gourmet,Email Marketing,946.27,185,2016-01-23 00:02:29,2016-12-17 06:33:40
+1954,224,Clássica Promoção Fitness,TV,667.48,172,2021-08-02 10:38:49,2022-06-24 09:58:52
+1955,86,Direta Promoção Gourmet,Email Marketing,697.0,12,2018-03-15 18:23:04,2018-11-05 03:13:55
+1956,882,Direta Impacto De Luxo,Email Marketing,286.39,60,2020-12-11 10:31:56,2021-07-03 14:42:53
+1957,723,Alvo Campanha Inovação,Google Ads,597.81,60,2018-03-26 20:52:27,2018-07-25 16:57:30
+1958,32,Alvo Impacto Sustentável,Google Ads,565.33,70,2021-01-28 01:47:14,2021-09-09 00:31:35
+1959,152,Conectada Promoção Retro,Redes Sociais,257.92,0,2016-12-31 16:56:19,2017-02-08 21:56:33
+1960,582,Viral Campanha Urbana,Influenciadores,442.8,0,2018-12-18 23:02:22,2019-01-09 16:58:49
+1961,639,Conectada Campanha Contemporânea,Redes Sociais,663.14,173,2018-02-02 21:43:12,2018-11-01 09:44:03
+1962,326,Conectada Promoção Vintage,Redes Sociais,337.33,0,2021-02-06 23:52:56,2021-07-22 07:49:29
+1963,812,Conectada Promoção Nacional,Redes Sociais,824.44,28,2014-11-09 12:47:01,2015-03-07 22:40:57
+1964,972,Viral Promoção Cultural,Influenciadores,606.77,19,2016-12-05 01:44:44,2017-10-16 07:36:29
+1965,404,Alvo Impacto Artística,Google Ads,503.94,0,2024-11-18 03:11:40,2025-09-05 23:04:43
+1966,805,Conectada Campanha Tecnológica,Redes Sociais,209.03,0,2024-04-16 20:15:35,2024-08-23 10:45:09
+1967,226,Alvo Promoção Vintage,Google Ads,326.74,146,2014-07-16 15:02:18,2015-05-26 07:25:32
+1968,638,Conectada Campanha Online,Redes Sociais,321.43,66,2014-11-14 06:44:12,2015-09-05 23:13:56
+1969,42,Viral Campanha Fitness,Influenciadores,556.71,19,2024-06-01 01:10:22,2024-10-27 10:21:12
+1970,576,Viral Campanha De Luxo,Influenciadores,634.35,0,2016-04-08 00:38:32,2016-11-25 06:54:59
+1971,128,Direta Campanha Gourmet,Email Marketing,656.55,159,2020-10-06 02:40:36,2021-07-04 04:59:24
+1972,85,Viral Campanha Global,Influenciadores,913.92,0,2015-02-06 12:56:58,2015-09-07 06:09:50
+1973,495,Viral Campanha Ecológica,Influenciadores,794.61,75,2017-02-25 11:00:08,2017-06-25 05:42:52
+1974,800,Clássica Campanha Vintage,TV,355.55,202,2020-05-29 05:14:10,2021-01-19 10:57:55
+1975,775,Alvo Promoção Local,Google Ads,695.31,0,2015-08-03 02:23:54,2015-11-07 13:21:12
+1976,637,Clássica Campanha Contemporânea,TV,859.94,8,2018-07-03 04:13:40,2019-03-07 15:51:46
+1977,132,Direta Campanha Retro,Email Marketing,697.39,164,2020-07-28 10:40:07,2020-10-10 15:05:01
+1978,485,Clássica Campanha Sustentável,TV,413.85,0,2015-03-20 19:57:51,2015-09-17 00:23:51
+1979,73,Conectada Promoção Global,Redes Sociais,972.04,0,2019-02-13 08:48:51,2019-10-20 20:36:48
+1980,180,Clássica Promoção Gourmet,TV,391.34,25,2017-01-23 14:43:21,2017-07-12 20:50:40
+1981,59,Direta Impacto Rural,Email Marketing,698.3,0,2022-06-24 01:00:37,2022-11-01 08:42:01
+1982,521,Direta Campanha Inovação,Email Marketing,724.52,62,2023-09-15 13:04:35,2024-02-07 04:19:56
+1983,894,Alvo Campanha Online,Google Ads,447.49,163,2020-09-14 21:25:15,2021-03-19 05:58:24
+1984,136,Viral Campanha Gourmet,Influenciadores,839.9,0,2021-09-27 05:04:08,2022-06-18 21:43:18
+1985,560,Clássica Promoção Tradicional,TV,524.36,121,2014-07-04 05:46:11,2015-06-27 22:26:38
+1986,287,Viral Promoção Fitness,Influenciadores,305.4,151,2017-12-09 14:34:10,2018-10-12 08:12:01
+1987,778,Alvo Promoção Urbana,Google Ads,541.5,29,2023-06-21 23:19:22,2023-07-23 14:03:44
+1988,758,Direta Campanha Inovação,Email Marketing,533.3,0,2021-11-01 16:49:22,2022-03-27 13:34:18
+1989,322,Alvo Promoção Tradicional,Google Ads,771.01,0,2022-05-01 06:16:12,2022-10-23 01:42:46
+1990,500,Clássica Campanha Artística,TV,633.36,84,2021-01-24 21:00:00,2021-11-02 20:40:29
+1991,151,Direta Promoção Gourmet,Email Marketing,847.03,0,2016-05-23 22:22:19,2016-11-13 18:21:43
+1992,864,Clássica Campanha Online,TV,907.48,184,2019-06-26 21:54:35,2020-06-26 13:12:17
+1993,147,Conectada Promoção Fitness,Redes Sociais,636.67,0,2022-12-04 03:42:54,2023-04-20 23:31:24
+1994,252,Clássica Promoção Sustentável,TV,809.02,45,2018-01-12 03:30:06,2018-12-01 18:11:06
+1995,685,Direta Impacto Tradicional,Email Marketing,427.28,0,2014-08-23 15:41:35,2015-05-05 20:14:36
+1996,308,Alvo Impacto Sustentável,Google Ads,555.04,38,2014-01-27 06:38:05,2014-09-30 18:35:59
+1997,633,Direta Promoção Nacional,Email Marketing,967.62,0,2016-04-28 18:50:52,2016-12-20 21:48:33
+1998,394,Direta Campanha Artística,Email Marketing,313.62,0,2023-05-20 05:03:34,2024-03-22 09:01:58
+1999,643,Direta Impacto Global,Email Marketing,422.46,7,2024-11-29 14:17:48,2025-01-03 03:38:56

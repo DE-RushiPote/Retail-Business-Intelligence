@@ -1,0 +1,101 @@
+Fornecedor_ID,Nome,Histórico de Fornecimento,Custo de Transporte,Prazo Médio de Entrega (dias),Cidade
+1,Araújo e Filhos,75,128.31,14,Albufeira
+2,Freitas Correia S.A.,94,228.38,13,Alcoutim
+3,Rocha S/A,44,404.14,2,Ponte de Sor
+4,Marques Macedo S/A,45,270.83,12,Monchique
+5,Magalhães,33,247.84,7,Machico
+6,Moura,7,265.03,5,Leiria
+7,Freitas Neto S.A.,68,245.35,14,Sintra
+8,Alves Mota Lda.,42,203.16,10,Velas
+9,Fonseca e Filhos,94,321.35,1,Albufeira
+10,Fonseca,27,286.1,2,Ponte de Sor
+11,Matias Mota Lda.,89,147.59,15,Vila Nova de Gaia
+12,Reis,64,369.55,2,Funchal
+13,Figueiredo,31,90.83,2,Arraiolos
+14,Vicente,36,235.82,3,Barrancos
+15,Guerreiro Amaral S.A.,77,162.36,2,Tábua
+16,Machado Pereira Lda.,5,165.93,15,São Brás de Alportel
+17,Santos,15,137.13,12,Olhão
+18,Neves Lourenço S.A.,15,291.13,15,Montijo
+19,Abreu,89,439.19,6,Cantanhede
+20,Carvalho,79,189.91,3,Portalegre
+21,Reis,35,213.67,14,Mondim de Basto
+22,Moreira Leite S/A,59,84.71,5,Azambuja
+23,Amaral e Filhos,19,273.52,3,Mortágua
+24,Monteiro e Filhos,68,406.83,7,Praia da Vitória
+25,Pinheiro,11,94.12,14,Pedrógão Grande
+26,Torres Gonçalves Lda.,11,329.37,8,Odemira
+27,Monteiro e Filhos,76,292.57,10,Albufeira
+28,Nunes S/A,68,149.07,6,Ponte de Lima
+29,Garcia Lda.,5,241.32,10,Silves
+30,Freitas e Filhos,28,476.68,15,Vendas Novas
+31,Amorim,81,125.6,4,Castro Verde
+32,Valente S.A.,43,111.07,4,Machico
+33,Carneiro Lda.,48,58.74,3,Sines
+34,Barros,30,198.7,4,Machico
+35,Borges Coelho Lda.,53,110.41,4,Vila Verde
+36,Rocha Lda.,73,61.12,1,Odemira
+37,Cunha Lda.,34,276.78,6,Horta
+38,Almeida Jesus Lda.,92,148.38,13,Odivelas
+39,Carvalho,81,100.83,7,Vila Franca do Campo
+40,Vaz,52,125.21,10,Chamusca
+41,Henriques S/A,91,128.1,11,Vila do Bispo
+42,Pacheco,20,366.12,4,Odivelas
+43,Baptista,70,469.6,13,Lagos
+44,Amaral Lda.,14,137.3,15,Tondela
+45,Vaz Castro e Filhos,96,317.69,7,Ponte da Barca
+46,Lima Sá Lda.,100,273.46,4,Porto
+47,Amorim,78,396.41,15,São João da Madeira
+48,Guerreiro,89,77.84,9,Albufeira
+49,Esteves,45,336.25,10,Azambuja
+50,Silva,37,87.76,2,Évora
+51,Lima Batista S/A,44,421.31,4,Odivelas
+52,Reis,41,483.75,7,Vila do Bispo
+53,Sá,78,129.66,2,Grândola
+54,Pinho,75,368.13,6,Santiago do Cacém
+55,Silva,94,300.01,14,Machico
+56,Oliveira S/A,21,76.56,15,Monchique
+57,Cardoso,14,251.18,12,Braga
+58,Santos,5,293.83,8,Rio Maior
+59,Barbosa S/A,70,208.72,5,Santa Cruz das Flores
+60,Figueiredo,83,53.25,2,Vila do Bispo
+61,Pires,48,397.07,2,Arraiolos
+62,Reis,18,407.2,14,Moita
+63,Simões Lda.,91,323.24,3,Paredes
+64,Monteiro,24,411.93,2,Chamusca
+65,Campos,64,444.64,6,Alenquer
+66,Machado Monteiro Lda.,63,232.47,1,Estarreja
+67,Pinheiro,65,443.51,14,Guarda
+68,Amaral e Filhos,8,456.72,13,Vila Franca do Campo
+69,Matias,74,220.17,10,Lagos
+70,Paiva Moreira S.A.,35,448.13,13,Viana do Castelo
+71,Barbosa S/A,39,100.85,10,Velas
+72,Lourenço Jesus S.A.,33,228.93,10,Horta
+73,Vicente Borges S/A,29,92.08,14,Vendas Novas
+74,Sousa e Filhos,11,472.55,11,Santiago do Cacém
+75,Rodrigues,94,359.85,6,Moita
+76,Azevedo S.A.,43,485.72,13,Amarante
+77,Maia,99,422.16,7,Castelo Branco
+78,Carvalho,17,132.56,5,Guimarães
+79,Abreu,26,51.05,9,Castro Marim
+80,Melo S/A,50,55.86,1,Aveiro
+81,Gonçalves Macedo Lda.,89,102.07,15,Vila Franca de Xira
+82,Mota,76,468.72,6,Santiago do Cacém
+83,Abreu,25,230.69,3,Vila Franca do Campo
+84,Machado Figueiredo e Filhos,29,298.87,14,Aljezur
+85,Neves,89,473.91,2,Redondo
+86,Carneiro Carvalho e Filhos,77,387.81,1,Reguengos de Monsaraz
+87,Leal S/A,81,205.5,4,Porto
+88,Amorim,67,291.06,11,Horta
+89,Figueiredo,100,287.61,3,Olhão
+90,Marques Correia S/A,28,278.21,2,Vila do Corvo
+91,Gonçalves Guerreiro e Filhos,43,285.13,11,Mondim de Basto
+92,Pinheiro Nunes Lda.,67,182.38,9,Ponte de Lima
+93,Vaz,37,381.18,5,Mafra
+94,Machado,55,224.19,2,Tavira
+95,Marques,88,224.0,3,Olhão
+96,Teixeira S/A,75,269.95,8,Vila do Corvo
+97,Almeida,92,174.96,14,Celorico de Basto
+98,Jesus,32,495.61,15,Grândola
+99,Nascimento e Filhos,100,196.16,13,Aljustrel
+100,Valente,82,428.4,7,Vila do Porto
