@@ -1,0 +1,1001 @@
+Produto_ID,Nome,Categoria,Preço,Custo_Aquisição
+1,Magni Quas,Calçado,71.42,22.58
+2,Aperiam Architecto,Acessórios,24.64,36.55
+3,Exercitationem Quam,Calçado,88.02,49.21
+4,Et Ad,Calçado,46.65,31.74
+5,Recusandae Corporis,Calçado,40.13,11.02
+6,Officiis Deserunt,Acessórios,30.96,26.37
+7,Praesentium Tenetur,Acessórios,64.42,14.21
+8,Suscipit Eos,Acessórios,25.92,37.18
+9,Voluptates Illo,Roupas Masculinas,87.39,17.42
+10,Ab Maxime,Acessórios,96.72,49.04
+11,Voluptate Praesentium,Roupas Femininas,71.48,43.08
+12,Facere Doloremque,Roupas Femininas,85.98,45.37
+13,Asperiores Aliquam,Acessórios,75.21,37.69
+14,Facere Cupiditate,Roupas Masculinas,87.77,47.77
+15,Expedita Iure,Roupas Masculinas,25.62,42.14
+16,Ab Recusandae,Roupas Masculinas,67.89,41.27
+17,Fugiat Libero,Roupas Masculinas,33.71,29.93
+18,Incidunt Delectus,Calçado,57.02,17.61
+19,Odit Eaque,Roupas Masculinas,63.68,39.67
+20,Placeat Nemo,Calçado,55.14,25.56
+21,Deserunt Architecto,Acessórios,47.73,35.48
+22,Eligendi Minima,Calçado,45.53,12.66
+23,Laudantium Quia,Acessórios,27.85,33.52
+24,Sequi Tenetur,Roupas Masculinas,38.13,43.25
+25,Quasi Aperiam,Calçado,91.02,28.81
+26,Optio Dolorem,Roupas Masculinas,61.52,41.51
+27,Magni Et,Roupas Masculinas,47.29,49.53
+28,Beatae Voluptates,Roupas Femininas,51.08,17.21
+29,Illum Ex,Acessórios,28.73,31.76
+30,Optio Iste,Roupas Femininas,96.74,13.15
+31,Repellendus Inventore,Roupas Femininas,49.42,38.51
+32,Quo Recusandae,Roupas Masculinas,83.49,30.82
+33,Inventore Eum,Roupas Masculinas,88.51,46.52
+34,Atque At,Roupas Masculinas,95.65,17.28
+35,Voluptatibus Ipsam,Roupas Femininas,80.17,12.66
+36,Atque Minus,Acessórios,69.11,23.58
+37,Sapiente Nesciunt,Calçado,83.26,20.97
+38,Voluptatem Omnis,Calçado,79.24,28.86
+39,Mollitia Iure,Roupas Masculinas,48.41,17.54
+40,Quas Facere,Acessórios,82.95,37.14
+41,Sint Corrupti,Calçado,63.43,44.18
+42,Exercitationem Consequuntur,Roupas Masculinas,23.69,18.68
+43,Numquam Nisi,Roupas Femininas,99.98,42.6
+44,Doloremque Numquam,Calçado,41.35,29.28
+45,Quibusdam Sed,Roupas Femininas,41.31,32.03
+46,Architecto Expedita,Roupas Masculinas,59.63,37.39
+47,Eius Dicta,Roupas Masculinas,81.13,44.01
+48,Accusantium Dolor,Roupas Masculinas,46.7,33.46
+49,Officiis Alias,Roupas Masculinas,75.85,12.65
+50,Illo Nulla,Roupas Masculinas,72.9,20.81
+51,Beatae Atque,Calçado,47.19,45.28
+52,Distinctio Fugit,Acessórios,83.56,29.73
+53,Similique Veritatis,Roupas Masculinas,91.01,40.65
+54,Tenetur Incidunt,Acessórios,60.83,46.51
+55,Omnis Veritatis,Acessórios,98.72,23.55
+56,Fugiat Error,Roupas Femininas,31.09,12.92
+57,Commodi Omnis,Acessórios,91.31,29.02
+58,Exercitationem Delectus,Roupas Masculinas,77.78,34.88
+59,Voluptates Doloremque,Roupas Femininas,95.64,47.18
+60,Dolor Non,Acessórios,83.17,28.79
+61,Laborum Voluptatibus,Acessórios,42.33,35.24
+62,Occaecati Delectus,Acessórios,22.77,49.94
+63,Minus Suscipit,Calçado,87.66,19.11
+64,Facere Possimus,Roupas Masculinas,26.81,10.07
+65,Minima Facere,Roupas Masculinas,20.68,25.54
+66,Nisi Ratione,Calçado,66.26,31.41
+67,Odio Quod,Roupas Masculinas,28.36,18.31
+68,Aliquid Explicabo,Calçado,53.29,26.02
+69,Itaque Officiis,Roupas Masculinas,88.39,17.84
+70,Quaerat Esse,Calçado,34.58,31.09
+71,Tempora Quod,Roupas Masculinas,44.35,46.26
+72,Ab Numquam,Acessórios,74.77,19.08
+73,Saepe Quidem,Acessórios,93.76,24.59
+74,Blanditiis Nulla,Roupas Masculinas,62.69,44.88
+75,Praesentium Quos,Calçado,89.03,33.72
+76,Et Ratione,Calçado,90.05,40.45
+77,Voluptate Sit,Acessórios,42.22,30.46
+78,Placeat Eligendi,Calçado,43.0,30.9
+79,Quod Odio,Calçado,56.6,30.47
+80,Molestias Velit,Calçado,43.06,42.51
+81,Numquam Maxime,Roupas Masculinas,84.41,29.92
+82,Voluptatibus Exercitationem,Roupas Masculinas,57.03,45.7
+83,A Tenetur,Calçado,20.18,36.7
+84,Similique Odio,Roupas Femininas,58.18,39.78
+85,Sed Quia,Acessórios,23.46,21.28
+86,Eum Placeat,Calçado,36.4,20.52
+87,Sunt Fugit,Roupas Masculinas,57.24,39.18
+88,Assumenda Quaerat,Roupas Femininas,26.81,40.28
+89,Doloribus Nisi,Roupas Femininas,47.98,13.21
+90,Itaque Optio,Acessórios,98.46,49.12
+91,Quo Error,Acessórios,73.37,36.32
+92,Minus Ea,Calçado,99.28,31.19
+93,Error Commodi,Calçado,69.52,27.77
+94,Atque Neque,Acessórios,79.37,33.58
+95,Sed Aut,Roupas Masculinas,79.3,41.35
+96,Necessitatibus Officiis,Roupas Masculinas,40.56,37.66
+97,Autem Quisquam,Acessórios,33.24,12.44
+98,Perferendis Minus,Roupas Masculinas,97.94,46.08
+99,Eaque Porro,Calçado,57.17,21.86
+100,Ut Aspernatur,Roupas Masculinas,41.25,12.47
+101,Ut Officiis,Roupas Femininas,92.11,13.31
+102,Distinctio Animi,Roupas Femininas,95.79,25.41
+103,Vitae Harum,Acessórios,65.79,15.84
+104,Error Ipsa,Roupas Femininas,66.02,35.59
+105,Velit Laborum,Roupas Masculinas,53.34,42.89
+106,Dolor Qui,Roupas Femininas,69.47,47.1
+107,Eos Commodi,Calçado,89.06,23.8
+108,Occaecati Sunt,Roupas Femininas,57.52,26.36
+109,Temporibus Nulla,Roupas Femininas,35.64,23.58
+110,Quis Animi,Calçado,55.33,34.39
+111,Doloribus Aliquid,Acessórios,34.79,47.29
+112,Architecto Distinctio,Roupas Femininas,45.4,32.34
+113,Error Commodi,Roupas Femininas,49.07,37.93
+114,Aspernatur Dolores,Roupas Masculinas,51.75,49.5
+115,Aut Facilis,Acessórios,29.02,26.59
+116,Ducimus Iusto,Roupas Masculinas,64.84,10.1
+117,Cupiditate Sunt,Acessórios,22.16,21.8
+118,Nihil Nemo,Acessórios,87.03,25.99
+119,Doloribus Nisi,Roupas Femininas,38.8,25.63
+120,Inventore Id,Roupas Masculinas,89.74,49.18
+121,Explicabo Amet,Roupas Masculinas,78.05,15.75
+122,Delectus Nihil,Calçado,93.87,41.59
+123,Aliquam Sit,Acessórios,81.82,31.82
+124,Iste Praesentium,Calçado,23.38,11.47
+125,Quidem Molestias,Roupas Masculinas,32.56,21.52
+126,Sed Fugiat,Roupas Femininas,45.79,29.6
+127,Corrupti Suscipit,Acessórios,74.26,39.72
+128,Suscipit Tempora,Roupas Femininas,55.16,15.04
+129,Et Quam,Roupas Masculinas,69.18,15.57
+130,Quam Odio,Acessórios,67.69,27.19
+131,Ex Quo,Acessórios,68.72,17.04
+132,Nihil Eligendi,Roupas Masculinas,64.88,43.65
+133,Quibusdam Quis,Roupas Femininas,24.71,21.84
+134,Tempora Id,Roupas Masculinas,24.66,49.97
+135,Recusandae Reiciendis,Acessórios,36.65,19.65
+136,Accusamus Fugiat,Calçado,95.11,16.96
+137,Excepturi Neque,Roupas Masculinas,82.83,19.14
+138,Cumque Totam,Roupas Masculinas,50.71,38.29
+139,Possimus Repudiandae,Roupas Femininas,83.12,33.63
+140,Quia Praesentium,Calçado,70.15,41.0
+141,Nam Modi,Roupas Femininas,41.78,32.53
+142,Fugit Iusto,Calçado,37.36,33.95
+143,Amet Voluptates,Calçado,50.85,46.22
+144,Libero Repellat,Acessórios,99.66,43.35
+145,Laudantium Quisquam,Roupas Masculinas,50.28,26.36
+146,Exercitationem Quae,Calçado,89.39,24.05
+147,Sint Sit,Calçado,66.89,34.58
+148,Assumenda Mollitia,Roupas Masculinas,85.28,43.93
+149,Labore Sapiente,Roupas Femininas,70.37,19.74
+150,Delectus Incidunt,Roupas Masculinas,37.9,43.56
+151,Fugit Natus,Roupas Masculinas,22.83,31.5
+152,Animi Animi,Acessórios,48.09,34.8
+153,Sed Rerum,Roupas Femininas,91.36,21.3
+154,Nihil Optio,Calçado,39.51,13.8
+155,Ipsa Commodi,Calçado,22.02,39.82
+156,Natus Quis,Calçado,70.35,31.11
+157,Et Maiores,Acessórios,48.82,39.53
+158,Laborum Qui,Roupas Masculinas,67.54,35.48
+159,Expedita Repudiandae,Roupas Femininas,96.38,25.19
+160,Quaerat Reiciendis,Roupas Femininas,63.54,36.4
+161,Ratione Enim,Roupas Masculinas,91.02,10.07
+162,Eaque Illum,Roupas Masculinas,23.01,47.63
+163,Iusto Cumque,Roupas Femininas,43.84,49.97
+164,Corrupti Eligendi,Acessórios,60.13,36.21
+165,Iusto Maiores,Roupas Femininas,21.52,45.69
+166,Minima Incidunt,Calçado,84.12,27.82
+167,Possimus Minima,Roupas Femininas,72.11,33.4
+168,Quas Doloribus,Roupas Masculinas,41.41,16.05
+169,Molestiae Perferendis,Roupas Femininas,72.17,16.58
+170,Totam Fugit,Roupas Femininas,49.97,21.7
+171,Libero Ab,Roupas Femininas,87.73,18.53
+172,A Quam,Acessórios,79.39,17.08
+173,Facilis Soluta,Acessórios,46.21,45.4
+174,Tempore Voluptatem,Calçado,66.04,11.41
+175,Sequi Perspiciatis,Roupas Femininas,91.66,21.4
+176,Officiis Quam,Roupas Masculinas,94.57,44.36
+177,Pariatur Ad,Roupas Femininas,63.3,28.86
+178,Architecto Quaerat,Roupas Masculinas,60.48,25.06
+179,Libero Deserunt,Roupas Femininas,60.67,47.21
+180,Porro Consequatur,Roupas Femininas,98.57,36.7
+181,Amet Qui,Calçado,98.27,47.33
+182,Quibusdam Minima,Calçado,24.33,28.08
+183,Consectetur A,Acessórios,73.93,23.76
+184,Doloremque Dolore,Calçado,46.44,19.82
+185,Ipsam Aut,Roupas Femininas,96.42,17.11
+186,Porro Quibusdam,Acessórios,54.51,23.22
+187,Nulla Dolores,Roupas Masculinas,46.11,45.4
+188,Totam Doloribus,Roupas Masculinas,86.23,37.75
+189,Optio Dicta,Roupas Masculinas,27.68,39.86
+190,Modi Voluptatem,Roupas Masculinas,33.58,15.54
+191,Minus Necessitatibus,Roupas Femininas,58.44,46.12
+192,Modi Reiciendis,Roupas Masculinas,70.91,24.17
+193,Sequi Eum,Roupas Masculinas,21.97,13.0
+194,Similique Magni,Acessórios,62.33,26.61
+195,Provident Porro,Calçado,58.03,21.22
+196,Dolorem Commodi,Roupas Femininas,73.42,48.74
+197,Vero Nam,Roupas Masculinas,21.33,32.35
+198,Non Odit,Roupas Femininas,86.24,32.46
+199,Quas Excepturi,Roupas Masculinas,70.8,22.87
+200,Vero Porro,Roupas Masculinas,80.46,21.07
+201,Ducimus Omnis,Calçado,93.05,35.76
+202,Ipsam Doloribus,Roupas Masculinas,21.42,42.7
+203,Ab Nulla,Roupas Masculinas,38.05,27.85
+204,Cupiditate Vel,Roupas Masculinas,38.49,37.0
+205,Libero Ab,Acessórios,25.59,13.54
+206,Quam Tenetur,Roupas Masculinas,53.83,37.9
+207,Ratione Quasi,Calçado,51.32,39.4
+208,Sit Eum,Calçado,70.25,36.64
+209,Cupiditate Natus,Roupas Masculinas,51.65,47.67
+210,Explicabo Minima,Acessórios,79.26,39.4
+211,Itaque Iste,Calçado,51.66,28.89
+212,Adipisci Nisi,Acessórios,47.03,32.96
+213,Iste Neque,Acessórios,69.15,39.2
+214,Voluptatem Est,Calçado,47.94,42.12
+215,Earum Eos,Roupas Femininas,55.92,16.21
+216,Voluptatibus Tempore,Calçado,20.62,33.05
+217,Quisquam Error,Calçado,70.07,19.11
+218,Eius Magnam,Calçado,91.44,21.72
+219,Itaque Corrupti,Calçado,61.82,19.72
+220,Voluptate Reiciendis,Calçado,66.76,42.88
+221,Consequuntur Quos,Acessórios,23.91,16.65
+222,Molestias Dolorem,Acessórios,98.63,17.35
+223,Animi Quidem,Calçado,88.41,14.39
+224,Ad Minus,Calçado,53.98,23.22
+225,Ab Consequatur,Roupas Femininas,40.43,29.77
+226,Enim Dolores,Roupas Masculinas,40.49,13.27
+227,Reiciendis Aperiam,Calçado,88.28,22.72
+228,Natus Fugiat,Roupas Masculinas,96.02,32.83
+229,Non Quae,Acessórios,42.15,48.18
+230,Dolorem Iusto,Roupas Femininas,23.31,47.02
+231,Iure Dolore,Acessórios,75.71,17.51
+232,Labore Minima,Roupas Masculinas,49.86,18.63
+233,Libero Consequuntur,Roupas Femininas,82.56,22.97
+234,Iste Suscipit,Acessórios,83.95,17.56
+235,Nobis Asperiores,Roupas Femininas,34.95,36.09
+236,Est Ut,Calçado,68.91,25.85
+237,Dolor Quod,Calçado,34.37,48.96
+238,Fuga Eos,Calçado,74.45,21.39
+239,Animi Dolore,Calçado,90.42,10.04
+240,Quod Eaque,Roupas Femininas,88.25,45.28
+241,Incidunt Fuga,Calçado,42.65,10.15
+242,Dolorum Nesciunt,Roupas Masculinas,51.79,36.05
+243,Deserunt Veniam,Roupas Femininas,31.6,19.44
+244,Maxime Ab,Roupas Femininas,56.57,31.23
+245,Aliquam Et,Roupas Femininas,89.17,11.33
+246,Reiciendis Corporis,Calçado,54.25,46.69
+247,Autem Fugiat,Calçado,34.55,22.37
+248,Praesentium Ad,Roupas Femininas,42.83,15.68
+249,Deserunt Atque,Roupas Masculinas,60.87,23.19
+250,Consequuntur Quo,Calçado,29.78,14.87
+251,Nemo Voluptatem,Acessórios,31.96,18.64
+252,Laboriosam Assumenda,Roupas Femininas,52.22,38.11
+253,Placeat Officia,Roupas Masculinas,41.3,44.21
+254,Ab Culpa,Roupas Femininas,62.79,28.38
+255,Minima Unde,Roupas Masculinas,77.47,48.55
+256,Quod Optio,Roupas Masculinas,76.34,36.91
+257,Eveniet Quod,Calçado,61.55,10.82
+258,Accusantium Nisi,Roupas Femininas,51.21,31.52
+259,Minus Facere,Roupas Masculinas,77.14,45.02
+260,Deserunt Eveniet,Calçado,22.3,33.93
+261,Nam Molestias,Calçado,82.39,12.58
+262,Corrupti Laborum,Roupas Femininas,22.84,40.22
+263,Eos Ullam,Roupas Femininas,68.76,43.75
+264,Harum Natus,Roupas Masculinas,69.25,11.36
+265,Voluptas Harum,Calçado,32.55,13.76
+266,Nobis Consequatur,Calçado,27.89,35.85
+267,Explicabo Sit,Acessórios,48.02,19.64
+268,Excepturi Distinctio,Acessórios,87.75,33.56
+269,Numquam Quaerat,Roupas Femininas,62.55,11.64
+270,Dignissimos Vitae,Acessórios,52.14,30.94
+271,Velit Cupiditate,Acessórios,46.52,22.37
+272,Distinctio Dolorem,Roupas Masculinas,87.64,36.08
+273,Earum Repudiandae,Roupas Femininas,21.75,20.22
+274,Omnis Facilis,Roupas Femininas,26.88,40.7
+275,Necessitatibus Ipsa,Acessórios,33.7,27.38
+276,Architecto Tempora,Calçado,51.42,22.76
+277,Facilis Aliquid,Roupas Femininas,89.29,45.17
+278,Quia Libero,Roupas Femininas,88.85,38.22
+279,Illo Nemo,Acessórios,69.47,39.12
+280,Dolore Officiis,Roupas Femininas,38.44,43.43
+281,Omnis Corporis,Roupas Masculinas,27.52,40.61
+282,Soluta Veniam,Roupas Masculinas,24.05,22.04
+283,Delectus Repellat,Calçado,58.56,29.63
+284,Explicabo Voluptatum,Calçado,50.82,28.13
+285,Eligendi Soluta,Acessórios,53.69,22.98
+286,Consectetur Provident,Calçado,39.03,37.86
+287,Quaerat Eaque,Acessórios,61.83,35.79
+288,Quia Porro,Acessórios,44.91,37.93
+289,Necessitatibus Doloribus,Roupas Masculinas,39.01,39.84
+290,At Eligendi,Roupas Femininas,93.77,40.08
+291,Ipsa Modi,Calçado,74.34,40.6
+292,Velit Occaecati,Roupas Masculinas,38.05,31.21
+293,Dolorum Minus,Acessórios,92.52,30.1
+294,Nesciunt Fuga,Roupas Femininas,69.04,35.93
+295,Itaque Aperiam,Calçado,29.5,34.91
+296,Consequuntur Minus,Acessórios,86.95,18.36
+297,Ipsum Commodi,Acessórios,42.85,41.72
+298,Voluptatem Minus,Roupas Masculinas,55.37,21.0
+299,Quis Atque,Roupas Femininas,66.56,27.82
+300,Consequatur Adipisci,Calçado,48.12,36.67
+301,Id Dolor,Acessórios,39.91,27.87
+302,Cum Ad,Acessórios,89.84,24.95
+303,Delectus Error,Roupas Femininas,24.42,40.26
+304,Quod Quis,Roupas Masculinas,87.19,31.9
+305,Quis Porro,Calçado,51.02,48.94
+306,Quos Exercitationem,Roupas Femininas,95.44,16.3
+307,Sapiente Aliquam,Roupas Masculinas,35.06,33.0
+308,Eius Porro,Roupas Femininas,96.14,18.71
+309,Reiciendis Nisi,Acessórios,57.94,32.48
+310,Ullam Libero,Roupas Femininas,62.97,36.7
+311,Minima Officia,Acessórios,43.26,49.47
+312,Nisi Dolores,Acessórios,21.46,34.94
+313,Hic Reiciendis,Calçado,56.29,33.25
+314,Vel Adipisci,Roupas Femininas,75.61,38.26
+315,Nam Facere,Calçado,85.02,22.18
+316,Veritatis Perferendis,Roupas Femininas,43.76,18.67
+317,Beatae Labore,Acessórios,64.61,27.24
+318,Facere Placeat,Roupas Femininas,55.69,49.94
+319,Quod Inventore,Roupas Masculinas,44.23,43.39
+320,Quaerat Quis,Roupas Femininas,45.99,25.47
+321,Cum Quaerat,Roupas Femininas,89.24,37.54
+322,Totam Molestias,Acessórios,73.62,25.39
+323,Iure Nemo,Acessórios,79.78,28.12
+324,Magnam Mollitia,Roupas Femininas,51.13,20.91
+325,Eos Sed,Calçado,51.51,14.05
+326,Dolores Eum,Roupas Femininas,79.04,14.09
+327,Dolor Impedit,Roupas Masculinas,22.1,11.45
+328,Ipsam Ad,Roupas Femininas,52.32,11.6
+329,Atque Harum,Roupas Femininas,87.73,37.18
+330,Quia Tenetur,Roupas Femininas,23.5,44.21
+331,Quod Maiores,Acessórios,56.12,25.97
+332,Neque Aliquam,Acessórios,86.78,46.6
+333,Aperiam Reiciendis,Roupas Femininas,64.83,41.49
+334,Dolorem Voluptatem,Roupas Femininas,26.23,32.5
+335,Dolor Temporibus,Roupas Masculinas,64.33,20.55
+336,Ullam Neque,Calçado,89.73,18.84
+337,Tempora Doloremque,Roupas Masculinas,37.01,36.37
+338,Mollitia Provident,Roupas Masculinas,34.36,16.03
+339,Quis Officia,Acessórios,74.95,14.07
+340,Quas Culpa,Roupas Femininas,72.14,35.37
+341,Praesentium Modi,Roupas Masculinas,51.4,47.57
+342,Ratione Veniam,Calçado,23.84,22.62
+343,Eius Voluptates,Roupas Femininas,61.37,29.2
+344,In Delectus,Roupas Masculinas,26.52,43.53
+345,Nam Voluptates,Roupas Femininas,89.29,18.63
+346,Neque Expedita,Calçado,35.14,17.62
+347,Nostrum Fugiat,Roupas Masculinas,58.89,48.89
+348,Accusantium Provident,Roupas Masculinas,78.13,18.05
+349,Animi Dolore,Calçado,77.66,14.59
+350,Ipsam Quidem,Roupas Femininas,31.82,27.64
+351,Harum Fuga,Roupas Masculinas,66.03,29.64
+352,Eligendi Mollitia,Acessórios,69.45,30.13
+353,Ut Dignissimos,Roupas Masculinas,60.49,26.59
+354,Inventore Ducimus,Roupas Femininas,48.48,38.85
+355,Praesentium Esse,Roupas Masculinas,85.79,40.18
+356,Illo Sint,Roupas Masculinas,56.24,35.34
+357,Accusamus Quibusdam,Acessórios,87.8,22.9
+358,Sunt Sint,Acessórios,30.54,33.43
+359,Similique Iste,Roupas Masculinas,86.68,24.06
+360,Aperiam Iusto,Roupas Masculinas,56.89,10.9
+361,Eaque Ratione,Calçado,61.76,48.67
+362,Ut Neque,Acessórios,36.43,26.98
+363,Officia Omnis,Roupas Femininas,96.39,40.45
+364,Suscipit Eius,Roupas Masculinas,72.85,31.62
+365,Quos Eum,Roupas Masculinas,99.32,35.99
+366,Eius Voluptates,Roupas Femininas,87.22,26.43
+367,Voluptate Odio,Calçado,31.45,37.02
+368,Ut Iste,Calçado,44.68,31.63
+369,Aliquid Totam,Calçado,53.94,46.32
+370,Facere Architecto,Calçado,75.78,28.91
+371,Ab Harum,Calçado,64.96,39.52
+372,Blanditiis Esse,Calçado,91.97,23.57
+373,Enim Quasi,Roupas Masculinas,77.11,43.97
+374,Distinctio Laboriosam,Calçado,74.05,43.29
+375,Facere Fugiat,Roupas Femininas,87.99,16.28
+376,Voluptate Occaecati,Calçado,82.91,32.92
+377,Odio Odit,Roupas Masculinas,84.81,12.61
+378,Corporis Rem,Acessórios,73.86,15.8
+379,Ab Laborum,Roupas Femininas,81.26,15.84
+380,Laudantium Aliquid,Roupas Masculinas,29.22,48.12
+381,Laudantium Fugit,Roupas Masculinas,99.43,31.24
+382,Odit Iure,Acessórios,82.56,12.96
+383,Officia Nemo,Calçado,67.28,36.58
+384,Illum Ea,Calçado,62.23,43.98
+385,Maiores Dolorem,Roupas Femininas,97.89,49.97
+386,Tenetur Ipsa,Acessórios,96.13,19.48
+387,Nihil Veritatis,Roupas Masculinas,38.33,24.0
+388,Quibusdam Ipsam,Calçado,44.56,48.69
+389,Qui Necessitatibus,Acessórios,59.3,17.99
+390,Quae Velit,Calçado,90.25,22.66
+391,Pariatur Qui,Acessórios,60.28,22.5
+392,Soluta Perspiciatis,Calçado,83.1,14.66
+393,Corporis Dolorem,Roupas Masculinas,82.68,43.95
+394,Minima Magni,Calçado,53.0,35.3
+395,Aut Laboriosam,Calçado,49.17,12.06
+396,Repudiandae Quidem,Calçado,53.57,15.05
+397,Ut Rerum,Roupas Masculinas,34.34,16.9
+398,Cupiditate Modi,Acessórios,42.06,16.95
+399,Aliquid Sint,Calçado,86.39,25.48
+400,Unde A,Calçado,39.91,44.65
+401,Reprehenderit Tempora,Acessórios,24.52,15.8
+402,Possimus Molestiae,Calçado,80.17,43.33
+403,Possimus Eveniet,Roupas Femininas,64.56,39.05
+404,Ipsam Mollitia,Acessórios,65.99,11.87
+405,Laboriosam Ratione,Roupas Masculinas,50.01,48.58
+406,Ipsam Assumenda,Acessórios,40.1,37.22
+407,Eveniet Culpa,Calçado,29.81,33.88
+408,Aspernatur Doloremque,Calçado,72.14,19.13
+409,Natus Vitae,Acessórios,61.17,14.42
+410,Quos Quidem,Acessórios,54.79,12.88
+411,Repellat Non,Roupas Masculinas,75.26,17.14
+412,Tenetur Autem,Calçado,42.69,41.82
+413,Labore Corrupti,Roupas Femininas,41.43,38.72
+414,Nobis Facere,Acessórios,81.11,38.18
+415,At Nostrum,Roupas Masculinas,51.08,35.46
+416,Culpa Amet,Calçado,41.31,29.32
+417,Autem Cum,Calçado,58.35,14.58
+418,Magnam Officiis,Acessórios,76.33,34.98
+419,Possimus Explicabo,Acessórios,70.53,20.76
+420,Tempora Voluptate,Roupas Masculinas,37.52,13.08
+421,Laudantium Consectetur,Calçado,77.13,38.65
+422,Vero Quod,Roupas Femininas,53.09,40.13
+423,Rem Maxime,Calçado,76.73,19.51
+424,Velit Sint,Calçado,77.63,17.41
+425,Id Debitis,Calçado,86.71,49.29
+426,Distinctio Voluptatum,Acessórios,28.05,31.21
+427,Similique Exercitationem,Acessórios,21.13,36.37
+428,Inventore Maxime,Acessórios,32.85,47.54
+429,Suscipit Consequuntur,Roupas Femininas,62.81,24.74
+430,Accusamus Id,Roupas Masculinas,91.53,33.82
+431,Voluptas Mollitia,Calçado,52.07,46.87
+432,Autem Asperiores,Roupas Masculinas,23.02,30.77
+433,Debitis Illo,Roupas Masculinas,35.72,34.19
+434,Similique A,Calçado,31.8,18.57
+435,Facilis Commodi,Acessórios,79.19,36.14
+436,Pariatur Ea,Roupas Masculinas,26.12,19.62
+437,Delectus Perspiciatis,Calçado,20.88,31.98
+438,Sit Dolore,Roupas Masculinas,89.65,32.43
+439,Non Dicta,Calçado,96.57,17.89
+440,Fugit Dolores,Roupas Femininas,35.47,45.38
+441,Consectetur Enim,Calçado,54.94,49.62
+442,Ipsum Labore,Roupas Masculinas,71.51,28.97
+443,Impedit Fugit,Roupas Masculinas,72.39,19.98
+444,Voluptate Exercitationem,Roupas Masculinas,50.17,31.43
+445,Ullam Libero,Roupas Masculinas,92.95,24.82
+446,Cumque Consequuntur,Roupas Masculinas,58.72,13.01
+447,Eveniet Quis,Roupas Masculinas,88.18,41.94
+448,Sequi Dicta,Roupas Masculinas,31.22,40.9
+449,Saepe Atque,Calçado,32.5,34.07
+450,Blanditiis Iste,Roupas Femininas,34.81,18.73
+451,Sequi Quam,Calçado,45.21,13.02
+452,Consequuntur Laborum,Roupas Masculinas,42.81,23.13
+453,Culpa Repudiandae,Calçado,28.89,34.05
+454,Ex Voluptate,Acessórios,52.06,25.91
+455,Consectetur Voluptatum,Acessórios,86.06,33.58
+456,Fugit Debitis,Calçado,82.9,43.43
+457,Nostrum Doloremque,Acessórios,54.97,16.58
+458,Reiciendis Quae,Acessórios,31.0,30.03
+459,Iusto Sequi,Roupas Femininas,72.62,42.44
+460,Ut Commodi,Calçado,77.85,30.15
+461,Maiores Consequuntur,Acessórios,34.55,40.21
+462,Necessitatibus Ut,Roupas Masculinas,59.68,11.89
+463,Dolor Corrupti,Acessórios,86.6,41.16
+464,Commodi Molestiae,Acessórios,53.09,48.5
+465,Natus Maiores,Roupas Masculinas,50.18,20.42
+466,Inventore Quaerat,Roupas Femininas,82.82,37.64
+467,Eveniet Beatae,Roupas Masculinas,57.07,28.96
+468,Laborum Sint,Roupas Masculinas,32.7,43.66
+469,Aut Fugiat,Acessórios,78.68,35.85
+470,Illo Inventore,Roupas Femininas,99.11,33.53
+471,Sequi Odio,Roupas Masculinas,53.97,14.53
+472,Fugit Consequatur,Roupas Masculinas,90.4,30.97
+473,Quas Fugiat,Acessórios,41.1,22.46
+474,Totam Incidunt,Acessórios,25.77,42.6
+475,Tempore Excepturi,Roupas Femininas,53.43,38.76
+476,Veniam Temporibus,Calçado,21.57,37.07
+477,Dicta Consequuntur,Calçado,95.04,36.11
+478,Adipisci Architecto,Calçado,70.04,13.58
+479,Accusantium Quibusdam,Acessórios,68.62,13.89
+480,Doloremque Architecto,Acessórios,57.04,12.49
+481,Nulla Assumenda,Acessórios,54.41,45.78
+482,Accusantium Hic,Acessórios,51.74,21.5
+483,Aspernatur Suscipit,Roupas Femininas,85.72,35.84
+484,Odit Earum,Calçado,94.48,46.95
+485,Veniam Non,Roupas Femininas,31.88,23.44
+486,Debitis Omnis,Roupas Femininas,96.32,24.85
+487,Sed Officia,Roupas Masculinas,58.63,11.86
+488,Exercitationem Eum,Acessórios,65.23,43.2
+489,Ab Culpa,Roupas Femininas,77.96,25.65
+490,Tempora Possimus,Acessórios,45.8,13.84
+491,Error Sint,Calçado,61.76,41.32
+492,Fuga Sed,Acessórios,59.43,20.75
+493,Sit Maiores,Acessórios,71.66,12.07
+494,Voluptates Laboriosam,Roupas Femininas,75.56,41.8
+495,Vel Enim,Acessórios,91.48,49.0
+496,Debitis Harum,Roupas Femininas,61.95,33.68
+497,Nisi Fugiat,Roupas Femininas,28.88,13.17
+498,Qui Sapiente,Roupas Masculinas,49.22,36.25
+499,Laudantium Est,Acessórios,50.22,15.71
+500,Similique Aliquam,Roupas Femininas,20.12,10.76
+501,Nihil Rem,Roupas Femininas,21.2,32.5
+502,Suscipit Ipsum,Roupas Masculinas,72.87,10.4
+503,Sapiente Reiciendis,Roupas Masculinas,79.17,43.02
+504,Alias Molestias,Roupas Masculinas,61.51,30.54
+505,Magnam Modi,Roupas Femininas,27.1,36.85
+506,Totam Eius,Acessórios,33.92,48.41
+507,Reprehenderit Laborum,Roupas Femininas,73.56,18.68
+508,Tempore Expedita,Acessórios,70.43,23.91
+509,Rerum Dolore,Calçado,51.27,29.39
+510,Similique Reiciendis,Roupas Femininas,74.01,48.69
+511,Fugiat Tempora,Acessórios,37.74,24.46
+512,Et Ipsa,Roupas Masculinas,38.38,27.11
+513,Labore Minima,Roupas Femininas,25.02,43.52
+514,Sint Laudantium,Roupas Masculinas,91.44,18.99
+515,Commodi Quia,Acessórios,47.73,48.01
+516,Aliquid Fuga,Roupas Femininas,38.0,40.21
+517,Eos Perspiciatis,Roupas Masculinas,36.84,43.3
+518,Ipsa Facere,Acessórios,84.7,19.42
+519,Deleniti Voluptas,Acessórios,40.3,42.96
+520,Voluptatem Incidunt,Roupas Masculinas,43.14,26.85
+521,Eum Sed,Acessórios,89.28,49.48
+522,Aperiam Eaque,Roupas Masculinas,85.19,45.54
+523,Tempore Sunt,Calçado,56.2,23.93
+524,At Sunt,Calçado,53.22,46.83
+525,In Dolorem,Calçado,21.08,10.49
+526,Unde Cupiditate,Acessórios,28.68,12.38
+527,Error Possimus,Acessórios,70.27,32.57
+528,Hic Fuga,Roupas Masculinas,26.1,34.73
+529,Sequi Laboriosam,Calçado,50.7,19.39
+530,Quam Optio,Acessórios,53.31,14.82
+531,Alias Quod,Roupas Masculinas,88.99,45.13
+532,Tempora Consequatur,Acessórios,65.63,46.13
+533,Fugit In,Roupas Femininas,76.65,45.94
+534,Ratione Magni,Calçado,67.82,15.51
+535,Deleniti Nisi,Acessórios,21.39,36.93
+536,Optio Eius,Acessórios,40.61,20.21
+537,Fuga Neque,Acessórios,56.2,26.11
+538,Tempore Sint,Calçado,73.74,22.24
+539,Enim Perferendis,Roupas Femininas,40.2,30.07
+540,Doloribus Non,Calçado,94.88,38.6
+541,Enim Distinctio,Calçado,92.92,10.59
+542,Quia Asperiores,Roupas Masculinas,32.13,48.56
+543,Sapiente Illo,Roupas Masculinas,92.42,28.69
+544,Perferendis Numquam,Roupas Masculinas,86.7,42.61
+545,Adipisci Dicta,Acessórios,72.74,24.92
+546,Quasi Animi,Roupas Masculinas,65.49,10.34
+547,Eligendi Maxime,Roupas Masculinas,27.13,34.43
+548,Nam Tempora,Calçado,96.87,18.7
+549,Optio Suscipit,Roupas Femininas,48.78,40.1
+550,Ea Minima,Roupas Femininas,74.13,12.77
+551,Illo Molestias,Roupas Masculinas,95.08,32.09
+552,Pariatur Nostrum,Acessórios,45.56,32.13
+553,Nisi Minima,Roupas Femininas,73.8,23.93
+554,Quod Temporibus,Calçado,67.15,17.76
+555,Laboriosam Fuga,Roupas Femininas,25.64,19.02
+556,Exercitationem Temporibus,Acessórios,59.51,12.79
+557,Iusto Magnam,Acessórios,66.68,39.16
+558,Corrupti Quod,Roupas Masculinas,20.45,18.78
+559,Repudiandae A,Roupas Masculinas,39.58,13.57
+560,Consequuntur Perspiciatis,Acessórios,30.71,46.99
+561,Veritatis Debitis,Calçado,31.34,41.15
+562,Et Repellat,Roupas Femininas,39.64,48.27
+563,Facere Praesentium,Roupas Masculinas,96.04,27.62
+564,Occaecati Nulla,Acessórios,97.53,40.91
+565,Architecto Voluptatum,Acessórios,88.2,46.55
+566,Quae Repellat,Calçado,28.55,27.58
+567,Illum Aspernatur,Roupas Femininas,78.2,33.4
+568,Magni At,Acessórios,68.89,19.51
+569,Numquam Corporis,Roupas Femininas,69.71,33.56
+570,Corporis Voluptas,Roupas Femininas,46.45,42.29
+571,Voluptates Nulla,Calçado,29.9,41.47
+572,Accusantium Ratione,Acessórios,27.08,12.35
+573,Debitis Repellendus,Calçado,44.8,38.12
+574,Ex Earum,Roupas Masculinas,67.19,41.92
+575,Voluptatem Quae,Roupas Femininas,90.57,32.51
+576,Quis Asperiores,Roupas Masculinas,50.56,14.42
+577,Minima Omnis,Calçado,56.59,33.6
+578,Officiis Assumenda,Acessórios,38.7,17.23
+579,Ad Incidunt,Roupas Masculinas,78.08,17.51
+580,Cum Aliquam,Roupas Masculinas,68.78,45.49
+581,Tempora Totam,Acessórios,35.63,30.14
+582,Delectus Debitis,Roupas Masculinas,24.11,19.44
+583,Neque Ab,Acessórios,58.1,15.22
+584,In Soluta,Acessórios,24.94,20.6
+585,Alias Magnam,Roupas Masculinas,66.47,11.71
+586,Iure Beatae,Roupas Femininas,55.74,12.19
+587,Dicta Esse,Roupas Femininas,46.55,45.54
+588,Expedita Quam,Acessórios,42.86,18.18
+589,Consequatur Sint,Roupas Masculinas,61.88,27.86
+590,Culpa Harum,Calçado,64.38,43.57
+591,Voluptate Hic,Roupas Masculinas,48.49,27.01
+592,Dolore Soluta,Roupas Masculinas,52.05,37.82
+593,Veniam Deleniti,Roupas Femininas,35.22,48.09
+594,Quaerat Laudantium,Roupas Masculinas,47.97,45.26
+595,Eaque Quam,Roupas Masculinas,74.97,29.82
+596,Adipisci Sint,Roupas Femininas,98.45,33.94
+597,Modi Ducimus,Roupas Masculinas,22.64,31.45
+598,Ipsam Porro,Roupas Femininas,68.16,45.19
+599,Ea Odit,Acessórios,45.33,32.99
+600,Velit Omnis,Roupas Femininas,70.81,25.31
+601,Nobis Asperiores,Acessórios,79.65,18.86
+602,Mollitia Ea,Roupas Masculinas,84.33,41.58
+603,Sequi Veritatis,Acessórios,95.85,24.59
+604,Nisi Labore,Roupas Femininas,55.93,10.36
+605,Fugit Sit,Acessórios,54.62,24.99
+606,Est Inventore,Acessórios,95.0,17.33
+607,Quas Omnis,Roupas Femininas,34.99,27.93
+608,Rerum Modi,Roupas Femininas,34.6,46.08
+609,Commodi Beatae,Acessórios,46.74,41.55
+610,Fugiat Omnis,Roupas Masculinas,75.07,14.84
+611,Pariatur Optio,Roupas Femininas,55.87,49.05
+612,Enim Quos,Calçado,27.51,40.97
+613,Animi Eveniet,Calçado,28.77,10.29
+614,Illum Voluptatibus,Calçado,74.98,45.43
+615,Dolores Maiores,Roupas Masculinas,68.1,37.62
+616,Nesciunt Eius,Acessórios,83.64,14.68
+617,Beatae Rem,Roupas Femininas,95.53,22.13
+618,Quae Eaque,Roupas Masculinas,66.78,11.16
+619,Itaque Maiores,Roupas Femininas,22.45,11.85
+620,Pariatur Praesentium,Acessórios,42.86,33.55
+621,Autem Quaerat,Roupas Femininas,83.99,42.89
+622,Reprehenderit Quaerat,Roupas Femininas,63.16,30.56
+623,Nulla Ea,Roupas Masculinas,98.97,34.13
+624,In Aliquid,Roupas Femininas,30.47,44.8
+625,Molestiae Asperiores,Acessórios,77.42,11.24
+626,Eos Aliquid,Roupas Femininas,69.23,30.17
+627,Praesentium Ipsa,Acessórios,72.34,21.57
+628,Eveniet Assumenda,Calçado,82.35,13.32
+629,Magnam Facere,Acessórios,65.72,10.47
+630,Dignissimos Non,Roupas Masculinas,96.53,36.97
+631,Harum Dignissimos,Roupas Masculinas,35.87,10.24
+632,Porro Voluptates,Roupas Masculinas,36.42,44.58
+633,Doloribus Eaque,Acessórios,23.75,15.93
+634,Sequi Tenetur,Roupas Femininas,43.41,30.34
+635,Hic Quis,Calçado,79.09,48.59
+636,Ducimus Eum,Acessórios,72.23,25.95
+637,Quas Dolorum,Calçado,44.02,42.47
+638,Magni Quam,Calçado,53.57,40.22
+639,Alias Numquam,Roupas Femininas,80.75,32.12
+640,Sed Voluptatibus,Calçado,36.7,49.52
+641,Soluta Est,Calçado,96.91,18.67
+642,Repellat Tempora,Calçado,56.02,18.59
+643,Voluptatem Deleniti,Roupas Femininas,90.64,46.82
+644,Fuga Voluptatibus,Acessórios,78.23,14.97
+645,Occaecati Dolor,Roupas Femininas,20.31,25.33
+646,Possimus Adipisci,Roupas Masculinas,30.4,26.81
+647,Ipsa Non,Acessórios,41.11,32.39
+648,A Pariatur,Roupas Masculinas,90.99,14.61
+649,Error Nemo,Roupas Masculinas,66.31,16.17
+650,Magnam Impedit,Acessórios,87.87,39.58
+651,Mollitia Sapiente,Roupas Masculinas,69.97,47.18
+652,Minima Accusantium,Roupas Masculinas,20.21,32.14
+653,Nostrum Quam,Calçado,34.35,25.6
+654,Qui Delectus,Roupas Masculinas,50.06,28.2
+655,Dolores Facilis,Calçado,62.18,28.58
+656,Quam Dolor,Roupas Masculinas,61.93,24.44
+657,Libero Labore,Roupas Masculinas,89.99,21.28
+658,Fuga Numquam,Acessórios,32.29,42.25
+659,Illo Officia,Roupas Masculinas,45.72,10.91
+660,Numquam Expedita,Roupas Femininas,82.16,12.0
+661,Quidem Sit,Roupas Femininas,48.76,33.62
+662,Eius Quasi,Acessórios,76.4,48.95
+663,Rem Quibusdam,Roupas Femininas,43.12,29.72
+664,Cumque Earum,Roupas Femininas,61.58,32.96
+665,Similique Totam,Roupas Femininas,34.93,35.01
+666,Aspernatur Tempora,Roupas Femininas,84.13,44.05
+667,Quam Reprehenderit,Roupas Masculinas,66.53,17.82
+668,Incidunt Autem,Roupas Masculinas,72.25,14.18
+669,Sapiente Quia,Acessórios,28.83,28.84
+670,Tenetur Iusto,Acessórios,81.92,34.77
+671,Exercitationem Odit,Calçado,35.32,38.38
+672,Sint Ad,Calçado,71.64,32.35
+673,Voluptas Ipsam,Acessórios,23.01,34.08
+674,Neque Facere,Roupas Femininas,56.31,48.28
+675,Dignissimos Libero,Calçado,93.33,38.02
+676,Reiciendis Commodi,Calçado,31.07,27.58
+677,Inventore Eum,Calçado,45.67,42.03
+678,Quisquam Expedita,Acessórios,80.96,10.12
+679,Distinctio Est,Roupas Masculinas,95.58,49.92
+680,Soluta Sunt,Roupas Femininas,88.2,33.8
+681,Praesentium Debitis,Roupas Masculinas,86.11,45.53
+682,Autem Nisi,Roupas Masculinas,55.9,16.85
+683,Labore Quisquam,Calçado,34.26,10.8
+684,Distinctio Impedit,Calçado,30.86,39.25
+685,Nam Deserunt,Roupas Femininas,36.26,36.31
+686,Magni Accusantium,Acessórios,88.53,29.9
+687,Pariatur Error,Calçado,70.06,35.07
+688,Maxime Corrupti,Roupas Femininas,24.43,29.22
+689,Possimus Accusantium,Roupas Masculinas,29.55,41.2
+690,Provident Cum,Acessórios,28.73,24.61
+691,Praesentium Sequi,Roupas Femininas,52.13,16.41
+692,Asperiores Voluptates,Roupas Masculinas,55.76,30.49
+693,Corporis Aperiam,Roupas Masculinas,61.79,41.69
+694,Voluptas Itaque,Acessórios,24.94,26.36
+695,Voluptates Corrupti,Acessórios,27.32,12.44
+696,Eligendi Atque,Calçado,92.9,11.44
+697,Harum Doloribus,Calçado,96.46,43.42
+698,Doloribus Deleniti,Roupas Masculinas,29.65,14.72
+699,Molestias Consequatur,Calçado,78.83,13.81
+700,Sunt Dignissimos,Roupas Femininas,54.84,45.83
+701,Dolor Nobis,Acessórios,89.78,26.8
+702,Facere Enim,Acessórios,20.44,42.09
+703,Nesciunt Hic,Calçado,88.76,12.92
+704,Autem Quam,Acessórios,35.11,12.75
+705,Laudantium Consectetur,Acessórios,69.41,27.63
+706,Commodi Voluptatum,Roupas Femininas,79.76,42.0
+707,Corporis Molestiae,Calçado,60.3,24.16
+708,Consequuntur Velit,Acessórios,50.16,31.12
+709,Ab Nesciunt,Acessórios,61.65,21.35
+710,Necessitatibus Placeat,Roupas Masculinas,63.98,47.8
+711,Aut Laudantium,Roupas Femininas,24.17,25.99
+712,Eligendi Praesentium,Calçado,39.17,23.6
+713,Repudiandae Quod,Roupas Masculinas,50.16,23.38
+714,Odio Qui,Roupas Femininas,37.39,18.48
+715,Rerum Temporibus,Acessórios,99.0,18.82
+716,Saepe Assumenda,Calçado,29.38,10.78
+717,Tempore Aperiam,Roupas Masculinas,54.21,23.11
+718,Voluptatum Inventore,Acessórios,71.57,42.22
+719,Nobis Suscipit,Roupas Masculinas,61.26,45.61
+720,Tempore Possimus,Roupas Masculinas,56.35,29.51
+721,Hic Id,Calçado,25.11,45.74
+722,Perferendis Doloribus,Acessórios,54.7,12.32
+723,Sit Labore,Roupas Femininas,89.07,41.41
+724,Modi Porro,Roupas Femininas,37.91,46.32
+725,Minima Nulla,Roupas Masculinas,72.32,47.1
+726,Aut Totam,Roupas Masculinas,37.13,44.76
+727,Error Veritatis,Roupas Masculinas,22.4,44.85
+728,Optio Occaecati,Acessórios,38.03,21.49
+729,Nulla Fugit,Acessórios,87.04,28.55
+730,Voluptatum Laborum,Calçado,42.07,46.65
+731,Ullam Quis,Roupas Masculinas,90.87,22.9
+732,Nesciunt Asperiores,Roupas Femininas,34.46,44.75
+733,Iusto Rem,Roupas Femininas,46.46,21.72
+734,Amet Quisquam,Roupas Femininas,51.33,34.24
+735,Tempore Unde,Calçado,43.12,17.81
+736,Sequi Ab,Roupas Masculinas,68.28,24.1
+737,Suscipit Deserunt,Roupas Femininas,29.76,30.5
+738,Excepturi Molestias,Calçado,84.52,14.19
+739,Architecto Mollitia,Calçado,36.32,10.56
+740,Officia Corporis,Acessórios,99.77,19.68
+741,Cupiditate Asperiores,Roupas Femininas,32.98,45.06
+742,Illum Recusandae,Roupas Masculinas,45.67,19.6
+743,Assumenda Laboriosam,Calçado,84.69,48.03
+744,Commodi Ducimus,Acessórios,31.28,21.4
+745,Itaque Nemo,Roupas Masculinas,67.25,14.96
+746,Dignissimos Aperiam,Roupas Masculinas,95.66,11.56
+747,Aut Harum,Roupas Masculinas,38.62,35.04
+748,A Quia,Acessórios,81.48,14.36
+749,A Quas,Acessórios,73.68,34.13
+750,Saepe Illo,Roupas Masculinas,42.78,46.36
+751,Impedit Sequi,Roupas Femininas,21.62,18.0
+752,Corrupti Quis,Roupas Femininas,38.77,20.94
+753,Architecto Quia,Calçado,29.07,45.07
+754,Ratione Eos,Acessórios,65.41,30.25
+755,Distinctio Odio,Acessórios,93.27,45.07
+756,Eligendi Tempore,Roupas Masculinas,35.08,33.03
+757,Asperiores Non,Roupas Masculinas,32.82,40.74
+758,Corporis Perspiciatis,Calçado,85.21,18.11
+759,Maiores Vel,Roupas Masculinas,36.38,48.15
+760,Dicta Eos,Roupas Femininas,24.76,36.83
+761,Iure Minima,Roupas Masculinas,89.35,24.99
+762,Quia Illo,Acessórios,28.23,47.89
+763,Delectus Explicabo,Roupas Femininas,76.79,23.17
+764,Saepe Rem,Calçado,83.98,39.44
+765,Recusandae Aliquam,Roupas Masculinas,52.37,44.86
+766,Suscipit Recusandae,Calçado,79.44,28.05
+767,Quod Iusto,Roupas Femininas,73.92,46.15
+768,Qui Inventore,Roupas Femininas,45.17,24.27
+769,Ab Doloremque,Acessórios,31.36,41.84
+770,Adipisci Molestias,Acessórios,52.49,19.86
+771,Totam Nulla,Roupas Masculinas,29.4,47.45
+772,Ad Nesciunt,Roupas Femininas,73.62,13.01
+773,Earum Ipsam,Roupas Femininas,29.92,11.15
+774,Eius Quia,Roupas Masculinas,87.21,31.82
+775,Voluptas Nostrum,Calçado,21.67,40.28
+776,Ad Optio,Calçado,63.56,37.93
+777,Quos Sequi,Acessórios,23.27,41.4
+778,Dolores Aliquid,Acessórios,29.19,28.67
+779,Facere Ullam,Acessórios,83.77,41.07
+780,Quasi Aut,Acessórios,89.53,21.48
+781,Dolorem Veniam,Acessórios,46.59,21.63
+782,Esse Ipsum,Acessórios,45.01,34.09
+783,Quo Corrupti,Roupas Masculinas,63.39,21.94
+784,Aperiam Omnis,Roupas Femininas,98.33,31.99
+785,Quam Tenetur,Acessórios,68.77,14.85
+786,Reiciendis Dolorem,Roupas Masculinas,95.94,17.88
+787,Sed Voluptatum,Acessórios,72.29,43.16
+788,Cumque Molestiae,Calçado,87.56,40.63
+789,In Commodi,Calçado,92.18,43.15
+790,Ipsum Cupiditate,Acessórios,22.96,30.31
+791,Culpa Officiis,Calçado,42.38,30.08
+792,Provident Nam,Roupas Femininas,56.63,20.98
+793,Dignissimos Magnam,Roupas Masculinas,49.15,21.19
+794,Sunt Iste,Calçado,79.41,41.93
+795,Vero Fugit,Roupas Masculinas,44.42,32.75
+796,Assumenda Voluptates,Acessórios,91.33,20.56
+797,Fuga Nisi,Calçado,34.04,37.81
+798,Eaque Quidem,Roupas Femininas,92.29,22.87
+799,Iste Quidem,Roupas Femininas,98.62,32.38
+800,Dignissimos Incidunt,Calçado,25.08,47.83
+801,Non Laudantium,Roupas Masculinas,42.55,34.03
+802,Perspiciatis Dolore,Calçado,47.33,45.05
+803,Provident Libero,Roupas Femininas,82.69,32.74
+804,Nam Recusandae,Roupas Masculinas,57.51,18.81
+805,Provident Ipsam,Calçado,50.1,26.37
+806,Expedita Ipsam,Roupas Femininas,81.94,33.41
+807,Labore Ad,Acessórios,26.44,27.28
+808,Labore Culpa,Roupas Masculinas,95.84,43.61
+809,Dolorem Enim,Roupas Femininas,43.12,27.85
+810,Facere Harum,Calçado,40.07,45.05
+811,Libero Fugit,Acessórios,50.72,17.7
+812,Voluptas Veritatis,Roupas Femininas,56.03,43.3
+813,Recusandae Tempora,Roupas Femininas,45.36,26.08
+814,Quo Ea,Calçado,50.08,43.71
+815,Optio Repellendus,Roupas Masculinas,39.51,20.0
+816,Ullam Nihil,Roupas Masculinas,96.16,35.3
+817,Possimus Impedit,Acessórios,92.32,41.57
+818,Temporibus Quas,Acessórios,21.05,46.26
+819,Quae Nobis,Roupas Femininas,24.09,36.44
+820,In Quasi,Acessórios,39.74,13.32
+821,Ipsa Veritatis,Roupas Masculinas,61.84,27.04
+822,Quasi Porro,Acessórios,36.26,48.46
+823,Eos Inventore,Roupas Femininas,51.14,31.01
+824,Est Officiis,Calçado,29.19,18.26
+825,Sit Error,Calçado,26.8,25.69
+826,Non Illum,Calçado,94.17,46.54
+827,Nemo Rem,Roupas Masculinas,55.14,28.22
+828,Aut Occaecati,Acessórios,26.68,49.57
+829,Reprehenderit Architecto,Roupas Masculinas,69.22,18.45
+830,Harum Quam,Roupas Masculinas,50.07,24.28
+831,Voluptate Perferendis,Calçado,53.92,25.3
+832,Deleniti Voluptatibus,Roupas Femininas,57.06,39.15
+833,Sint Corporis,Roupas Femininas,62.4,41.08
+834,Aspernatur Cupiditate,Roupas Femininas,77.54,47.74
+835,Dolores Tempore,Calçado,79.56,14.09
+836,Ab Explicabo,Calçado,62.25,12.61
+837,Error Veritatis,Roupas Masculinas,96.9,42.88
+838,Id Rem,Acessórios,32.09,18.01
+839,Dolor Maxime,Roupas Masculinas,40.72,36.58
+840,Quibusdam Sed,Acessórios,27.61,19.9
+841,Dolores Exercitationem,Roupas Femininas,60.77,37.5
+842,Adipisci Quisquam,Acessórios,36.54,38.27
+843,Soluta Mollitia,Acessórios,53.61,30.9
+844,Temporibus Eius,Roupas Masculinas,76.94,31.17
+845,Placeat Quia,Acessórios,29.66,14.28
+846,Hic Ut,Acessórios,72.6,36.15
+847,Numquam Ad,Roupas Masculinas,32.7,49.27
+848,Assumenda Quo,Roupas Masculinas,65.85,21.21
+849,Inventore Ratione,Acessórios,70.81,20.85
+850,Non Nesciunt,Roupas Masculinas,72.27,21.95
+851,Unde Consectetur,Calçado,36.97,35.02
+852,Nulla Saepe,Acessórios,77.74,45.82
+853,Unde Ea,Calçado,30.0,23.76
+854,Tempore Tenetur,Acessórios,50.26,48.67
+855,Dolorum Consequatur,Roupas Femininas,73.43,44.4
+856,Optio Dignissimos,Calçado,76.97,15.41
+857,Est Sapiente,Roupas Masculinas,21.01,46.62
+858,Quo Natus,Calçado,27.82,31.81
+859,Asperiores Eligendi,Calçado,52.62,14.95
+860,Esse Quas,Calçado,96.69,20.88
+861,Ducimus Et,Roupas Femininas,52.85,33.04
+862,Doloribus Assumenda,Calçado,76.83,15.01
+863,Ex Ipsa,Calçado,45.81,45.04
+864,Temporibus Rerum,Acessórios,52.69,49.8
+865,Fugiat Quod,Acessórios,88.11,28.67
+866,Quam Esse,Calçado,80.0,46.79
+867,Sint Explicabo,Calçado,25.84,25.07
+868,Perspiciatis Quod,Roupas Masculinas,89.83,19.04
+869,Totam Reprehenderit,Acessórios,85.13,33.53
+870,Maiores Rem,Roupas Masculinas,43.63,30.96
+871,Non Expedita,Roupas Masculinas,99.05,41.49
+872,Cupiditate Nihil,Calçado,66.96,11.99
+873,Quisquam Nobis,Roupas Femininas,71.09,49.97
+874,Vero Asperiores,Calçado,40.53,47.06
+875,Sequi Veritatis,Roupas Masculinas,70.36,46.64
+876,Laboriosam Nulla,Roupas Masculinas,95.93,47.31
+877,Nisi Temporibus,Acessórios,61.44,49.69
+878,Ullam Reprehenderit,Roupas Femininas,75.31,17.71
+879,Autem Ab,Acessórios,23.08,13.05
+880,Minima Iusto,Roupas Femininas,38.15,13.14
+881,Repellendus Eius,Roupas Masculinas,49.59,10.21
+882,In Hic,Roupas Femininas,51.79,40.4
+883,Vitae Dolore,Calçado,24.27,30.27
+884,Deserunt In,Roupas Femininas,84.49,26.45
+885,Iste Illum,Roupas Femininas,91.66,42.39
+886,Explicabo Dolorem,Roupas Femininas,39.19,19.19
+887,Voluptatibus Iste,Roupas Masculinas,45.59,10.79
+888,Dolorum Ad,Roupas Masculinas,57.79,44.06
+889,Vitae Nisi,Acessórios,39.23,31.33
+890,Numquam Iure,Acessórios,42.64,38.52
+891,Saepe Laborum,Acessórios,59.83,33.1
+892,Distinctio Numquam,Roupas Masculinas,75.08,34.83
+893,Quia Cupiditate,Calçado,33.37,12.86
+894,Voluptatibus Iusto,Roupas Masculinas,31.16,33.83
+895,Optio Odio,Acessórios,38.7,20.96
+896,Odio Nesciunt,Acessórios,44.54,23.78
+897,Reiciendis Provident,Roupas Masculinas,31.45,23.17
+898,Tenetur Tempore,Roupas Masculinas,44.9,21.68
+899,Nihil Ipsa,Calçado,50.52,11.4
+900,Nihil Nemo,Roupas Masculinas,77.15,49.73
+901,Mollitia In,Roupas Femininas,21.27,37.78
+902,Numquam Minima,Roupas Masculinas,84.32,42.2
+903,Magni Dolorum,Calçado,85.53,30.31
+904,Exercitationem Libero,Calçado,61.03,44.14
+905,Ex Voluptate,Roupas Femininas,84.03,36.71
+906,Atque Excepturi,Acessórios,82.36,41.84
+907,Fugit Non,Acessórios,33.24,15.97
+908,Nulla Porro,Acessórios,73.99,34.07
+909,Recusandae Incidunt,Acessórios,92.57,22.75
+910,Necessitatibus Optio,Acessórios,33.16,11.31
+911,Adipisci Ratione,Acessórios,73.67,14.08
+912,Quaerat Ullam,Roupas Femininas,76.45,16.11
+913,Magnam Optio,Roupas Masculinas,88.88,28.89
+914,Id Omnis,Roupas Masculinas,31.97,14.86
+915,Explicabo Fuga,Roupas Femininas,45.67,18.67
+916,Nemo Numquam,Roupas Femininas,34.58,39.31
+917,Consequuntur Recusandae,Calçado,54.42,12.81
+918,Repellendus Natus,Calçado,72.0,41.66
+919,Deleniti Veritatis,Roupas Femininas,93.7,34.39
+920,Repudiandae Ipsa,Roupas Masculinas,28.34,17.42
+921,Sequi Modi,Acessórios,69.81,36.56
+922,Voluptas Ipsa,Roupas Femininas,51.65,26.78
+923,Blanditiis Eaque,Roupas Femininas,72.82,23.94
+924,Porro Dolorum,Calçado,62.18,35.05
+925,Consequuntur Mollitia,Roupas Femininas,91.18,33.92
+926,Sed Ratione,Roupas Masculinas,42.09,37.96
+927,Blanditiis Earum,Roupas Femininas,83.27,18.03
+928,Enim Quasi,Roupas Femininas,43.28,28.87
+929,Necessitatibus Sit,Acessórios,34.71,40.74
+930,Accusamus Laboriosam,Acessórios,41.97,22.05
+931,Ab Quidem,Calçado,38.5,40.29
+932,Voluptatibus Pariatur,Acessórios,53.25,41.48
+933,Iste Nostrum,Roupas Masculinas,34.2,47.72
+934,Tenetur Omnis,Roupas Femininas,48.9,26.48
+935,Et Veniam,Roupas Femininas,94.08,29.97
+936,Voluptatum Facere,Roupas Masculinas,69.36,25.93
+937,Recusandae Unde,Roupas Femininas,84.08,38.67
+938,Molestiae Soluta,Acessórios,78.25,30.78
+939,Quam Rerum,Roupas Masculinas,58.97,38.08
+940,Et Unde,Acessórios,83.59,24.5
+941,Consequatur Sit,Calçado,84.28,30.66
+942,Provident Iure,Roupas Femininas,78.43,24.31
+943,Veniam Placeat,Roupas Masculinas,55.47,13.8
+944,Dolorem Officiis,Roupas Femininas,45.09,36.98
+945,Sint Error,Roupas Femininas,72.8,25.19
+946,Esse Laudantium,Roupas Masculinas,64.87,48.66
+947,Impedit Quam,Acessórios,22.22,48.54
+948,Perferendis Deleniti,Roupas Femininas,87.19,41.82
+949,Culpa Quos,Roupas Femininas,70.31,16.61
+950,Corporis Nihil,Calçado,54.27,36.68
+951,Accusantium Doloremque,Calçado,47.79,17.79
+952,Animi Quia,Acessórios,99.23,48.24
+953,Earum Illum,Roupas Masculinas,35.88,36.24
+954,At Natus,Calçado,94.68,10.11
+955,Iste Nemo,Roupas Masculinas,91.45,42.51
+956,Magnam Debitis,Roupas Femininas,67.39,32.56
+957,Earum Tempore,Calçado,57.81,20.26
+958,Perferendis Neque,Roupas Femininas,30.24,31.12
+959,Quae Mollitia,Roupas Femininas,58.03,27.28
+960,Totam Vero,Roupas Femininas,37.92,11.65
+961,Itaque Harum,Roupas Femininas,24.91,39.73
+962,Incidunt Excepturi,Acessórios,26.46,45.61
+963,Nulla Sed,Roupas Masculinas,43.27,42.94
+964,Mollitia Quasi,Acessórios,20.6,26.42
+965,Autem A,Roupas Femininas,74.92,42.44
+966,Itaque Officia,Acessórios,80.86,44.25
+967,Fuga Delectus,Calçado,81.67,34.11
+968,Mollitia Totam,Calçado,21.72,12.05
+969,Laudantium Accusantium,Calçado,43.5,14.79
+970,Adipisci Suscipit,Calçado,77.88,27.73
+971,Culpa Ab,Acessórios,41.82,45.18
+972,Fuga Quaerat,Roupas Masculinas,72.7,37.01
+973,Esse Maiores,Acessórios,85.6,48.84
+974,Corporis Sequi,Calçado,37.41,38.98
+975,Consequuntur Eum,Roupas Femininas,30.3,38.83
+976,Perferendis Vitae,Calçado,54.56,17.8
+977,Alias Pariatur,Calçado,85.88,44.91
+978,Vitae Tempore,Roupas Femininas,80.89,39.97
+979,Quas Temporibus,Roupas Masculinas,99.19,32.94
+980,Sit Quia,Calçado,48.7,23.7
+981,Illo Aliquid,Roupas Femininas,58.39,33.54
+982,Facere Rerum,Roupas Masculinas,82.81,37.43
+983,Autem Voluptas,Acessórios,65.63,35.31
+984,Veritatis Neque,Roupas Femininas,80.59,16.99
+985,Facere Vel,Roupas Masculinas,46.71,37.62
+986,Aliquid Culpa,Roupas Masculinas,86.49,23.51
+987,Delectus Reprehenderit,Roupas Femininas,65.81,34.8
+988,Culpa Velit,Roupas Masculinas,73.37,12.1
+989,Accusantium Quod,Roupas Masculinas,71.94,23.67
+990,Assumenda Sed,Roupas Femininas,86.66,35.64
+991,Ut Corporis,Roupas Masculinas,81.63,16.17
+992,Nemo Dolor,Roupas Femininas,89.18,40.48
+993,Quia Accusantium,Roupas Masculinas,57.98,20.22
+994,Omnis Voluptatibus,Roupas Femininas,98.71,26.79
+995,Nisi Saepe,Calçado,54.25,16.76
+996,Odit Beatae,Acessórios,76.2,10.44
+997,Atque Est,Roupas Masculinas,83.3,37.07
+998,Hic Recusandae,Calçado,41.8,28.34
+999,Sapiente Beatae,Acessórios,47.35,34.91
+1000,Officia Ut,Acessórios,87.85,46.82

@@ -1,0 +1,1001 @@
+Cliente_ID,Nome,Idade,Género,Cidade,Canal de Compra,Total de Compras
+1,Rúben Henriques,26,M,Ponta Delgada,Física,325.62
+2,Brian Moreira,49,M,Melgaço,Física,742.46
+3,Edgar Nascimento,45,M,Cadaval,Física,186.75
+4,Kévim Anjos,56,M,Santa Cruz das Flores,Online,324.56
+5,André Figueiredo,56,M,Machico,Física,685.42
+6,Tomé Sá,70,F,Vila do Bispo,Física,552.49
+7,Noa Faria,42,F,Serpa,Física,955.86
+8,Benjamim Sá,49,F,Paredes de Coura,Física,112.45
+9,Isaac Garcia,43,M,Castro Verde,Física,357.07
+10,Alice-Érica Amaral,24,F,Mangualde,Física,177.45
+11,Núria Araújo,37,F,Angra do Heroísmo,Online,819.3
+12,Larissa Anjos,34,M,Lagoa,Online,763.05
+13,Miriam Rocha,65,M,Cartaxo,Online,478.03
+14,Denis Abreu,37,M,Santa Cruz das Flores,Física,382.22
+15,Carolina Batista,22,M,Arraiolos,Online,287.23
+16,Leandro Pires,50,F,Estremoz,Online,111.87
+17,Luana Antunes,33,F,Redondo,Online,965.57
+18,Leonardo Pinho,18,F,Alcácer do Sal,Online,674.99
+19,Benedita-Luciana Anjos,58,F,Mértola,Online,513.2
+20,Marta Neto,67,F,Vila do Bispo,Online,409.6
+21,Sara Baptista,33,M,Santa Cruz das Flores,Física,133.56
+22,Adriana Cunha,44,F,Vila do Porto,Física,611.3
+23,Pilar Tavares,39,F,Tavira,Física,377.69
+24,Gaspar Oliveira,47,M,Portimão,Física,131.55
+25,Joel Maia-Simões,45,F,Olhão,Online,360.35
+26,Francisca Anjos,53,F,Marinha Grande,Online,850.24
+27,Paulo da Cunha,49,F,Montemor-o-Novo,Online,634.84
+28,Nicole Gomes,37,F,Arruda dos Vinhos,Online,830.5
+29,Vitória Nascimento,26,M,Benavente,Física,422.11
+30,Pilar Abreu,49,F,Figueiró dos Vinhos,Física,285.68
+31,Erika Cruz,46,F,Fundão,Física,174.81
+32,Enzo Nascimento,52,M,Cuba,Online,782.42
+33,Rúben Rocha,33,F,Santiago do Cacém,Online,898.88
+34,Pilar Silva-Barbosa,54,F,Mangualde,Física,339.8
+35,Ema Machado-Cardoso,64,F,Póvoa de Lanhoso,Online,659.38
+36,Amélia do Sousa,23,F,Ribeira Grande,Física,668.07
+37,Isaac Neto,65,M,Velas,Online,760.01
+38,Carolina do Loureiro,40,M,Vila Franca do Campo,Online,852.0
+39,Sofia Moreira,30,M,Oliveira do Bairro,Online,351.27
+40,Duarte Vaz,69,M,Cascais,Física,654.48
+41,Kelly Fernandes,56,M,Vila Franca do Campo,Física,216.64
+42,Denis Pereira,69,M,Nelas,Física,491.57
+43,Iara Maia,39,M,Caminha,Física,487.56
+44,Fabiana Melo,60,M,Serpa,Online,698.92
+45,Nelson Freitas,46,F,Portimão,Online,553.58
+46,Violeta de Ribeiro,66,M,Alcoutim,Física,281.01
+47,Álvaro Nogueira,65,M,Vieira do Minho,Física,981.52
+48,Caetana Martins,52,F,Seixal,Online,594.26
+49,Valentim Baptista,67,F,Alcoutim,Física,613.57
+50,Carlota Loureiro,45,M,Sobral de Monte Agraço,Física,849.31
+51,Bryan Garcia,26,F,Mogadouro,Física,651.15
+52,Rui Carneiro,30,F,Esposende,Física,664.39
+53,Luciana Azevedo,54,F,Sever do Vouga,Física,868.87
+54,Mauro de Miranda,45,M,Mira,Física,144.96
+55,Isabela Cruz,45,F,Moura,Online,150.24
+56,Pedro Azevedo,29,M,Cascais,Física,890.41
+57,Brian Vieira,35,M,Penacova,Online,689.44
+58,Lia da Tavares,51,F,Ponta Delgada,Física,854.45
+59,Caetana de Pacheco,66,F,Póvoa de Lanhoso,Online,818.88
+60,Yara Matias,63,F,Serpa,Física,967.53
+61,Mélanie Borges,66,M,Vila do Corvo,Online,526.66
+62,Fernando Moura,46,F,Grândola,Online,889.08
+63,Soraia Domingues,66,F,Benavente,Online,350.13
+64,Lara Lourenço,49,F,Grândola,Física,113.75
+65,Paulo Rodrigues,67,M,Ponta Delgada,Online,667.97
+66,Diana Leal,52,F,Alvito,Física,577.52
+67,Luca Ferreira,49,F,Santa Maria da Feira,Online,271.29
+68,Wilson Simões,48,F,Santa Cruz das Flores,Online,100.78
+69,Victória Figueiredo,27,F,Horta,Online,528.72
+70,Vicente Soares,70,F,Alenquer,Física,479.21
+71,Bruna Moura,61,M,Lajes das Flores,Online,936.23
+72,Soraia Domingues,38,M,Faro,Online,316.23
+73,Afonso Teixeira,43,F,Espinho,Física,550.4
+74,Cristiano Tavares,36,F,Vidigueira,Física,506.47
+75,Nelson Tavares,27,F,Ílhavo,Física,518.35
+76,Sara Anjos,35,M,Ansião,Física,263.82
+77,Ricardo Sá-Cruz,67,F,Seixal,Física,316.0
+78,Márcio Branco,19,F,Ponta Delgada,Online,308.31
+79,Igor Carneiro-Reis,66,F,Vila do Porto,Online,507.88
+80,Gustavo do Assunção,46,M,Amares,Física,685.52
+81,Lourenço da Simões,54,M,Oliveira do Hospital,Online,293.56
+82,Violeta Borges,41,M,Alcoutim,Online,398.56
+83,Leandro Cardoso,26,M,Olhão,Física,651.2
+84,Salomé Neves,20,M,Tavira,Online,348.53
+85,João Pacheco-Silva,42,F,Leiria,Online,536.72
+86,Fernando Castro,21,M,Barrancos,Online,371.86
+87,Mafalda Batista,44,M,Viseu,Online,166.35
+88,Patrícia Valente,52,F,Silves,Online,727.34
+89,Brian Amaral,46,F,Aljezur,Online,491.59
+90,Isaac Fernandes-Leite,41,M,Almodôvar,Física,538.17
+91,Margarida Guerreiro,56,M,Machico,Online,322.95
+92,Miguel Macedo,68,F,Angra do Heroísmo,Online,267.48
+93,Paulo Andrade,49,F,Gondomar,Online,181.01
+94,Filipa da Neves,34,F,Santa Cruz da Graciosa,Online,802.75
+95,Juliana Melo,63,F,Ponte de Sor,Física,170.67
+96,Noa Araújo-Fonseca,69,F,Angra do Heroísmo,Online,123.54
+97,Vera Ferreira,62,F,São Brás de Alportel,Online,487.73
+98,Inês Gonçalves,56,F,Cadaval,Online,872.93
+99,Diogo Pinheiro-Leal,53,F,Cabeceiras de Basto,Online,154.67
+100,Laura-Eduarda Freitas,50,F,Vila Nova de Gaia,Online,471.99
+101,Leonor-Caetana Santos,28,M,Seia,Física,974.05
+102,Emanuel Monteiro,66,M,Olhão,Online,761.43
+103,Madalena-Flor Amaral,57,F,Ourique,Física,159.32
+104,Vítor Branco,19,F,Alcochete,Física,200.29
+105,Eduardo Magalhães,20,M,Cascais,Online,871.05
+106,Cláudio Vieira,45,M,Ponte da Barca,Online,338.88
+107,Gonçalo Leite,40,F,Mondim de Basto,Física,242.03
+108,Laura Barros,18,M,Cabeceiras de Basto,Online,121.54
+109,Rita Lopes,28,F,Mira,Online,237.59
+110,Yara Amorim,21,M,Estremoz,Online,296.2
+111,Mário Barbosa,61,F,Póvoa de Varzim,Física,577.68
+112,Simão Pacheco,55,M,Póvoa de Varzim,Física,641.45
+113,Emanuel Moura-Teixeira,50,M,Odivelas,Online,674.51
+114,Larissa Rodrigues,50,F,Albufeira,Online,338.23
+115,Letícia Melo,24,M,Seixal,Física,431.29
+116,Catarina Mendes,48,F,Oliveira do Hospital,Online,421.57
+117,Ivo Leite,67,M,Celorico de Basto,Online,400.45
+118,Petra Coelho,53,M,Seixal,Online,493.47
+119,Soraia Rodrigues,40,M,Santa Cruz da Graciosa,Física,968.45
+120,Letícia Neto,56,F,Penela,Física,319.97
+121,Gabriela Lourenço,33,F,Vila Pouca de Aguiar,Online,471.22
+122,Isaac Pires,33,M,Horta,Física,725.87
+123,Isabela de Lourenço,36,F,Proença-a-Nova,Física,312.81
+124,Mafalda Domingues,32,F,Tavira,Física,801.33
+125,Flor Gaspar,38,F,Ourique,Física,521.24
+126,Vasco Brito,58,M,Cabeceiras de Basto,Física,968.2
+127,Lorena Torres,23,M,Lagos,Física,982.97
+128,Márcio Fonseca,29,M,Ponta Delgada,Online,271.54
+129,Patrícia Gonçalves-Almeida,66,M,Ourique,Online,329.8
+130,Rita Tavares,25,M,Horta,Online,601.28
+131,Kelly-Carolina Paiva,50,M,Vila do Conde,Online,670.98
+132,Catarina Reis,66,M,Ponta Delgada,Física,568.62
+133,Xavier do Almeida,40,F,Barcelos,Física,722.32
+134,Lia Costa,18,F,Vila Franca do Campo,Física,661.35
+135,Juliana Melo,58,F,Horta,Física,638.61
+136,Afonso Morais,48,M,Ponta Delgada,Física,439.32
+137,Diana Barros-Vieira,63,M,Espinho,Física,989.07
+138,Lara Leite-Machado,46,F,Sintra,Física,200.86
+139,Joana Gaspar,67,M,Penacova,Online,794.82
+140,Bianca Matias,34,F,Aljustrel,Física,198.09
+141,Diogo do Ribeiro,33,M,Nelas,Online,454.56
+142,Lara Jesus,54,F,Santa Cruz das Flores,Online,879.29
+143,Martim Branco,63,M,Espinho,Física,308.75
+144,Sofia Silva,55,M,Vila do Porto,Física,722.94
+145,César de Campos,34,F,Caldas da Rainha,Física,399.65
+146,Sara Moura,53,M,Vieira do Minho,Online,359.36
+147,Luana Gonçalves,48,F,Vila Real,Física,750.69
+148,Maria Leite,56,M,Vila Viçosa,Online,979.31
+149,Mia Moreira,68,F,Gondomar,Física,389.21
+150,Mariana Pinheiro,50,F,Azambuja,Física,495.94
+151,Daniela Fonseca,33,M,Sines,Física,511.9
+152,Paulo Ferreira-Carneiro,36,M,Baião,Online,234.43
+153,Daniela-Nicole Figueiredo,70,F,Batalha,Física,852.34
+154,Sofia Abreu,34,F,Barrancos,Física,239.77
+155,Soraia Valente,63,M,Nelas,Física,738.5
+156,Enzo Mota,29,F,Oeiras,Física,316.57
+157,Frederico Carneiro,43,M,São Brás de Alportel,Física,259.93
+158,Renato Oliveira,31,F,Fafe,Física,439.79
+159,Benjamim Ribeiro,48,F,Sobral de Monte Agraço,Online,884.28
+160,Matias Assunção,53,M,Ponte de Lima,Física,208.22
+161,Kelly Nascimento,68,M,Barreiro,Física,215.92
+162,Francisco Macedo,35,M,Moita,Física,411.0
+163,Vítor Azevedo,23,F,Vila Nova de Santo André,Online,962.28
+164,Gabriel Moura,65,F,Trofa,Física,390.75
+165,Brian Rodrigues,36,M,Santa Cruz das Flores,Física,356.31
+166,Ricardo Fernandes,25,F,Castanheira de Pêra,Física,860.28
+167,Margarida Pinho,41,M,Covilhã,Física,241.2
+168,Lúcia Miranda-Marques,39,F,Loures,Online,908.83
+169,André Soares,36,M,Vila Nova de Gaia,Online,514.53
+170,Nádia Baptista,61,F,Mafra,Física,804.07
+171,Lara Abreu,65,M,Fafe,Online,152.06
+172,Yasmin Faria,63,M,Ponta Delgada,Física,442.31
+173,Núria Pinheiro,44,M,Alcochete,Física,784.43
+174,Irina de Correia,27,M,Odivelas,Física,165.6
+175,Dinis Cunha,48,M,Castro Marim,Física,598.05
+176,Joaquim Maia,66,M,Machico,Online,947.15
+177,Diana Ramos,36,M,Cadaval,Física,372.63
+178,Vicente Santos,42,F,Vizela,Física,998.16
+179,Gustavo Lopes,59,M,Ponte da Barca,Física,898.11
+180,Tatiana Amaral,61,M,Sesimbra,Física,959.93
+181,Rui do Sá,22,F,Fundão,Online,810.36
+182,Rúben Nogueira,28,M,Alcoutim,Online,656.62
+183,Matilde Carneiro,22,F,Portimão,Física,370.9
+184,Inês Nascimento,61,M,Loulé,Física,899.66
+185,Alexandra do Moura,42,M,Sever do Vouga,Física,683.42
+186,Jaime Cardoso,31,M,Castro Marim,Física,358.17
+187,Isabel Maia,32,F,Moita,Online,805.09
+188,Filipe Moreira,55,M,Oliveira do Bairro,Online,556.04
+189,Lia Mota,39,M,Mértola,Online,718.36
+190,Yara Paiva,35,F,Lajes do Pico,Física,428.17
+191,Santiago Barbosa,23,M,Penacova,Física,926.99
+192,Bárbara Santos,37,F,Santa Cruz das Flores,Física,159.19
+193,Leonardo Mendes,67,F,Cartaxo,Online,544.3
+194,Alícia Valente,64,F,Valongo,Online,151.65
+195,Manuel Lima-Fonseca,48,F,Guarda,Física,619.97
+196,David Alves,64,F,Celorico de Basto,Física,209.89
+197,Renato Garcia-Abreu,41,F,Montalegre,Online,293.32
+198,Daniel Assunção,33,M,Palmela,Física,833.13
+199,Isaac Nascimento,40,F,Póvoa de Varzim,Online,799.1
+200,Lorena Figueiredo,18,M,Viana do Castelo,Física,123.34
+201,Rafael Reis-Nogueira,50,F,Mafra,Online,237.38
+202,Mélanie Coelho,34,F,Lagos,Física,925.86
+203,Ivo Rodrigues-Torres,44,F,Aveiro,Online,921.71
+204,Henrique Leal,53,F,Braga,Online,704.54
+205,Lia Tavares-Barbosa,44,F,Vila do Corvo,Física,133.89
+206,Fabiana Macedo,45,F,Santa Cruz da Graciosa,Física,337.11
+207,William Amaral,58,M,Vila do Conde,Online,943.31
+208,Mauro Pinto,64,F,Odivelas,Física,941.91
+209,Camila do Morais,31,M,Torres Vedras,Física,672.48
+210,Rita Amaral-Valente,51,F,Ílhavo,Online,110.11
+211,Pedro Vieira,40,F,Penafiel,Online,632.76
+212,Erica Reis,67,M,Lagos,Física,237.44
+213,Emília Jesus,26,F,Leiria,Física,735.35
+214,Francisco Assunção,52,F,Almeirim,Online,501.22
+215,Luísa-Alice Neto,35,F,Vila do Bispo,Física,792.48
+216,Duarte Oliveira,20,F,Velas,Física,242.77
+217,Fabiana Mota,44,M,Paredes,Física,574.03
+218,Flor de Moreira,55,F,Palmela,Física,427.87
+219,Iara Almeida,65,M,Ribeira Grande,Física,941.91
+220,Alícia Gonçalves,50,M,Alcobaça,Online,543.51
+221,Kyara Amorim-Pinho,24,F,Penalva do Castelo,Física,850.93
+222,Luca Faria,41,F,Vila Franca de Xira,Online,448.4
+223,Carlos Matias-Gaspar,37,M,Albufeira,Física,587.02
+224,Nelson Macedo,40,F,Silves,Online,277.91
+225,Ângela de Gonçalves,59,F,Oeiras,Física,361.77
+226,Filipe Carneiro,52,M,Castro Marim,Online,429.27
+227,Erica Vaz,40,F,Vidigueira,Física,988.45
+228,César Borges,64,M,Vila Velha de Ródão,Online,204.88
+229,Matias Ribeiro,59,M,Resende,Física,618.51
+230,Alícia Anjos,60,M,Vieira do Minho,Física,268.02
+231,Tomé Brito-Santos,30,M,Valongo,Física,776.84
+232,Vicente Assunção,60,F,Vila Pouca de Aguiar,Física,901.15
+233,Ivo Coelho,26,M,Viana do Alentejo,Online,549.38
+234,Bernardo Castro-Mota,55,F,Arraiolos,Física,960.25
+235,Eduarda Abreu,65,M,Alcoutim,Física,880.15
+236,Andreia Matos,68,F,Lousã,Física,104.24
+237,Amélia da Jesus,22,F,Beja,Online,415.59
+238,Dinis Ribeiro,70,F,Aljezur,Física,643.41
+239,Juliana do Anjos,55,M,Oliveira do Hospital,Online,124.72
+240,Yasmin Gomes-Pinho,30,F,Lajes do Pico,Física,612.6
+241,Kelly Santos,51,M,Ribeira Grande,Online,699.84
+242,Madalena Magalhães,59,F,Ribeira Grande,Online,353.1
+243,Pedro Neves,44,F,Tavira,Online,113.3
+244,André Barros,47,F,Vila Nova de Cerveira,Física,766.23
+245,Noa Batista,19,M,Vila Real de Santo António,Online,380.96
+246,Victória Marques-Carneiro,67,M,Cantanhede,Física,412.23
+247,Joaquim Cardoso,68,M,Castro Verde,Física,632.93
+248,Melissa Branco,62,M,Albergaria-a-Velha,Online,436.97
+249,William Mendes,50,F,Fafe,Física,724.36
+250,Ricardo Ferreira,37,F,Portel,Física,618.48
+251,Rúben Neto,51,M,Vendas Novas,Física,820.0
+252,Benedita-Íris Faria,58,M,Olhão,Online,102.44
+253,Leonor Pires-Miranda,27,F,Faro,Online,334.7
+254,Santiago Santos,30,M,Arraiolos,Física,210.59
+255,Francisco Pereira,21,M,Angra do Heroísmo,Online,632.37
+256,Francisco Antunes,44,M,Albufeira,Online,600.22
+257,Diego Pinho,18,F,Mora,Online,287.24
+258,Joaquim Araújo,56,F,Sesimbra,Online,736.53
+259,Jéssica Jesus,41,F,Machico,Física,909.99
+260,Mateus Tavares,63,F,Portimão,Física,827.17
+261,Andreia da Abreu,22,F,Azambuja,Física,231.03
+262,Petra Azevedo,34,M,Odemira,Física,899.65
+263,Paulo Domingues,50,M,Fundão,Online,437.48
+264,Diego Correia,52,F,Penacova,Física,948.12
+265,Tiago Borges,28,M,Paços de Ferreira,Física,537.29
+266,Noa Figueiredo,30,M,Castro Marim,Física,518.62
+267,Filipa Moreira,40,M,Montalegre,Online,281.17
+268,Madalena Amorim,44,F,Maia,Online,513.06
+269,Mia Abreu,46,M,Seia,Online,830.92
+270,Ricardo Correia,50,F,Mafra,Online,676.84
+271,Ângela-Erika Pacheco,69,F,Mondim de Basto,Física,558.77
+272,Catarina Assunção,51,M,Vila Nova de Cerveira,Online,562.34
+273,Kevin Campos,61,M,Reguengos de Monsaraz,Online,188.06
+274,Victória Freitas,40,M,Velas,Física,485.59
+275,Adriana Fonseca,57,M,Praia da Vitória,Online,905.58
+276,Margarida Andrade,19,F,Barreiro,Online,352.03
+277,Adriana Santos,60,F,Paços de Ferreira,Online,327.95
+278,Eduarda-Íris Gaspar,63,F,Tavira,Online,659.55
+279,Paulo Araújo,25,M,Lajes do Pico,Física,913.97
+280,Bryan Lopes,46,F,Serpa,Online,606.5
+281,Inês Cardoso,35,F,Faro,Física,795.33
+282,Salomé Amorim,53,M,Mirandela,Online,532.43
+283,Kyara Martins,50,M,Faro,Online,683.18
+284,Fábio da Henriques,40,M,Vidigueira,Física,747.24
+285,Petra Machado,44,M,Montijo,Online,453.59
+286,Ema Nogueira,31,F,São Brás de Alportel,Física,288.22
+287,Júlia Pacheco,46,F,Amadora,Online,357.56
+288,Yara Pereira,18,M,Murtosa,Online,903.21
+289,Kévim Simões,63,F,Vieira do Minho,Online,351.32
+290,Camila Amorim,38,M,Celorico de Basto,Online,620.58
+291,Vicente Gaspar-Lima,39,F,Vila Real de Santo António,Física,348.38
+292,Letícia Amorim,51,M,Vendas Novas,Física,288.84
+293,Laura do Rocha,39,M,Viana do Alentejo,Física,482.84
+294,Renata da Andrade,25,F,Arruda dos Vinhos,Física,709.15
+295,Laura Maia,63,F,Caldas da Rainha,Física,979.48
+296,Juliana-Matilde Branco,19,M,Trofa,Online,616.52
+297,Bianca Henriques,69,F,Loulé,Online,863.47
+298,Bruna Rocha,65,F,Mértola,Física,831.14
+299,Luciana Moura,68,M,Bragança,Física,802.9
+300,Álvaro do Rocha,41,F,Santa Cruz da Graciosa,Online,311.89
+301,Eva Assunção,35,M,Sever do Vouga,Física,868.21
+302,Helena Cruz-Magalhães,66,F,Mangualde,Online,690.16
+303,Margarida Domingues,41,M,Baião,Online,639.14
+304,Bryan do Neto,70,M,Portalegre,Online,194.19
+305,Joaquim Oliveira,20,F,Aljezur,Online,695.88
+306,Isabel Amaral,62,M,Setúbal,Física,912.12
+307,Pilar-Madalena Cardoso,37,F,Alcoutim,Online,711.43
+308,Pilar Pinto,62,F,Ponta Delgada,Online,580.38
+309,Marcos Garcia,52,F,Olhão,Física,772.07
+310,Marcos Nascimento,48,M,Barrancos,Física,863.89
+311,Mafalda Gonçalves,67,M,Vila do Bispo,Física,226.2
+312,Eduardo Barbosa,59,F,Tavira,Online,591.77
+313,Wilson Gomes-Vaz,24,F,Santa Cruz das Flores,Online,649.38
+314,Simão Cunha,38,M,Santa Cruz da Graciosa,Física,423.78
+315,Valentim da Cardoso,31,F,Vila Franca de Xira,Online,990.84
+316,Benedita de Antunes,33,F,Santa Cruz da Graciosa,Online,587.98
+317,Kevin Nunes,49,F,Portimão,Física,757.27
+318,Núria Melo,48,M,Redondo,Física,722.26
+319,Carolina Nogueira,43,F,Faro,Online,158.6
+320,Adriana Maia,33,M,Fundão,Física,976.66
+321,Nuno Jesus,65,F,Esposende,Física,490.65
+322,Micael Gonçalves,28,F,Alcoutim,Física,537.15
+323,Vicente Alves,63,F,Nelas,Online,433.48
+324,Luca Reis,32,M,Estremoz,Online,703.65
+325,Margarida Batista,43,F,Angra do Heroísmo,Online,929.15
+326,Gaspar Batista,61,M,Espinho,Física,164.65
+327,Ângelo da Fernandes,63,M,Loulé,Física,504.92
+328,Bernardo Fernandes,19,F,Sines,Online,343.72
+329,Gabriela Freitas,46,M,Estarreja,Online,138.12
+330,Adriana Pinto,32,F,Olhão,Online,161.67
+331,Flor Barros-Andrade,22,M,Barrancos,Online,352.2
+332,Gabriela Matos,54,M,Castro Marim,Física,708.02
+333,Jéssica Freitas,35,F,Alvito,Online,387.65
+334,Duarte do Correia,42,F,Velas,Física,713.84
+335,Alice-Emma Amaral,23,F,Barrancos,Online,440.4
+336,Vicente Antunes,67,F,Amares,Online,284.13
+337,Carlos Henriques,38,F,Valença,Física,461.74
+338,Pilar Amorim,57,F,Vila do Bispo,Online,688.82
+339,Nádia Pereira,64,F,Aljezur,Online,196.0
+340,Sara Ramos,57,F,Loures,Física,382.31
+341,Naiara do Carneiro,65,F,Horta,Física,512.69
+342,Frederico Gonçalves,55,M,Aljezur,Física,681.93
+343,Teresa do Amorim,26,M,Vila Nova de Famalicão,Física,155.33
+344,Núria Sousa,24,M,Braga,Física,617.21
+345,Ariana Antunes,30,M,Nelas,Física,763.85
+346,Luna Mendes,59,F,Castro Daire,Online,523.13
+347,Santiago Ramos-Teixeira,50,M,Vila Franca do Campo,Física,111.47
+348,Mariana-Caetana Amaral,26,F,Carregal do Sal,Física,370.15
+349,Paulo Coelho,67,F,Funchal,Física,393.18
+350,Lucas Cardoso,45,M,Sines,Online,323.63
+351,Daniel Nogueira,26,M,Odivelas,Física,604.47
+352,Bianca Torres,55,F,Lisboa,Física,285.86
+353,Hugo Faria,61,M,Melgaço,Online,444.67
+354,Gonçalo Barros,30,M,Trofa,Física,276.36
+355,Helena Carvalho,55,M,Fafe,Física,245.15
+356,Pilar-Bárbara Sousa,60,F,Vila Franca de Xira,Física,620.76
+357,Jorge Figueiredo,46,F,Espinho,Online,206.69
+358,Daniela de Soares,64,F,Esposende,Física,869.63
+359,Emma-Carolina Rodrigues,53,F,Castelo de Paiva,Física,263.03
+360,Laura de Oliveira,39,F,Vila Franca do Campo,Online,498.13
+361,David Batista,40,M,Santiago do Cacém,Online,282.29
+362,Jéssica da Moreira,67,M,Praia da Vitória,Online,744.17
+363,Vicente Leite,54,F,Cuba,Online,918.77
+364,Kyara Reis,54,M,Murtosa,Online,961.13
+365,Leandro Pires,28,F,Alenquer,Física,833.24
+366,Andreia Pacheco,32,M,Horta,Online,205.61
+367,Bruno Sá,25,F,Portalegre,Online,331.66
+368,Ivo Teixeira,29,F,Velas,Online,531.91
+369,Vitória Jesus,32,F,Esposende,Física,135.67
+370,Marta Fernandes,54,F,Velas,Online,839.83
+371,Benedita Amorim,28,M,Amarante,Online,122.63
+372,Eduarda Sá,22,F,Lagoa,Online,948.61
+373,Irina Anjos,43,F,Vila Real de Santo António,Física,395.1
+374,Gonçalo Nogueira-Sá,18,F,Mora,Física,349.29
+375,Rafael da Simões,23,F,Vagos,Online,550.8
+376,Lia de Matias,50,F,Sousel,Online,516.5
+377,Samuel Leite,61,M,Santo Tirso,Física,852.08
+378,Erica Abreu,52,F,Castro Daire,Física,165.93
+379,Lisandro Matias,25,M,Valença,Online,792.44
+380,Carlos do Teixeira,53,F,Alvaiázere,Física,845.76
+381,Alícia do Vaz,44,M,Vila Franca do Campo,Física,214.64
+382,Alícia Marques,48,F,Castelo Branco,Online,352.03
+383,Miguel Nogueira,42,M,Mondim de Basto,Online,882.99
+384,Enzo Rodrigues,53,M,Marco de Canaveses,Física,415.97
+385,Helena Barbosa,56,F,Vendas Novas,Online,495.23
+386,Irina-Salomé Sousa,33,F,Cascais,Física,171.02
+387,Gil Carvalho,44,M,Caminha,Física,599.75
+388,Márcio Borges-Rocha,31,F,Loures,Física,531.04
+389,Ariana-Mara Amorim,19,F,Tábua,Online,541.23
+390,Joana Paiva,49,M,Ponte de Sor,Online,855.4
+391,Miriam Campos,40,M,Viana do Alentejo,Física,269.15
+392,Marcos Jesus,66,F,Portel,Física,806.48
+393,Valentim Valente,66,M,Alcoutim,Física,522.18
+394,Juliana Leal,34,M,Arcos de Valdevez,Online,539.68
+395,Luana-Emma Teixeira,37,M,Sines,Online,725.93
+396,William Moreira,53,M,Cuba,Física,261.63
+397,Nádia Garcia,20,F,Vieira do Minho,Física,830.38
+398,Luana de Morais,63,M,Angra do Heroísmo,Online,578.39
+399,David Batista-Marques,24,F,Palmela,Física,883.95
+400,Erika Sousa,28,M,Cadaval,Física,683.46
+401,Ismael Sá,18,F,Tondela,Física,335.43
+402,Helena Vaz,44,M,Vila Franca do Campo,Online,590.85
+403,Santiago do Pires,54,F,Oliveira do Hospital,Online,174.03
+404,Teresa Marques,33,F,Ponta Delgada,Física,894.66
+405,Lúcia Morais,43,M,Figueiró dos Vinhos,Física,783.07
+406,Renata Neto,54,M,Cadaval,Física,190.15
+407,Leandro do Pereira,64,F,Horta,Online,170.59
+408,Alícia Teixeira,59,M,Lagoa,Física,737.02
+409,Isaac Marques,70,M,Viana do Alentejo,Física,509.44
+410,Nádia Pinto,53,M,Amarante,Física,138.61
+411,Gonçalo Guerreiro,56,F,Ribeira Grande,Online,995.54
+412,Lorena Henriques,58,M,Lajes do Pico,Física,298.81
+413,Gabriel Sá-Guerreiro,61,M,Sever do Vouga,Online,566.39
+414,Maria Marques,30,M,Vila do Corvo,Online,193.29
+415,Constança Branco,70,M,Aljezur,Física,422.53
+416,Ângela-Letícia Guerreiro,62,M,Vila Viçosa,Online,469.21
+417,Sérgio Figueiredo,43,M,Lajes das Flores,Online,337.8
+418,Daniela de Sá,63,F,São Brás de Alportel,Física,695.58
+419,Duarte Azevedo,48,F,Velas,Online,183.8
+420,Sandro Machado,66,M,Esposende,Online,135.59
+421,Filipa Teixeira-Gonçalves,34,F,Praia da Vitória,Física,995.33
+422,Bárbara Antunes,20,M,Santa Cruz da Graciosa,Online,103.46
+423,Larissa do Azevedo,56,M,Évora,Física,818.56
+424,Larissa do Almeida,29,F,Santa Maria da Feira,Online,921.28
+425,Ivan Monteiro,26,M,Monchique,Online,318.24
+426,Rui Amorim,68,F,Barrancos,Física,223.55
+427,Luís Sousa,58,F,Sousel,Online,787.9
+428,Diana Moreira,70,M,Portel,Física,325.51
+429,Flor Maia,60,F,Monchique,Online,643.0
+430,Isabel Barbosa,67,M,Velas,Online,727.96
+431,Cristiano Pinheiro-Alves,22,M,Faro,Online,521.9
+432,Pedro Matos-Neto,31,M,Palmela,Física,190.67
+433,Denis Carneiro,18,M,Ponte de Sor,Online,146.73
+434,Tomé Brito,33,F,Sobral de Monte Agraço,Física,540.81
+435,Bruno Nogueira,68,F,Grândola,Física,648.89
+436,Álvaro da Martins,52,M,Ponta Delgada,Física,187.7
+437,Lourenço Vieira,56,F,Carregal do Sal,Física,775.78
+438,Filipe Fonseca,22,F,Lamego,Física,611.1
+439,Mário Brito,30,F,Póvoa de Varzim,Física,869.97
+440,Núria Correia-Maia,47,F,Lamego,Online,774.25
+441,Ângelo Loureiro,29,F,Albufeira,Física,587.76
+442,Júlia Nunes,19,M,Vila do Porto,Física,665.74
+443,Diego de Carvalho,64,M,Montalegre,Online,737.02
+444,Samuel Jesus,60,M,Santiago do Cacém,Online,707.52
+445,Rúben do Ribeiro,20,M,Vagos,Física,839.73
+446,Gustavo Carvalho,43,F,Aveiro,Online,550.28
+447,Inês-Ana Campos,68,M,Felgueiras,Física,588.04
+448,Matilde do Antunes,46,M,Santa Cruz das Flores,Online,695.03
+449,Petra-Clara Santos,28,M,Gondomar,Online,631.82
+450,Sofia Macedo,37,F,Monchique,Online,340.11
+451,Raquel Magalhães,33,F,Guimarães,Física,440.7
+452,Kyara Carvalho,49,M,São Brás de Alportel,Física,137.7
+453,Emma-Helena Moreira,41,M,Santa Cruz das Flores,Física,224.37
+454,Renato do Gomes,29,M,Batalha,Física,438.06
+455,Núria Tavares,68,F,Viseu,Física,807.31
+456,Eduarda Almeida-Mota,56,F,Santiago do Cacém,Online,211.43
+457,Nádia Leite,39,F,Praia da Vitória,Física,590.39
+458,Camila Pereira,59,M,Ribeira Grande,Física,204.64
+459,Carminho Silva,35,M,Porto de Mós,Online,798.87
+460,Jorge Gonçalves,54,M,Ovar,Física,131.82
+461,Denis do Barbosa,26,F,Horta,Online,248.58
+462,Raquel-Alexandra Andrade,20,M,São João da Madeira,Online,588.14
+463,Patrícia da Cruz,63,M,Barrancos,Online,797.24
+464,Benedita-Lara Sá,40,M,Lagos,Física,766.17
+465,Noah Lourenço,20,M,Estarreja,Online,470.78
+466,Inês de Anjos,61,F,Fafe,Online,720.16
+467,Isaac Pacheco,38,F,Silves,Física,326.65
+468,Fernando Machado-Moreira,39,F,Moita,Física,119.24
+469,Carlota Mendes,41,F,Loures,Física,670.85
+470,Raquel Monteiro,66,F,Castanheira de Pêra,Física,796.05
+471,Hugo Amaral,30,M,Portimão,Online,749.99
+472,Eduarda Moura-Cunha,19,F,Alcácer do Sal,Online,585.68
+473,Rui Carneiro,47,F,Trancoso,Online,376.77
+474,Wilson Amaral,60,F,Barreiro,Online,739.56
+475,José Fonseca,35,F,Loures,Online,295.24
+476,Benjamim Freitas,59,M,Arruda dos Vinhos,Online,346.92
+477,Bernardo Matos,23,F,Caldas da Rainha,Física,993.3
+478,Vicente Nascimento,45,F,Vizela,Física,703.45
+479,Luna Cunha,68,F,Espinho,Física,878.49
+480,Lucas Cunha,66,M,Vila do Corvo,Física,238.99
+481,Ana Faria-Guerreiro,44,M,Albufeira,Física,937.45
+482,Diana Lima,30,F,Oliveira do Hospital,Online,928.35
+483,Isabel de Silva,54,F,Penafiel,Online,299.98
+484,Isaac Brito,53,F,Mangualde,Online,350.42
+485,Mariana-Violeta Lourenço,40,M,Redondo,Física,847.39
+486,Renato Lourenço,41,F,Mondim de Basto,Física,759.82
+487,Mélanie Jesus-Maia,51,F,Caldas da Rainha,Física,605.67
+488,Kelly-Camila Cruz,55,M,Viseu,Física,328.51
+489,Lisandro Barbosa,24,F,Caminha,Online,917.96
+490,Rafael Carneiro,41,F,Santiago do Cacém,Física,241.75
+491,Leonardo Abreu,26,M,Faro,Física,690.14
+492,Lorena Amorim,29,F,São Brás de Alportel,Física,899.49
+493,Maria Paiva,45,M,Vila Franca do Campo,Online,638.62
+494,Pilar Amorim,22,M,Aljustrel,Online,681.44
+495,Joana Antunes,21,M,Vieira do Minho,Física,548.07
+496,Gabriela Coelho,18,M,Vidigueira,Online,972.83
+497,Melissa do Batista,33,F,Lajes do Pico,Física,767.77
+498,Sara Gomes,51,F,Leiria,Online,142.05
+499,Helena Pinho,45,M,Castro Marim,Online,213.39
+500,Melissa Teixeira,26,M,Porto de Mós,Online,482.78
+501,Ismael Pinho,18,F,Serpa,Física,911.95
+502,Mafalda de Pacheco,63,M,Odivelas,Física,570.3
+503,Álvaro Matos,23,M,Mondim de Basto,Física,509.86
+504,Marcos Rodrigues,46,M,Sines,Física,708.37
+505,Noa da Magalhães,47,M,Arganil,Física,357.36
+506,Ângelo do Nascimento,56,F,Bragança,Física,804.98
+507,Sebastião Carvalho,24,M,Castanheira de Pêra,Física,437.54
+508,Rita Carneiro,65,F,Vila Franca do Campo,Online,975.95
+509,Renato Baptista,25,M,Porto,Online,448.56
+510,Flor Azevedo,36,M,Vizela,Física,789.51
+511,Iara Baptista,40,M,Gouveia,Física,964.12
+512,Kelly Reis-Reis,50,F,Santa Cruz das Flores,Física,395.25
+513,Kevin da Campos,47,F,Mogadouro,Física,658.44
+514,Lourenço Nascimento,49,F,Esposende,Online,151.15
+515,Luísa Faria,29,M,Penela,Física,112.25
+516,Micael Figueiredo,34,F,Ponta Delgada,Física,356.67
+517,Samuel Borges,22,M,Caldas da Rainha,Física,512.47
+518,Irina Abreu,39,M,Lagoa,Online,916.33
+519,Valentina Antunes-Azevedo,23,F,Albufeira,Física,361.18
+520,Luana-Bruna Ramos,66,F,Loulé,Online,555.59
+521,Maria Tavares,31,F,Vila do Porto,Online,937.63
+522,Ângelo Ramos-Coelho,66,F,Celorico de Basto,Física,616.16
+523,Henrique Oliveira,27,M,Mértola,Online,911.55
+524,Ângela Mendes,69,F,Alcácer do Sal,Física,563.94
+525,Petra do Moreira,25,F,Horta,Física,894.64
+526,Bruno Cruz,35,M,Nazaré,Física,579.49
+527,Iara-Victória Castro,49,M,Palmela,Física,673.58
+528,Francisco do Cardoso,19,M,Baião,Online,263.6
+529,Emma Moura,46,M,Alcácer do Sal,Física,166.87
+530,Larissa Anjos,18,M,Alvito,Física,451.48
+531,Débora Lima-Antunes,42,F,Vila Franca do Campo,Física,202.09
+532,Ricardo Costa,67,M,Lagos,Online,419.63
+533,Salvador Paiva,30,F,Santa Cruz das Flores,Física,376.29
+534,Luciana Carneiro-Abreu,65,F,Fafe,Física,638.16
+535,Núria Santos,48,F,Sines,Física,428.14
+536,Flor Brito,63,M,Monchique,Online,735.7
+537,Mélanie Assunção,25,M,Gondomar,Online,922.59
+538,Beatriz Campos,58,F,Estarreja,Física,275.7
+539,Vera Almeida,65,F,Cabeceiras de Basto,Física,752.0
+540,Alícia Fernandes,22,M,Santiago do Cacém,Física,134.76
+541,Diego Macedo,55,F,Guimarães,Física,610.84
+542,Lara Leal,49,M,Lagoa,Online,667.92
+543,César de Araújo,38,F,Grândola,Física,965.82
+544,Alexandra Nogueira,33,F,Seixal,Online,759.43
+545,Mariana Esteves,35,M,Torres Vedras,Online,723.19
+546,Laura Rodrigues,24,F,Vila Franca do Campo,Online,351.96
+547,Helena Amorim,47,M,Portimão,Física,335.52
+548,Sérgio Henriques,64,M,Vila do Bispo,Online,654.37
+549,Benjamim Pinheiro-Domingues,45,M,Portel,Física,313.28
+550,Joel Cruz,38,F,Santa Cruz das Flores,Física,938.1
+551,Mélanie da Morais,19,F,Ribeira Grande,Física,360.83
+552,Nuno Monteiro-Ferreira,30,M,Ribeira Grande,Física,684.23
+553,Bianca Sá,56,M,Praia da Vitória,Física,894.16
+554,Ariana Guerreiro-Cardoso,32,M,Bragança,Online,937.33
+555,Luna Vieira,68,M,Vila do Porto,Física,931.49
+556,Manuel da Vaz,58,M,Cabeceiras de Basto,Física,376.02
+557,Rui Carvalho-Paiva,20,F,Vieira do Minho,Física,870.24
+558,Anita Simões,46,F,Barrancos,Física,696.94
+559,Leandro Neves-Faria,29,M,Lisboa,Online,516.07
+560,André Reis,35,F,Barcelos,Online,562.63
+561,Márcio Cruz,61,F,Arraiolos,Online,394.29
+562,David Faria-Pinheiro,69,M,Portimão,Física,328.74
+563,Sofia Neves,20,M,Tavira,Física,398.42
+564,Madalena Soares,26,M,Vidigueira,Online,902.24
+565,Carlota Brito,45,F,Setúbal,Online,546.37
+566,Paulo Henriques,39,F,Terras de Bouro,Online,552.85
+567,Mateus Coelho,42,M,Praia da Vitória,Online,516.68
+568,Irina Rocha,64,M,Barrancos,Física,469.06
+569,Emma Faria,52,M,Moura,Física,828.95
+570,Renato Loureiro,19,F,Castro Verde,Online,546.7
+571,Edgar Silva,26,M,Santa Cruz da Graciosa,Física,794.34
+572,Mariana Cunha,27,M,Pedrógão Grande,Física,655.2
+573,Kyara-Anita Nascimento,18,F,Redondo,Física,125.41
+574,Daniel Gonçalves,27,M,Santa Cruz da Graciosa,Online,731.02
+575,Wilson Valente,26,M,Sousel,Online,192.88
+576,Gaspar Fonseca,58,M,Murtosa,Online,787.34
+577,Bianca Pinto,68,F,Alenquer,Online,137.84
+578,Luísa Araújo-Matos,68,M,Lagoa,Física,619.0
+579,William Barbosa,66,F,Tondela,Online,607.43
+580,Frederico Rodrigues,30,M,Miranda do Corvo,Online,582.89
+581,Ismael Carneiro,28,F,Lagoa,Online,418.9
+582,Isabel de Domingues,32,F,Loures,Física,669.34
+583,Carminho Leite,20,M,Aveiro,Física,280.55
+584,Bárbara Alves,67,F,Póvoa de Lanhoso,Física,172.38
+585,Lisandro Sá,70,F,Palmela,Física,675.95
+586,Bruno Azevedo,50,M,Gondomar,Online,770.6
+587,Benedita Fernandes,53,F,Sines,Online,753.13
+588,Débora Ferreira,49,F,Oliveira do Bairro,Online,836.09
+589,Luísa do Vieira,35,F,Praia da Vitória,Física,178.05
+590,Lara-Victória Magalhães,51,F,Lajes do Pico,Online,397.49
+591,Denis do Baptista,18,M,Portalegre,Online,467.4
+592,Afonso Silva,68,M,Pombal,Física,665.24
+593,Tomás Marques,62,M,Cuba,Física,466.74
+594,Ivan do Fonseca,43,F,Torres Vedras,Online,507.1
+595,Helena Neto,32,M,Melgaço,Online,113.48
+596,Gustavo Pires,51,F,São Brás de Alportel,Física,320.58
+597,Miriam Cunha-Matos,38,M,Amadora,Física,959.27
+598,Laura-Bianca Ferreira,61,F,Oliveira do Hospital,Física,453.5
+599,Leandro Amorim,41,M,Braga,Física,234.62
+600,Luna Lourenço,42,F,Montijo,Online,942.08
+601,Filipa Silva,28,M,Alcoutim,Online,232.88
+602,Débora Matias-Baptista,47,F,Beja,Online,430.03
+603,Débora Paiva,52,F,Beja,Física,734.08
+604,Lourenço Maia,55,F,Moita,Física,162.16
+605,Fabiana Santos,55,F,Loulé,Física,318.7
+606,Petra Henriques,44,F,Lagoa,Física,720.99
+607,Simão Abreu,45,F,Setúbal,Online,798.25
+608,Jorge Figueiredo,51,F,Grândola,Online,174.75
+609,Noa Fonseca,32,F,Montijo,Online,783.94
+610,Mélanie Pinheiro,57,F,Mogadouro,Física,262.01
+611,Marta Coelho,65,F,São Brás de Alportel,Online,410.75
+612,Violeta Esteves,31,F,Funchal,Online,531.28
+613,Lisandro Batista,43,F,Vila Viçosa,Online,317.5
+614,Mélanie Neves,62,M,Coimbra,Física,823.78
+615,Renata Barbosa,68,M,Alcochete,Online,518.44
+616,Yara Campos-Alves,39,M,Monchique,Física,455.83
+617,Luna do Araújo,39,M,Baião,Física,485.65
+618,Soraia Henriques-Cruz,43,F,Lajes do Pico,Online,507.17
+619,Victória Faria,62,F,Portimão,Online,393.07
+620,Pedro Cruz-Ribeiro,65,F,Redondo,Online,328.38
+621,Mateus Henriques,63,M,Vale de Cambra,Online,932.17
+622,Patrícia Pires,52,M,Valongo,Física,417.4
+623,Emma Ferreira,26,F,Oliveira de Azeméis,Física,299.69
+624,Núria-Júlia Assunção,69,F,Vila do Porto,Online,568.55
+625,Diogo Ramos,33,M,Almada,Física,405.54
+626,Filipe do Fernandes,43,M,S. Pedro do Sul,Física,276.19
+627,Madalena-Beatriz Barros,54,F,Faro,Online,571.52
+628,Pedro Borges,61,F,Horta,Física,800.97
+629,Joel Henriques,25,M,Cascais,Online,960.05
+630,Joana Antunes,49,M,Alcoutim,Online,847.06
+631,Alícia Matos,24,M,Vila do Bispo,Online,376.47
+632,Luana Barbosa,60,F,Santa Cruz da Graciosa,Online,241.33
+633,Marta Tavares,53,F,Castro Verde,Online,495.12
+634,Erika Nogueira,55,F,Angra do Heroísmo,Física,577.99
+635,Vitória Fonseca,52,M,Santa Cruz da Graciosa,Física,925.17
+636,Rúben do Gaspar,39,F,Leiria,Física,746.13
+637,Tiago Miranda,62,M,Ovar,Online,748.1
+638,António Assunção,29,F,Angra do Heroísmo,Online,681.8
+639,Valentim Teixeira,33,F,Odivelas,Física,268.13
+640,Bianca Santos,20,F,Vendas Novas,Física,252.97
+641,Diana de Pinheiro,29,M,Reguengos de Monsaraz,Online,729.49
+642,Anita Freitas,55,M,Vila Real,Online,954.49
+643,Caetana Faria,23,M,Moura,Online,245.75
+644,Leonor do Pacheco,60,M,Guimarães,Física,258.28
+645,Lorena Ramos,51,F,Aveiro,Física,633.46
+646,Luciana Brito,41,M,Ílhavo,Online,486.0
+647,Fabiana Guerreiro,28,F,Lagos,Física,384.87
+648,Wilson Moura,37,M,Sines,Física,726.41
+649,Nicole Figueiredo,46,F,São Brás de Alportel,Online,469.66
+650,Carolina Gaspar,38,F,Celorico de Basto,Online,930.3
+651,Melissa Amaral,35,M,Sobral de Monte Agraço,Online,635.71
+652,Júlia Pacheco,66,M,Gouveia,Física,924.49
+653,Maria Rodrigues-Brito,37,M,Moimenta da Beira,Física,843.79
+654,Vasco Jesus,54,F,Tavira,Física,259.09
+655,Rúben Soares,24,F,Évora,Física,549.38
+656,Álvaro Baptista,64,M,Santa Cruz da Graciosa,Física,427.56
+657,Frederico Nunes,68,F,Valença,Física,908.13
+658,Tiago Machado,35,F,Castro Marim,Física,361.83
+659,Vitória do Pacheco,36,M,Vila do Porto,Online,876.16
+660,Vasco Gomes,51,M,Vila Franca do Campo,Física,150.3
+661,Salvador Loureiro-Carneiro,20,F,Ponta Delgada,Física,624.69
+662,Fábio Lourenço,20,M,Vila do Conde,Online,437.61
+663,Lara Rodrigues,62,M,Oliveira de Azeméis,Online,344.37
+664,Tiago Vieira,27,F,Castro Marim,Online,525.02
+665,Salvador Santos,22,M,Penacova,Online,900.1
+666,Madalena Figueiredo,70,F,Sobral de Monte Agraço,Online,654.77
+667,Joaquim Leal,34,F,Olhão,Física,254.47
+668,Tomás Moreira,24,M,Portimão,Física,148.79
+669,Ema Castro,26,F,Montijo,Online,826.75
+670,Tatiana Paiva,30,M,Vila Real de Santo António,Física,608.37
+671,Kelly do Assunção,57,F,Moita,Física,556.62
+672,Samuel Pinho-Anjos,38,F,Vidigueira,Física,217.37
+673,Isabela Domingues,27,M,Ponte da Barca,Física,468.67
+674,Mário Guerreiro,58,M,Cuba,Física,937.0
+675,Victória-Luciana Vicente,39,M,Angra do Heroísmo,Física,960.54
+676,Clara-Caetana Domingues,46,M,Celorico de Basto,Física,345.5
+677,Simão Cunha,21,M,Póvoa de Varzim,Online,136.92
+678,Anita Figueiredo,37,M,Lagos,Física,989.52
+679,Daniel da Borges,56,F,Serpa,Física,560.21
+680,Kévim Soares,23,F,Guarda,Física,209.11
+681,Artur Gomes,48,M,Aveiro,Física,620.47
+682,Salomé-Caetana Branco,51,F,Ponta Delgada,Online,731.45
+683,Simão Lima-Campos,21,M,Albergaria-a-Velha,Online,432.99
+684,Luca Ramos,43,F,Vila do Conde,Online,386.54
+685,Raquel-Salomé Vicente,38,M,Moura,Física,556.41
+686,Débora Neto,20,M,Arruda dos Vinhos,Online,584.57
+687,Wilson Freitas,50,M,Aljezur,Online,758.65
+688,André Azevedo,52,M,São Brás de Alportel,Física,567.07
+689,Kelly Soares,47,F,Mogadouro,Física,971.4
+690,Emanuel Teixeira,43,M,Machico,Física,574.94
+691,Pilar Pinheiro,53,M,Alcochete,Física,538.78
+692,Petra-Adriana Tavares,32,M,Faro,Física,445.67
+693,Nair Jesus,27,F,Azambuja,Física,567.85
+694,Maria Baptista,56,F,Portel,Física,278.72
+695,Artur Brito,21,F,Penalva do Castelo,Física,797.29
+696,Leonor Loureiro,34,M,Amadora,Online,177.19
+697,Nicole Pinto-Maia,33,M,Machico,Online,735.89
+698,Carlos Vieira,59,F,Almeirim,Física,308.48
+699,Gil de Moura,40,F,Machico,Online,574.44
+700,Ângela Assunção,45,M,Alenquer,Online,986.3
+701,Luciana Guerreiro,33,M,Albufeira,Online,968.18
+702,Lia da Moreira,70,F,Lajes das Flores,Física,886.76
+703,Álvaro Marques,29,F,Valongo,Online,883.84
+704,Vitória Cruz-Teixeira,32,F,Estremoz,Física,683.62
+705,Gabriel Ribeiro,30,M,Odemira,Online,424.22
+706,Isabela Pinho,23,M,Arruda dos Vinhos,Física,827.26
+707,Lorena Antunes,70,M,Velas,Física,289.73
+708,Cláudio Leite,64,M,Horta,Física,928.3
+709,Naiara-Emília Rodrigues,59,F,Barcelos,Online,715.15
+710,Clara Henriques,44,M,Vidigueira,Física,903.96
+711,Henrique Melo,30,F,Cadaval,Física,268.16
+712,Mário Gomes,70,M,Penela,Online,353.1
+713,Emanuel Neto,48,F,Ovar,Física,750.93
+714,Kelly-Naiara Coelho,30,M,Póvoa de Lanhoso,Online,271.99
+715,Adriana Pinto,42,M,Gondomar,Física,436.06
+716,Lia Magalhães,54,F,Montijo,Física,903.85
+717,Xavier Amorim,30,M,Benavente,Física,140.83
+718,Isabela da Esteves,34,F,Vila do Porto,Física,882.76
+719,Alice Nunes,22,M,Mira,Online,907.84
+720,Bárbara Vicente,23,M,Aljustrel,Online,395.86
+721,Diego Matias,34,M,Viseu,Física,662.27
+722,Nelson Abreu,44,M,Terras de Bouro,Física,846.19
+723,Andreia Leite,51,F,Lamego,Física,330.41
+724,Bernardo Henriques,18,M,Santa Cruz das Flores,Física,681.12
+725,Luana Lourenço,48,M,Olhão,Online,680.79
+726,Erika Morais,68,M,Lajes do Pico,Online,779.35
+727,Íris Maia-Santos,54,F,Santa Cruz das Flores,Online,883.89
+728,Catarina do Pacheco,59,F,Vendas Novas,Online,869.91
+729,Luana Ribeiro,39,M,Oliveira do Hospital,Física,804.24
+730,Mafalda-Alexandra Neves,50,F,Faro,Online,962.27
+731,Pedro da Lourenço,58,M,Serpa,Física,813.41
+732,Inês de Amorim,19,F,Lagos,Online,320.43
+733,Débora Abreu,22,M,Ourém,Física,775.84
+734,Rafael Martins,59,M,Lourinhã,Física,965.57
+735,Mafalda Cardoso,37,M,Vila do Porto,Online,623.38
+736,Guilherme Gomes,64,F,Lajes do Pico,Online,945.31
+737,Tomé do Pinho,62,M,Ribeira Grande,Física,218.35
+738,Madalena Leal,69,F,Oliveira do Hospital,Física,757.57
+739,Mia Morais,22,F,Covilhã,Física,134.6
+740,Ângelo Miranda,27,F,Mangualde,Online,610.89
+741,Nelson Henriques,58,F,Montijo,Online,806.71
+742,Jaime Rocha-Araújo,61,F,Sousel,Online,873.49
+743,Sandro Reis,57,M,Cuba,Online,645.43
+744,Santiago Melo,47,M,Reguengos de Monsaraz,Online,792.94
+745,Jorge Moura,46,M,Vila Verde,Física,122.71
+746,Juliana Miranda-Campos,38,M,Valongo,Online,899.1
+747,Pilar Batista,67,M,Mealhada,Online,727.67
+748,Flor Oliveira,45,F,Montijo,Online,249.44
+749,Melissa Figueiredo,40,F,Ponta Delgada,Online,897.2
+750,Mariana Leal,24,M,Figueiró dos Vinhos,Física,507.44
+751,Nicole Ferreira,62,M,Lagos,Física,656.92
+752,Eduarda Martins,27,F,Machico,Física,527.57
+753,Manuel Neves,30,F,Lagoa,Física,371.81
+754,Helena Brito-Costa,54,F,Castelo Branco,Online,312.05
+755,Jorge Faria,35,F,Olhão,Física,409.87
+756,Victória Gonçalves,39,F,Almodôvar,Física,366.82
+757,Erica Nogueira,21,M,Barreiro,Online,547.66
+758,Luca Melo,35,F,Porto de Mós,Online,263.33
+759,Vera Pinho,57,F,Aljezur,Online,372.35
+760,Clara Neves,31,M,Angra do Heroísmo,Física,434.4
+761,Renata Ramos,40,M,Braga,Online,357.0
+762,Filipe Lima,37,F,Mafra,Física,166.74
+763,Raquel Coelho,38,F,Sousel,Online,812.6
+764,Inês Melo,29,F,Ponte de Sor,Online,762.38
+765,Luna Martins,32,F,Ovar,Física,929.62
+766,Sérgio Baptista,69,M,Velas,Online,890.48
+767,Renata do Vaz,20,F,Velas,Online,477.49
+768,Ismael Henriques,50,M,Amarante,Física,794.91
+769,Vicente Pinheiro-Cardoso,68,F,Penamacor,Online,239.39
+770,Maria Miranda,28,M,Alcochete,Física,172.49
+771,Laura Cunha,67,M,Faro,Física,998.32
+772,Inês Azevedo,57,F,Funchal,Online,589.75
+773,Emília Monteiro,27,F,Mangualde,Online,393.74
+774,Ismael de Sousa,28,F,Mértola,Online,299.02
+775,Wilson Lourenço-Soares,42,F,Guarda,Física,263.64
+776,Júlia-Adriana Correia,62,F,Vidigueira,Online,661.8
+777,Márcio Fonseca,26,M,Faro,Física,272.54
+778,Matilde Vicente,19,F,Vila Franca de Xira,Física,157.88
+779,Bárbara Andrade,60,F,Beja,Física,382.49
+780,Micael Maia-Carneiro,34,M,Castro Marim,Online,555.54
+781,Benjamim Silva,52,F,Lisboa,Online,835.05
+782,Jaime Soares,44,F,Angra do Heroísmo,Física,542.7
+783,Artur Fonseca,22,M,Portimão,Física,715.32
+784,Andreia Faria,26,M,Sines,Física,595.22
+785,Raquel Paiva,45,M,Moita,Online,990.68
+786,Teresa Carneiro,46,M,Figueira da Foz,Física,644.87
+787,Vitória Silva,27,M,Fafe,Física,729.35
+788,Tiago Santos,58,M,Lagos,Física,523.65
+789,Alice Pereira,27,M,Almada,Física,495.85
+790,Alexandre Almeida,19,F,Espinho,Física,963.48
+791,Emília Barros,46,F,Évora,Física,832.72
+792,Luca Vicente,30,M,Marco de Canaveses,Online,675.29
+793,Emanuel Torres,32,F,Bragança,Online,416.14
+794,Eduardo Carvalho,65,M,Guarda,Física,920.25
+795,Frederico Matos,65,F,Olhão,Online,328.41
+796,Afonso da Pereira,59,F,Ponta Delgada,Online,566.03
+797,Vicente Silva,19,M,Vila Franca do Campo,Física,295.62
+798,Mara da Borges,61,F,Barcelos,Online,616.67
+799,Ivo do Carneiro,50,M,Paredes,Física,107.53
+800,Francisco Fonseca,24,M,Mortágua,Física,798.52
+801,Renato Baptista,46,M,Monchique,Física,441.76
+802,Diana Leal,63,F,Machico,Online,853.6
+803,Clara Esteves,41,M,Braga,Online,205.83
+804,Érica-Ângela Vieira,29,F,Almeirim,Física,599.73
+805,Rodrigo do Reis,27,F,Caminha,Física,780.03
+806,Madalena Freitas,36,M,Odivelas,Online,359.99
+807,Anita-Íris Matias,61,F,Beja,Física,955.5
+808,Helena Matias,42,F,Santa Cruz das Flores,Física,963.85
+809,Luana do Jesus,60,M,Vila do Porto,Online,242.33
+810,Fábio Ramos,60,F,Vila Real de Santo António,Física,651.81
+811,Dinis de Neves,26,F,Loulé,Física,324.95
+812,Yara Antunes,69,M,Castelo Branco,Online,121.45
+813,Pilar Amaral,19,M,Sines,Online,525.66
+814,Flor Cruz,62,M,Santa Cruz das Flores,Física,268.81
+815,Cristiano Lima,38,F,Arcos de Valdevez,Online,932.02
+816,Camila da Machado,44,F,Santa Cruz das Flores,Online,278.41
+817,Pedro Valente-Magalhães,26,M,Gondomar,Online,468.36
+818,Diego Branco,29,F,Portel,Online,580.63
+819,Rodrigo Henriques-Loureiro,64,M,Oliveira de Azeméis,Online,904.0
+820,Emanuel Nunes,46,F,Almada,Física,728.31
+821,Débora Teixeira,67,M,Lagos,Física,548.57
+822,Enzo Soares-Simões,65,M,Mafra,Física,113.07
+823,Nair Pinto,34,M,Santa Cruz das Flores,Online,578.16
+824,Kévim Carneiro,18,M,Faro,Física,750.84
+825,Alexandra-Nicole Rodrigues,66,F,Vila Real,Online,755.2
+826,Daniela Mendes,53,M,Castro Marim,Online,627.85
+827,Jorge Mota,33,M,Palmela,Online,490.85
+828,Érica Teixeira,44,M,Silves,Física,274.71
+829,Vítor Ribeiro,48,F,Alenquer,Online,133.2
+830,Kelly Guerreiro,40,F,Portimão,Online,600.45
+831,Cristiano Barbosa,40,F,Covilhã,Física,529.31
+832,Vasco Cardoso,63,F,Mértola,Online,555.32
+833,Diana da Nunes,48,M,Arcos de Valdevez,Online,354.91
+834,Mariana de Assunção,47,F,Vila Viçosa,Online,374.27
+835,Fernando Miranda,68,F,Braga,Online,349.29
+836,Renato Pereira-Vaz,60,M,Arraiolos,Online,456.75
+837,Soraia Neves,26,M,Reguengos de Monsaraz,Física,168.02
+838,Juliana Martins,48,F,Vizela,Física,419.77
+839,Laura Campos,29,F,Alcobaça,Online,671.7
+840,Tatiana Lourenço,45,F,Pedrógão Grande,Online,889.6
+841,André Sousa,51,M,Vila Verde,Física,218.23
+842,Mia Carneiro,42,M,Sines,Online,619.09
+843,Beatriz Anjos,51,M,Vila do Corvo,Física,765.04
+844,Bruna Figueiredo,51,M,Palmela,Online,437.13
+845,Laura Abreu,21,M,Lousã,Física,326.26
+846,Vera Tavares,67,F,Silves,Online,627.09
+847,Jaime Oliveira,25,M,Baião,Online,176.35
+848,Enzo Leal,39,M,Oliveira do Bairro,Física,626.44
+849,Maria Correia-Lima,23,F,Bombarral,Física,737.05
+850,Joel Ferreira-Jesus,23,F,Castanheira de Pêra,Online,392.75
+851,Marta Marques,18,F,Redondo,Física,482.03
+852,Igor Esteves,59,M,Alcoutim,Online,917.37
+853,Rafaela Sousa,27,F,Arruda dos Vinhos,Física,512.25
+854,Ana Gomes,42,F,Barreiro,Online,307.72
+855,Daniela Gomes,36,M,Tavira,Física,540.89
+856,Vicente Castro,50,M,Arruda dos Vinhos,Online,120.43
+857,Ismael Castro,33,F,Arruda dos Vinhos,Física,706.21
+858,Eduardo Cruz,32,M,Alcochete,Física,128.56
+859,Matias Barros-Pinho,24,F,Albergaria-a-Velha,Online,705.14
+860,Leonardo do Rodrigues,38,F,Vieira do Minho,Física,783.31
+861,Micael do Matias,40,F,Lajes do Pico,Online,614.45
+862,Juliana Gaspar,53,M,Santa Cruz da Graciosa,Física,347.57
+863,Simão Pinho,54,F,Alenquer,Física,796.71
+864,Diana Pinho,25,M,Óbidos,Física,670.08
+865,André Fernandes,22,M,Vila Real de Santo António,Física,466.25
+866,Rúben Leal,21,M,Amadora,Online,492.01
+867,Valentina Moura-Carvalho,57,F,Chamusca,Física,327.07
+868,Santiago Monteiro,57,M,Alenquer,Física,315.15
+869,Enzo Miranda,34,F,Monchique,Física,984.61
+870,Rodrigo da Moreira,66,F,Santa Cruz das Flores,Física,264.24
+871,Adriana Cardoso,35,M,Moura,Física,275.33
+872,Joana Batista-Faria,64,F,Trofa,Física,736.06
+873,Fernando Pinto,42,F,Trancoso,Física,739.1
+874,Hugo Vieira,21,F,Sesimbra,Online,698.47
+875,Hugo Lopes,55,M,Alcoutim,Online,661.92
+876,Vera Correia,22,M,Penacova,Física,436.5
+877,Tiago Gomes,30,M,Alcochete,Online,384.0
+878,Leonor-Núria Domingues,26,M,Penamacor,Online,110.96
+879,Márcio Sousa-Cruz,63,M,Bombarral,Online,387.4
+880,Marta Nogueira,25,F,Olhão,Online,297.75
+881,Bianca Costa,36,M,Vila Viçosa,Física,127.79
+882,Leandro Domingues,19,F,Arruda dos Vinhos,Física,649.61
+883,Núria Cruz,18,M,Murtosa,Online,449.01
+884,Tomé Santos,56,F,Leiria,Online,723.81
+885,António da Pereira,48,M,Gondomar,Física,550.32
+886,Nelson Castro,31,M,Ponte de Lima,Física,226.43
+887,Kévim Batista,62,M,Velas,Online,497.68
+888,Isabela Monteiro,25,F,Nazaré,Física,104.86
+889,Núria Faria-Barbosa,18,M,Oeiras,Online,965.31
+890,Camila de Neves,28,M,Barcelos,Física,871.69
+891,Bárbara do Vaz,38,M,Vendas Novas,Online,337.45
+892,Denis Carvalho,66,F,Arruda dos Vinhos,Online,313.41
+893,Débora-Alexandra Neto,62,M,Ponte de Lima,Física,457.64
+894,Noa Pinheiro,32,M,Vila do Porto,Física,122.13
+895,Mafalda Vicente,37,M,Vidigueira,Física,214.41
+896,Joaquim Araújo,27,M,Vila do Bispo,Online,573.77
+897,Kevin Coelho,33,F,Pedrógão Grande,Online,873.6
+898,Jéssica Campos-Pinho,67,M,Lajes das Flores,Online,286.34
+899,Tomé Silva,54,M,São Brás de Alportel,Física,516.82
+900,Álvaro Moura,54,F,Vendas Novas,Online,206.34
+901,Alexandre da Gaspar,46,M,Faro,Online,373.23
+902,Madalena Vaz-Fernandes,23,M,Ribeira Grande,Online,869.22
+903,Leonor-Mafalda Brito,66,M,Castro Marim,Física,620.39
+904,Andreia Cruz,46,F,Portimão,Online,609.08
+905,Isabela Monteiro,51,F,Faro,Física,429.85
+906,Pilar Nunes,19,F,Vila Real de Santo António,Física,221.04
+907,Gabriel Fonseca,39,M,Odivelas,Física,615.61
+908,Noa Garcia,30,F,Vila do Conde,Física,301.71
+909,Isaac Machado,50,F,Sines,Física,404.34
+910,Kévim da Antunes,29,M,Vizela,Online,290.65
+911,Carlos Neves,57,F,Cadaval,Física,405.05
+912,Luna Domingues,18,M,Aljezur,Online,166.32
+913,Wilson Loureiro,65,M,Arouca,Física,756.32
+914,Carlos Nunes,26,F,Oliveira do Hospital,Física,512.25
+915,Cláudio Correia,27,F,Ferreira do Alentejo,Online,697.22
+916,Bianca Cruz,32,F,Tavira,Física,163.83
+917,Joel Campos,59,F,Loulé,Online,268.83
+918,Brian Nogueira,25,M,Monchique,Física,597.14
+919,Luís Teixeira,62,F,Oliveira do Hospital,Online,588.59
+920,Diego Brito,19,F,Esposende,Física,368.64
+921,Dinis Borges,20,F,Oliveira do Hospital,Física,877.02
+922,Alícia-Margarida Mota,49,F,Mealhada,Física,631.73
+923,Vitória Amorim,26,M,Vidigueira,Física,745.68
+924,Adriana Miranda,23,F,Grândola,Online,387.38
+925,Nair Leal-Machado,66,F,Ponte de Lima,Online,130.91
+926,Mariana Almeida,31,M,Mondim de Basto,Física,347.75
+927,Lia Andrade,65,M,Vila Nova de Famalicão,Física,946.77
+928,Caetana Lourenço,43,F,Nelas,Online,526.01
+929,Yara Cardoso,30,F,Vila Viçosa,Física,207.52
+930,Lucas Cunha,28,F,Almada,Online,282.39
+931,Mia Cruz,29,F,Tavira,Online,199.0
+932,Gil Machado,60,F,Faro,Física,607.94
+933,Xavier Pinheiro,33,M,Santa Cruz das Flores,Online,578.6
+934,Carlos Nascimento,69,F,Vila do Corvo,Online,103.71
+935,Júlia do Jesus,56,M,Sines,Online,477.66
+936,Carolina Baptista,46,F,Montemor-o-Novo,Online,106.28
+937,Rita-Yara Carvalho,27,F,Barcelos,Online,981.17
+938,Marcos Figueiredo,21,F,Vila do Conde,Física,196.49
+939,Wilson Branco,37,M,Espinho,Online,702.19
+940,Catarina Abreu,55,F,Aljezur,Online,371.61
+941,Isabel Valente,51,M,Vagos,Física,782.31
+942,Rui Almeida,25,M,Ansião,Online,579.43
+943,Tomé Almeida,22,M,Benavente,Física,153.92
+944,Ângelo Magalhães,62,F,Lagos,Online,131.97
+945,Manuel Baptista,48,F,Moura,Online,705.39
+946,Martim Cunha,20,F,Sesimbra,Online,968.0
+947,Vitória da Tavares,62,M,Guimarães,Online,698.75
+948,Daniel Garcia,20,F,Soure,Online,557.9
+949,Miriam Antunes-Marques,24,F,Faro,Online,571.9
+950,Lorena Cunha,48,M,Portalegre,Online,300.28
+951,Isaac Borges-Teixeira,46,M,Terras de Bouro,Online,465.86
+952,Fabiana Figueiredo-Fonseca,19,F,Horta,Online,518.5
+953,Yasmin de Pinho,48,M,Velas,Física,723.08
+954,Emília Fonseca,45,F,Fafe,Online,425.85
+955,Francisca Amaral,21,F,Arruda dos Vinhos,Física,160.19
+956,Ângela Gaspar,49,F,Penamacor,Online,816.49
+957,Mia Paiva,42,F,Machico,Física,953.43
+958,Artur Monteiro,32,F,Loulé,Física,133.73
+959,Miguel Amaral,54,M,Paredes,Física,827.43
+960,Cláudio Reis,70,M,Velas,Online,396.37
+961,Leonor Carvalho-Amorim,46,F,Velas,Física,477.86
+962,Benedita Neves-Neves,44,M,Angra do Heroísmo,Online,500.68
+963,Tiago de Anjos,60,M,Cadaval,Física,594.66
+964,Leandro Fonseca,33,F,Lamego,Online,402.11
+965,Teresa Anjos,23,M,Praia da Vitória,Física,208.97
+966,Ana Cunha-Nascimento,67,M,Bragança,Física,920.34
+967,Ricardo Maia,69,M,Azambuja,Física,745.07
+968,Daniela Matias,46,F,Portalegre,Online,710.51
+969,Luca do Lima,23,F,Vila do Conde,Online,458.66
+970,Ângelo Ramos-Castro,18,M,Loulé,Física,877.33
+971,Miguel Mendes,27,M,Santa Cruz das Flores,Online,393.38
+972,Iara Costa-Morais,22,M,Aveiro,Online,805.99
+973,Luana Gaspar,42,F,Velas,Online,990.51
+974,David Moreira,56,F,Vila Real de Santo António,Online,122.97
+975,Ana Pinto,26,F,Vila do Porto,Online,253.71
+976,Beatriz Neto,44,F,Tavira,Física,952.78
+977,Noah Morais,29,F,Velas,Online,692.2
+978,Cristiano Moura,59,F,Vidigueira,Online,560.05
+979,Teresa Reis,47,M,Mora,Física,341.1
+980,Inês Barbosa,21,F,Viana do Alentejo,Online,713.28
+981,Rúben de Henriques,44,F,Pedrógão Grande,Online,288.16
+982,Tatiana Pinto,51,M,Penafiel,Online,175.48
+983,Salvador Vaz,27,F,Santa Cruz das Flores,Física,903.3
+984,Tatiana Santos,18,F,Vila do Porto,Online,655.75
+985,Jéssica Soares,25,F,Montalegre,Online,718.11
+986,Juliana Matias-Freitas,44,M,Évora,Física,813.31
+987,Bernardo Machado,43,F,Ílhavo,Online,815.66
+988,Rúben da Fernandes,26,F,Cuba,Física,668.24
+989,Soraia Valente-Paiva,51,M,Vila Real,Online,867.68
+990,Mário Lourenço,37,M,Almada,Online,584.43
+991,Xavier Simões,28,M,Leiria,Física,493.08
+992,Lucas Amorim-Fonseca,24,F,Monção,Física,629.44
+993,Kevin Abreu,20,M,Torres Vedras,Online,485.2
+994,Júlia Lourenço,25,M,Sousel,Física,229.65
+995,José Rodrigues,20,M,Cadaval,Física,746.56
+996,Gabriela Henriques,26,M,Seixal,Online,256.93
+997,Bianca Nunes-Costa,31,M,Trofa,Física,210.48
+998,Bruna Pires,28,F,Baião,Física,127.52
+999,Gabriel Nunes-Amaral,70,F,Gouveia,Online,608.31
+1000,Lúcia Carneiro-Pinho,40,M,Albergaria-a-Velha,Online,229.85
